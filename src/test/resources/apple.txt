@@ -1,0 +1,201 @@
+[M68AP] iPhone  :
+A1203: iPhone
+[N82AP] iPhone 3G  :
+A1241: iPhone 3G
+A1324: iPhone 3G
+[N88AP] iPhone 3GS  :
+A1303: iPhone 3GS
+A1325: iPhone 3GS
+[N90AP] iPhone 4  :
+A1332: iPhone 4
+[N90BAP] iPhone 4  :
+A1332: iPhone 4
+[N92AP] iPhone 4  :
+A1349: iPhone 4
+[N94AP] iPhone 4S  :
+A1431: iPhone 4S
+A1387: iPhone 4S
+[N41AP] iPhone 5  :
+A1428: iPhone 5
+[N42AP] iPhone 5  :
+A1429: iPhone 5
+A1442: iPhone 5
+[N51AP] iPhone 5s  :
+A1453: iPhone 5s
+A1533: iPhone 5s
+[N53AP] iPhone 5s  :
+A1457: iPhone 5s
+A1518: iPhone 5s
+A1528: iPhone 5s
+A1530: iPhone 5s
+[N48AP] iPhone 5c  :
+A1456: iPhone 5c
+A1532: iPhone 5c
+[N49AP] iPhone 5c  :
+A1507: iPhone 5c
+A1516: iPhone 5c
+A1526: iPhone 5c
+A1529: iPhone 5c
+[N61AP] iPhone 6  :
+A1549: iPhone 6
+A1586: iPhone 6
+A1589: iPhone 6
+[N56AP] iPhone 6 Plus  :
+A1522: iPhone 6 Plus
+A1524: iPhone 6 Plus
+A1593: iPhone 6 Plus
+[N71AP] iPhone 6s  :
+A1633 A1688: iPhone 6s
+A1700: iPhone 6s
+A1691: iPhone 6s
+[N66AP] iPhone 6s Plus  :
+A1634 A1687: iPhone 6s Plus
+A1699: iPhone 6s Plus
+A1690: iPhone 6s Plus
+[N69AP] iPhone SE  :
+A1662: iPhone SE
+A1723: iPhone SE
+A1724: iPhone SE
+[D10AP] iPhone 7  :
+A1660: iPhone 7
+A1779: iPhone 7
+A1780: iPhone 7
+[D101AP] iPhone 7  :
+A1778: iPhone 7
+[D11AP] iPhone 7 Plus  :
+A1661: iPhone 7 Plus
+A1785: iPhone 7 Plus
+A1786: iPhone 7 Plus
+[D111AP] iPhone 7 Plus  :
+A1784: iPhone 7 Plus
+[D20AP] iPhone 8  :
+A1863: iPhone 8
+A1906: iPhone 8
+A1907: iPhone 8
+[D201AP] iPhone 8  :
+A1905: iPhone 8
+[D21AP] iPhone 8 Plus  :
+A1864: iPhone 8 Plus
+A1898: iPhone 8 Plus
+A1899: iPhone 8 Plus
+[D211AP] iPhone 8 Plus  :
+A1897: iPhone 8 Plus
+[D22AP] iPhone X  :
+A1865: iPhone X
+A1902: iPhone X
+A1903: iPhone X
+[D221AP] iPhone X  :
+A1901: iPhone X
+[D321AP] iPhone XS  :
+A1920: iPhone XS
+A2097: iPhone XS
+A2098: iPhone XS
+A2100: iPhone XS
+A2099: iPhone XS
+[D331AP] iPhone XS Max  :
+A2104: iPhone XS Max
+A2103: iPhone XS Max
+[D331pAP] iPhone XS Max  :
+A1921: iPhone XS Max
+A2101: iPhone XS Max
+A2102: iPhone XS Max
+[N841AP] iPhone XR  :
+A1984: iPhone XR
+A2105: iPhone XR
+A2106: iPhone XR
+A2108: iPhone XR
+A2107: iPhone XR
+[N104AP] iPhone 11  :
+A2111: iPhone 11
+A2223: iPhone 11
+A2222: iPhone 11
+A2221: iPhone 11
+[D421AP] iPhone 11 Pro  :
+A2160: iPhone 11 Pro
+A2217: iPhone 11 Pro
+A2216: iPhone 11 Pro
+A2215: iPhone 11 Pro
+[D431AP] iPhone 11 Pro Max  :
+A2161: iPhone 11 Pro Max
+A2220: iPhone 11 Pro Max
+A2219: iPhone 11 Pro Max
+A2218: iPhone 11 Pro Max
+[D79AP] iPhone SE  :
+A2275: iPhone SE
+A2298: iPhone SE
+A2297: iPhone SE
+A2296: iPhone SE
+[D52gAP] iPhone 12 mini  :
+A2176: iPhone 12 mini
+A2398: iPhone 12 mini
+A2400: iPhone 12 mini
+A2399: iPhone 12 mini
+[D53gAP] iPhone 12  :
+A2172: iPhone 12
+A2402: iPhone 12
+A2404: iPhone 12
+A2403: iPhone 12
+[D53pAP] iPhone 12 Pro  :
+A2341: iPhone 12 Pro
+A2406: iPhone 12 Pro
+A2408: iPhone 12 Pro
+A2407: iPhone 12 Pro
+[D54pAP] iPhone 12 Pro Max  :
+A2342: iPhone 12 Pro Max
+A2410: iPhone 12 Pro Max
+A2412: iPhone 12 Pro Max
+A2411: iPhone 12 Pro Max
+[D16AP] iPhone 13 mini  :
+A2481: iPhone 13 mini
+A2626: iPhone 13 mini
+A2629: iPhone 13 mini
+A2630: iPhone 13 mini
+A2628: iPhone 13 mini
+[D17AP] iPhone 13  :
+A2482: iPhone 13
+A2631: iPhone 13
+A2634: iPhone 13
+A2635: iPhone 13
+A2633: iPhone 13
+[D63AP] iPhone 13 Pro  :
+A2483: iPhone 13 Pro
+A2636: iPhone 13 Pro
+A2639: iPhone 13 Pro
+A2640: iPhone 13 Pro
+A2638: iPhone 13 Pro
+[D64AP] iPhone 13 Pro Max  :
+A2484: iPhone 13 Pro Max
+A2641: iPhone 13 Pro Max
+A2644: iPhone 13 Pro Max
+A2645: iPhone 13 Pro Max
+A2643: iPhone 13 Pro Max
+[D49AP] iPhone SE  :
+A2595: iPhone SE
+A2782: iPhone SE
+A2784: iPhone SE
+A2785: iPhone SE
+A2783: iPhone SE
+[D27AP] iPhone 14  :
+A2649: iPhone 14
+A2881: iPhone 14
+A2883: iPhone 14
+A2884: iPhone 14
+A2882: iPhone 14
+[D28AP] iPhone 14 Plus  :
+A2632: iPhone 14 Plus
+A2885: iPhone 14 Plus
+A2887: iPhone 14 Plus
+A2888: iPhone 14 Plus
+A2886: iPhone 14 Plus
+[D73AP] iPhone 14 Pro  :
+A2650: iPhone 14 Pro
+A2889: iPhone 14 Pro
+A2891: iPhone 14 Pro
+A2892: iPhone 14 Pro
+A2890: iPhone 14 Pro
+[D74AP] iPhone 14 Pro Max  :
+A2651: iPhone 14 Pro Max
+A2893: iPhone 14 Pro Max
+A2895: iPhone 14 Pro Max
+A2896: iPhone 14 Pro Max
+A2894: iPhone 14 Pro Max

@@ -1,0 +1,3278 @@
+HUAWEI ALE-TL00,,Huawei,,华为 P8,,Phone,,5.5
+M2103K19PG,,Xiaomi,,POCO M3 Pro,,Phone,,5.5
+M2103K19PI,,Xiaomi,,POCO M3 Pro,,Phone,,5.5
+A2651,,Apple,,iPhone 14 Pro Max,,Phone,,5.5
+A2650,,Apple,,iPhone 14 Pro,,Phone,,5.5
+A1325,,Apple,,iPhone 3GS,,Phone,,5.5
+A1324,,Apple,,iPhone 3G,,Phone,,5.5
+RMX1973,,Realme,,realme 5 Pro,,Phone,,5.5
+PCLM50,,Oppo,,OPPO Reno3 元气版,,Phone,,5.5
+2015213,,Xiaomi,,小米 Note 2,,Phone,,5.5
+2015212,,Xiaomi,,小米 Note 2,,Phone,,5.5
+Boh-WAP9HNL,,Honor,,荣耀 MagicBook 15,,PC,,5.5
+2015211,,Xiaomi,,小米 Note 2,,Phone,,5.5
+Boh-WAP9HNR,,Honor,,荣耀 MagicBook 15,,PC,,5.5
+HUAWEI CRR-CL20,,Huawei,,HUAWEI Mate S,,Phone,,5.5
+A1319,,Apple,,iPod touch,,Phone,,5.5
+A2649,,Apple,,iPhone 14,,Phone,,5.5
+A1318,,Apple,,iPod touch,,Phone,,5.5
+PFGM00,,Oppo,,OPPO A93s,,Phone,,5.5
+A2641,,Apple,,iPhone 13 Pro Max,,Phone,,5.5
+A2640,,Apple,,iPhone 13 Pro,,Phone,,5.5
+PLK-CL00,,Honor,,荣耀 7,,Phone,,5.5
+RMX1993,,Realme,,realme X2,,Phone,,5.5
+PDYM20,,Oppo,,OPPO A72,,Phone,,5.5
+A2645,,Apple,,iPhone 13 Pro Max,,Phone,,5.5
+RMX1992,,Realme,,realme X2,,Phone,,5.5
+A2644,,Apple,,iPhone 13 Pro Max,,Phone,,5.5
+RMX1991,,Realme,,realme X2,,Phone,,5.5
+A2643,,Apple,,iPhone 13 Pro Max,,Phone,,5.5
+PGIM10,,OPPO,,OPPO K10 Pro,,Phone,,5.5
+SM-G9600/DS,,Samsung,,Galaxy S9,,Phone,,5.5
+L65M5-4,,Mitv,,小米电视 4,,TV,,5.5
+L55M8-SP,,Xiaomi,,小米电子水牌 55 英寸,,TV,,5.5
+2015201,,Xiaomi,,小米 5,,Phone,,5.5
+HUAWEI MLA-TL00,,Huawei,,HUAWEI G9 Plus,,Phone,,5.5
+WKG-AN00,,Huawei,,华为畅享 20,,Phone,,5.5
+A1349,,Apple,,iPhone 4,,Phone,,5.5
+PEPM00,,Oppo,,OPPO Reno6 Pro,,Phone,,5.5
+L60M4-AA,,Mitv,,小米电视 3,,TV,,5.5
+PDYM10,,Oppo,,OPPO A72n,,Phone,,5.5
+L60M4-AR,,Mitv,,小米电视 3,,TV,,5.5
+BL-W19,,Huawei,,HUAWEI MateBook E,,PC,,5.5
+HUAWEI CRR-CL00,,Huawei,,HUAWEI Mate S,,Phone,,5.5
+MBE6A5,,Xiaomi,,红米 Note 4X,,Phone,,5.5
+M2001J11C,,Xiaomi,,Redmi K30 Pro,,Phone,,5.5
+M2001J11E,,Xiaomi,,Redmi K30 Pro,,Phone,,5.5
+SM-T719C,,Samsung,,Galaxy Tab S2 8.0,,Phone,,5.5
+A0001,,Oneplus,,OnePlus One,,Phone,,5.5
+A1332,,Apple,,iPhone 4,,Phone,,5.5
+A1337,,Apple,,iPad,,Pad,,5.5
+PEEM00,,Oppo,,OPPO Find X3 Pro,,Phone,,5.5
+MRX-AN19,,Huawei,,HUAWEI MatePad Pro,,Pad,,5.5
+EVR-AL00,,Huawei,,HUAWEI Mate 20 X,,Phone,,5.5
+BL-W09,,Huawei,,HUAWEI MateBook E,,PC,,5.5
+HLYL-WFQ9,,Honor,,荣耀 MagicBook Pro 2020,,PC,,5.5
+PDST00,,Oppo,,OPPO Reno5 Pro,,Phone,,5.5
+CRR-TL00,,Huawei,,HUAWEI Mate S,,Phone,,5.5
+L75M6-5P,,Mitv,,小米电视 5 Pro,,TV,,5.5
+NX510J,,Nubia,,nubia Z9 Max,,Phone,,5.5
+MDE5S,,Xiaomi,,小米 MIX 2,,Phone,,5.5
+M811Q,,Meizu,,魅蓝 6T,,Phone,,5.5
+COL-AL10,,Honor,,荣耀 10,,Phone,,5.5
+FLA-AL20,,Huawei,,华为畅享 8 Plus,,Phone,,5.5
+NX511J,,Nubia,,nubia Z9 mini,,Phone,,5.5
+NX511H,,Nubia,,nubia Z9 mini,,Phone,,5.5
+M2102K1C,,Xiaomi,,小米 11 Ultra,,Phone,,5.5
+Nbl-WAQ9L,,Huawei,,HUAWEI MateBook D 14,,PC,,5.5
+Nbl-WAQ9R,,Huawei,,HUAWEI MateBook D 14,,PC,,5.5
+M813H,,Meizu,,魅族 V8 高配版,,Phone,,5.5
+MON-AL19,,Huawei,,华为平板 C5,,Pad,,5.5
+FLA-AL10,,Huawei,,华为畅享 8 Plus,,Phone,,5.5
+NX512J,,Nubia,,nubia Z9 Max,,Phone,,5.5
+MDE6S,,Xiaomi,,红米 Note 5A,,Phone,,5.5
+NX512H,,Nubia,,nubia Z9 Max,,Phone,,5.5
+V1809A,,Vivo,,vivo X23,,Phone,,5.5
+M2102K1G,,Xiaomi,,小米 11 Ultra,,Phone,,5.5
+A2639,,Apple,,iPhone 13 Pro,,Phone,,5.5
+A2638,,Apple,,iPhone 13 Pro,,Phone,,5.5
+A2636,,Apple,,iPhone 13 Pro,,Phone,,5.5
+V1809T,,Vivo,,vivo X23,,Phone,,5.5
+TAS-TL00,,Huawei,,HUAWEI Mate 30,,Phone,,5.5
+A2631,,Apple,,iPhone 13,,Phone,,5.5
+A2630,,Apple,,iPhone 13 mini,,Phone,,5.5
+M810H,,Meizu,,魅族 M8c,,Phone,,5.5
+A2635,,Apple,,iPhone 13,,Phone,,5.5
+L58R8-A,,Xiaomi,,Redmi 智能电视 A58 2022 款,,TV,,5.5
+A1303,,Apple,,iPhone 3GS,,Phone,,5.5
+A2634,,Apple,,iPhone 13,,Phone,,5.5
+A2633,,Apple,,iPhone 13,,Phone,,5.5
+TEL-TN00,,Honor,,荣耀 X10,,Phone,,5.5
+A2632,,Apple,,iPhone 14 Plus,,Phone,,5.5
+NX513H,,Nubia,,nubia My 布拉格,,Phone,,5.5
+FLA-AL00,,Huawei,,华为畅享 8 Plus,,Phone,,5.5
+TRT-AL00,,Huawei,,华为畅享 7 Plus,,Phone,,5.5
+MDE40,,Xiaomi,,小米 Max 2,,Phone,,5.5
+NX513J,,Nubia,,nubia My 布拉格,,Phone,,5.5
+U9510,,Huawei,,华为 Ascend D1,,Phone,,5.5
+A2628,,Apple,,iPhone 13 mini,,Phone,,5.5
+A2626,,Apple,,iPhone 13 mini,,Phone,,5.5
+A2629,,Apple,,iPhone 13 mini,,Phone,,5.5
+TEL-TN10,,Honor,,荣耀 X10,,Phone,,5.5
+M811H,,Meizu,,魅蓝 6T,,Phone,,5.5
+SM-T715C,,Samsung,,Galaxy Tab S2 8.0,,Phone,,5.5
+MACHD-WFH9,,Huawei,,HUAWEI MateBook X Pro,,PC,,5.5
+KJR-W09,,Honor,,荣耀平板 V6,,Pad,,5.5
+COL-AL00,,Honor,,荣耀 10,,Phone,,5.5
+KLVC-WFH9L,,Huawei,,HUAWEI MateBook 14,,PC,,5.5
+G7-TL00,,Huawei,,华为 Ascend G7,,Phone,,5.5
+V1936A,,Vivo,,iQOO Neo 855 版,,Phone,,5.5
+M816H,,Meizu,,魅族 V8 标配版,,Phone,,5.5
+ALP-AL00,,Huawei,,HUAWEI Mate 10,,Phone,,5.5
+V2168A,,vivo,,vivo Y32t,,Phone,,5.5
+BND-TL10,,Honor,,荣耀畅玩 7X,,Phone,,5.5
+SHARK PAR-H0,,Xiaomi,,黑鲨 5,,Phone,,5.5
+HUAWEI NXT-DL00,,Huawei,,HUAWEI Mate 8,,Phone,,5.5
+WRTB-WFE9L,,Huawei,,HUAWEI MateBook 13,,PC,,5.5
+MDZ-09-AK,,Mitv,,小米盒子,,TV,,5.5
+V1936T,,Vivo,,iQOO Neo 855 版,,Phone,,5.5
+M2001J2E M2001J2C,,Xiaomi,,小米 10,,Phone,,5.5
+BRQ-AL00,,Huawei,,HUAWEI nova 8 Pro,,Phone,,5.5
+SM-N9109W,,Samsung,,Galaxy Note4,,Phone,,5.5
+22041216C,,Xiaomi,,Redmi Note 11T Pro,,Phone,,5.5
+V1938A,,Vivo,,vivo X30 Pro,,Phone,,5.5
+22041216G,,Xiaomi,,POCO X4 GT,,Phone,,5.5
+22041216I,,Xiaomi,,Redmi K50i,,Phone,,5.5
+M816Q,,Meizu,,魅族 V8 标配版,,Phone,,5.5
+V2036A,,Vivo,,vivo Y30 标准版,,Phone,,5.5
+PL-W29,,Huawei,,HUAWEI MateBook D,,PC,,5.5
+NX669J-P,,Nubia,,nubia 红魔 6 Pro,,Phone,,5.5
+PE-CL00,,Honor,,荣耀 6 Plus,,Phone,,5.5
+M813Q,,Meizu,,魅族 V8 高配版,,Phone,,5.5
+2012121,,Xiaomi,,小米 2A,,Phone,,5.5
+V1938T,,Vivo,,vivo X30 Pro,,Phone,,5.5
+1803-A01,,360shouji,,360 手机 N7 Lite,,Phone,,5.5
+MDZ-09-AA,,Mitv,,小米盒子,,TV,,5.5
+V1000,,Zte,,中兴 Blade V10,,Phone,,5.5
+NX518J,,Nubia,,nubia Z9 Max,,Phone,,5.5
+PL-W09,,Huawei,,HUAWEI MateBook D,,PC,,5.5
+SM-N9106W,,Samsung,,Galaxy Note4,,Phone,,5.5
+V1932A,,Vivo,,vivo S5,,Phone,,5.5
+DRA-TL00,,Huawei,,华为畅享 8e 青春,,Phone,,5.5
+2014726,,Xiaomi,,小米 4,,Phone,,5.5
+22041219G,,Xiaomi,,Redmi 10,,Phone,,5.5
+SCH-W899,,Samsung,,三星 W899,,Phone,,5.5
+22041219I,,Xiaomi,,Redmi 11,,Phone,,5.5
+V2164A,,vivo,,vivo Y72t,,Phone,,5.5
+V2031A,,Vivo,,vivo S7e,,Phone,,5.5
+V1932T,,Vivo,,vivo S5,,Phone,,5.5
+22041219C,,Xiaomi,,Redmi Note 11E,,Phone,,5.5
+PL-W19,,Huawei,,HUAWEI MateBook D,,PC,,5.5
+G620S-UL00,,Honor,,荣耀畅玩 4,,Phone,,5.5
+DBY-W09,,Huawei,,HUAWEI MatePad 11,,Pad,,5.5
+TAH-AN00m,,Huawei,,HUAWEI Mate Xs,,Phone,,5.5
+ANA-TN00,,Huawei,,HUAWEI P40,,Phone,,5.5
+2014716,,Xiaomi,,小米 4,,Phone,,5.5
+2014715,,Xiaomi,,红米 Note,,Phone,,5.5
+M460H,,Meizu,,魅族 MX4,,Phone,,5.5
+HRY-AL00Ta,,Honor,,荣耀 20i,,Phone,,5.5
+KIW-AL10,,Honor,,荣耀畅玩 5X,,Phone,,5.5
+2014719,,Xiaomi,,小米 4,,Phone,,5.5
+V2165A,,vivo,,iQOO U5,,Phone,,5.5
+M460A,,Meizu,,魅族 MX4,,Phone,,5.5
+SM-A7070,,Samsung,,Galaxy A70s,,Phone,,5.5
+L75M9-EP,,Xiaomi,,小米电视 EA Pro 75,,TV,,5.5
+2014712,,Xiaomi,,红米 Note,,Phone,,5.5
+CAM-TL00,,Honor,,荣耀畅玩 5A,,Phone,,5.5
+M818H,,Meizu,,魅族 C9,,Phone,,5.5
+GT-I9508V,,Samsung,,Galaxy S4,,Phone,,5.5
+SM-N9108V,,Samsung,,Galaxy Note4,,Phone,,5.5
+V1934A,,Vivo,,vivo Y5s,,Phone,,5.5
+V2166A,,vivo,,vivo Y33e,,Phone,,5.5
+V1934T,,Vivo,,vivo Y5s,,Phone,,5.5
+HUAWEI MLA-TL10,,Huawei,,HUAWEI G9 Plus,,Phone,,5.5
+M819H,,Meizu,,魅族 C9 Pro,,Phone,,5.5
+JKM-AL00,,Huawei,,华为畅享 9 Plus,,Phone,,5.5
+GT-I9507V,,Samsung,,Galaxy S4,,Phone,,5.5
+SHARK PRS-A0,,Xiaomi,,黑鲨 4S,,Phone,,5.5
+L55M5-5A,,Mitv,,小米电视 4A,,TV,,5.5
+V2034A,,Vivo,,vivo Y30,,Phone,,5.5
+L55M5-5S,,Mitv,,小米电视 4S,,TV,,5.5
+M463U,,Meizu,,魅蓝 note,,Phone,,5.5
+V2172A,,vivo,,iQOO 9 Pro,,Phone,,5.5
+M463H,,Meizu,,魅蓝 note,,Phone,,5.5
+PBAM00 PBBM30,,OPPO,,OPPO A5,,Phone,,5.5
+M463M,,Meizu,,魅蓝 note,,Phone,,5.5
+VNS-CL00,,Huawei,,HUAWEI G9 青春版,,Phone,,5.5
+M1903C3EE,,Xiaomi,,Redmi 7A,,Phone,,5.5
+Lenovo,,Lenovo,,联想 Z5,,Phone,,5.5
+PBAT00,,Oppo,,OPPO A5,,Phone,,5.5
+M1903C3EG,,Xiaomi,,Redmi 7A,,Phone,,5.5
+M1903C3EH,,Xiaomi,,Redmi 7A,,Phone,,5.5
+M1903C3EI,,Xiaomi,,Redmi 7A,,Phone,,5.5
+ONE A2005,,OnePlus,,2,,Phone,,5.5
+ONE A2003,,OnePlus,,2,,Phone,,5.5
+ONE A2001,,OnePlus,,2,,Phone,,5.5
+V1936TL,,Vivo,,iQOO Neo 855 竞速版,,Phone,,5.5
+V1941A,,Vivo,,vivo Z5i,,Phone,,5.5
+M1903C3EC,,Xiaomi,,Redmi 7A,,Phone,,5.5
+M465A,,Meizu,,魅蓝,,Phone,,5.5
+MON-W19,,Huawei,,华为平板 C5,,Pad,,5.5
+V1941T,,Vivo,,vivo Z5i,,Phone,,5.5
+HUAWEI B199,,Huawei,,华为麦芒 B199,,Phone,,5.5
+SHARK PRS-H0,,Xiaomi,,黑鲨 4,,Phone,,5.5
+M1903C3ET,,Xiaomi,,Redmi 7A,,Phone,,5.5
+BMH-TN10,,Honor,,荣耀 30,,Phone,,5.5
+2201117PI,,Xiaomi,,POCO M4 Pro,,Phone,,5.5
+2201117PG,,Xiaomi,,POCO M4 Pro,,Phone,,5.5
+PAL-AL00 PAL-AL10,,Huawei,,HUAWEI Mate Xs 2,,Phone,,5.5
+HD65DESY,,Huawei,,华为智慧屏 SE 系列,,TV,,5.5
+HD65DESZ,,Huawei,,华为智慧屏 SE 系列,,TV,,5.5
+XT1799-1,,Motorola,,moto 青柚,,Phone,,5.5
+XT1799-2,,Motorola,,moto 青柚,,Phone,,5.5
+2014821,,Xiaomi,,红米 2,,Phone,,5.5
+GT-I9308,,Samsung,,Galaxy S3,,Phone,,5.5
+BMH-TN20,,Honor,,荣耀 30,,Phone,,5.5
+M462U,,Meizu,,魅族 MX4 Pro,,Phone,,5.5
+M463C,,Meizu,,魅蓝 note,,Phone,,5.5
+GT-I9300,,Samsung,,Galaxy S3,,Phone,,5.5
+JLN-AL00,,Huawei,,HUAWEI nova 9 SE,,Phone,,5.5
+M462H,,Meizu,,魅族 MX4 Pro,,Phone,,5.5
+2014813,,Xiaomi,,红米 2,,Phone,,5.5
+2014812,,Xiaomi,,红米 2,,Phone,,5.5
+2014819,,Xiaomi,,红米 2,,Phone,,5.5
+2014818,,Xiaomi,,红米 2,,Phone,,5.5
+M1804D2ST,,Xiaomi,,小米 6X,,Phone,,5.5
+2014817,,Xiaomi,,红米 2,,Phone,,5.5
+2014816,,Xiaomi,,红米 2A,,Phone,,5.5
+SM-A7050,,Samsung,,Galaxy A70,,Phone,,5.5
+2014811,,Xiaomi,,红米 2,,Phone,,5.5
+PDVM00,,Oppo,,OPPO A32,,Phone,,5.5
+V1050,,Zte,,中兴 Blade 20 Smart,,Phone,,5.5
+M1804D2SC,,Xiaomi,,小米 6X,,Phone,,5.5
+SM-N7509V,,Samsung,,Galaxy Note3 Lite,,Phone,,5.5
+M1804D2SE,,Xiaomi,,小米 6X,,Phone,,5.5
+SHARK KTUS-H0,,Xiaomi,,黑鲨 5 Pro,,Phone,,5.5
+SM-A7009,,Samsung,,Galaxy A7,,Phone,,5.5
+MED-TL00,,Huawei,,华为畅享 10e,,Phone,,5.5
+M1804D2SG,,Xiaomi,,小米 A2,,Phone,,5.5
+M1804D2SI,,Xiaomi,,小米 A2,,Phone,,5.5
+SM-T239C,,Samsung,,Galaxy Tab4 7.0 VE,,Phone,,5.5
+2112123AC,,Xiaomi,,Xiaomi 12X,,Phone,,5.5
+M2012K11G,,Xiaomi,,小米 11i,,Phone,,5.5
+NOH-AL00 NOH-AL10,,Huawei,,HUAWEI Mate 40 Pro,,Phone,,5.5
+M2012K11I,,Xiaomi,,小米 11X Pro,,Phone,,5.5
+M2012K11C,,Xiaomi,,Redmi K40 Pro,,Phone,,5.5
+M792Q-L,,Meizu,,魅族 PRO 7,,Phone,,5.5
+2112123AG,,Xiaomi,,Xiaomi 12X,,Phone,,5.5
+SM-A7000,,Samsung,,Galaxy A7,,Phone,,5.5
+PDPT00,,Oppo,,OPPO Reno4,,Phone,,5.5
+NX591J,,Nubia,,nubia Z17 畅享版,,Phone,,5.5
+CMR-AL19,,Huawei,,华为平板 M5,,Pad,,5.5
+SM-P610,,Samsung,,Galaxy Tab S6 Lite,,Phone,,5.5
+BZI-W00,,Huawei,,华为平板 C5e,,Pad,,5.5
+PDKM00,,Oppo,,OPPO A92s,,Phone,,5.5
+M2012K10C,,Xiaomi,,Redmi K40 游戏增强版,,Phone,,5.5
+SM-N9300,,Samsung,,Galaxy Note7,,Phone,,5.5
+SM-J3109,,Samsung,,Galaxy J3,,Phone,,5.5
+V2170A,,vivo,,vivo X Note,,Phone,,5.5
+BohL-WDQ9HN,,Honor,,荣耀 MagicBook 15 2020,,PC,,5.5
+M465M,,Meizu,,魅蓝,,Phone,,5.5
+HUAWEI P6-U06,,Huawei,,华为 Ascend P6,,Phone,,5.5
+ELS-TN00,,Huawei,,HUAWEI P40 Pro,,Phone,,5.5
+HLK-AL00a,,Honor,,荣耀 9X,,Phone,,5.5
+EVA-TL00,,Huawei,,HUAWEI P9,,Phone,,5.5
+PCNT00,,Oppo,,OPPO K5,,Phone,,5.5
+GT-N7100,,Samsung,,Galaxy Note2,,Phone,,5.5
+GT-N7102,,Samsung,,Galaxy Note2,,Phone,,5.5
+V2171A,,vivo,,iQOO 9,,Phone,,5.5
+SHARK PAR-A0,,Xiaomi,,黑鲨 5,,Phone,,5.5
+ELS-TN10,,Huawei,,HUAWEI P40 Pro+,,Phone,,5.5
+PCCT00,,Oppo,,OPPO Reno 10 倍变焦版,,Phone,,5.5
+GT-N7108,,Samsung,,Galaxy Note2,,Phone,,5.5
+PFZM10,,OPPO,,OPPO Reno8 Pro+,,Phone,,5.5
+A1288,,Apple,,iPod touch,,Touch,,5.5
+LOK-350C,,Honor,,荣耀智慧屏 X1,,TV,,5.5
+T8950,,Honor,,华为荣耀手机,,Phone,,5.5
+YOK-AN10,,Honor,,荣耀 V40,,Phone,,5.5
+LIO-AN00m,,Huawei,,HUAWEI Mate 30E Pro,,Phone,,5.5
+MACHD-WFE9,,Huawei,,HUAWEI MateBook X Pro,,PC,,5.5
+SM-A5260,,Samsung,,Galaxy A52 5G,,Phone,,5.5
+SM-J3110,,Samsung,,Galaxy J3 Pro,,Phone,,5.5
+AQM-TL00,,Huawei,,华为畅享 10S,,Phone,,5.5
+PEMM20,,Oppo,,OPPO A55,,Phone,,5.5
+NX595J,,Nubia,,nubia Z17S,,Phone,,5.5
+SM-N7506V,,Samsung,,Galaxy Note3 Lite,,Phone,,5.5
+SM-J3119,,Samsung,,Galaxy J3 Pro,,Phone,,5.5
+SM-T725C,,Samsung,,Galaxy Tab S5e,,Phone,,5.5
+PEGT10,,Oppo,,OPPO Reno5 K,,Phone,,5.5
+RMX1901,,Realme,,realme X,,Phone,,5.5
+Nbl-WAH9HNP,,Honor,,荣耀 MagicBook 14,,PC,,5.5
+PFDM00,,OPPO,,OPPO Reno7 Pro,,Phone,,5.5
+MLA-AL00,,Huawei,,HUAWEI 麦芒 5,,Phone,,5.5
+EML-TL00,,Huawei,,HUAWEI P20,,Phone,,5.5
+L32R6-A,,Mitv,,Redmi 红米电视,,TV,,5.5
+A3003,,Oneplus,,OnePlus 3,,Phone,,5.5
+Boh-WAH9HN,,Honor,,荣耀 MagicBook 15,,PC,,5.5
+CMR-AL09,,Huawei,,华为平板 M5,,Pad,,5.5
+L55M5-AB,,Mitv,,小米电视 4,,TV,,5.5
+IN2023,,Oneplus,,OnePlus 8 Pro,,Phone,,5.5
+POT-AL00a,,Huawei,,华为畅享 9S,,Phone,,5.5
+IN2025,,Oneplus,,OnePlus 8 Pro,,Phone,,5.5
+M1902F1A,,Xiaomi,,小米 9,,Phone,,5.5
+PEGT00,,Oppo,,OPPO Reno5,,Phone,,5.5
+PEXM00,,Oppo,,OPPO K9,,Phone,,5.5
+L55M5-AA,,Mitv,,小米电视 3s,,TV,,5.5
+NZA-AL00,,Honor,,荣耀 Play5T 活力版,,Phone,,5.5
+IN2020,,Oneplus,,OnePlus 8 Pro,,Phone,,5.5
+L55M5-AD,,Mitv,,小米电视 4A,,TV,,5.5
+A3010,,Oneplus,,OnePlus 3T,,Phone,,5.5
+IN2021,,Oneplus,,OnePlus 8 Pro,,Phone,,5.5
+RMX1911,,Realme,,realme 5,,Phone,,5.5
+WKG-TN00,,Huawei,,华为畅享 20,,Phone,,5.5
+MAG138,,Xiaomi,,红米 4X,,Phone,,5.5
+RMX1915,,Realme,,realme 5,,Phone,,5.5
+RMX1919,,Realme,,realme 5,,Phone,,5.5
+PDET10,,Oppo,,OPPO Find X2,,Phone,,5.5
+G6-T00,,Huawei,,华为 Ascend G6,,Phone,,5.5
+PEMM00,,Oppo,,OPPO A55,,Phone,,5.5
+MLA-AL10,,Huawei,,HUAWEI 麦芒 5,,Phone,,5.5
+M1805E2A,,Xiaomi,,小米 8 SE,,Phone,,5.5
+L55M5-AQ,,Mitv,,小米电视 4S,,TV,,5.5
+AKA-AL10,,Honor,,荣耀 Play4T,,Phone,,5.5
+HD65KANS,,Huawei,,华为智慧屏 S 系列,,TV,,5.5
+M1902F1G,,Xiaomi,,小米 9,,Phone,,5.5
+SM-N7508V,,Samsung,,Galaxy Note3 Lite,,Phone,,5.5
+M1902F1C,,Xiaomi,,小米 9,,Phone,,5.5
+IN2013,,Oneplus,,OnePlus 8,,Phone,,5.5
+IN2015,,Oneplus,,OnePlus 8,,Phone,,5.5
+V2066BA,,Vivo,,vivo Y30g,,Phone,,5.5
+HD65KANA,,Huawei,,华为智慧屏 S 系列,,TV,,5.5
+A3000,,Oneplus,,OnePlus 3,,Phone,,5.5
+IN2010,,Oneplus,,OnePlus 8,,Phone,,5.5
+RMX1922,,Realme,,realme XT,,Phone,,5.5
+IN2011,,Oneplus,,OnePlus 8,,Phone,,5.5
+RMX1921,,Realme,,realme XT,,Phone,,5.5
+L55M5-AZ,,Mitv,,小米电视 4A,,TV,,5.5
+RMX1925,,Realme,,realme 5s,,Phone,,5.5
+IN2017,,Oneplus,,OnePlus 8,,Phone,,5.5
+M1902F1T,,Xiaomi,,小米 9,,Phone,,5.5
+DAV-703L,,Huawei,,HUAWEI P8 Max,,Phone,,5.5
+IN2019,,Oneplus,,OnePlus 8,,Phone,,5.5
+H60-L11,,Honor,,荣耀 6,,Phone,,5.5
+H60-L12,,Honor,,荣耀 6,,Phone,,5.5
+M1808D2TT,,Xiaomi,,小米 8 青春版,,Phone,,5.5
+OD103,,Smartisan,,坚果 Pro,,Phone,,5.5
+HUAWEI TIT-AL00,,Huawei,,华为畅享 5,,Phone,,5.5
+MGA-AL00,,Huawei,,华为畅享 50,,Phone,,5.5
+1711-A01,,360shouji,,360 手机 vizza,,Phone,,5.5
+RMX1931,,Realme,,realme X2 Pro,,Phone,,5.5
+HNL-WFP9,,Huawei,,HUAWEI MateBook 13,,PC,,5.5
+HLYL-WFP9,,Honor,,荣耀 MagicBook Pro 2020,,PC,,5.5
+V2217A,,vivo,,iQOO 10,,Phone,,5.5
+M2004J7BC,,Xiaomi,,Redmi 10X Pro 5G,,Phone,,5.5
+SHARK KTUS-A0,,Xiaomi,,黑鲨 5 Pro,,Phone,,5.5
+H60-L01,,Honor,,荣耀 6,,Phone,,5.5
+H60-L02,,Honor,,荣耀 6,,Phone,,5.5
+H60-L03,,Honor,,荣耀 6,,Phone,,5.5
+M1808D2TC,,Xiaomi,,小米 8 青春版,,Phone,,5.5
+RMX1942,,Realme,,realme C2,,Phone,,5.5
+RMX1941,,Realme,,realme C2,,Phone,,5.5
+M1808D2TE,,Xiaomi,,小米 8 青春版,,Phone,,5.5
+G6-C00,,Huawei,,华为 Ascend G6,,Phone,,5.5
+HNL-WFQ9,,Huawei,,HUAWEI MateBook 13,,PC,,5.5
+M1808D2TG,,Xiaomi,,小米 8 青春版,,Phone,,5.5
+M2003J6A1I,,Xiaomi,,Redmi Note 9 Pro,,Phone,,5.5
+A1241,,Apple,,iPhone 3G,,Phone,,5.5
+RIO-UL00,,Huawei,,HUAWEI G7 Plus,,Phone,,5.5
+RMX1946,,Realme,,realme C2,,Phone,,5.5
+RMX1945,,Realme,,realme C2,,Phone,,5.5
+M2003J6A1G,,Xiaomi,,Redmi Note 9 Pro,,Phone,,5.5
+RMX1943,,Realme,,realme C2,,Phone,,5.5
+V2218A,,vivo,,iQOO 10 Pro,,Phone,,5.5
+M2004J7AC,,Xiaomi,,Redmi 10X 5G,,Phone,,5.5
+2201117TI,,Xiaomi,,Redmi Note 11,,Phone,,5.5
+M2003J6A1R,,Xiaomi,,Redmi Note 9 Pro,,Phone,,5.5
+2201117TG,,Xiaomi,,Redmi Note 11,,Phone,,5.5
+2201117TL,,Xiaomi,,Redmi Note 11 拉美版,,Phone,,5.5
+PLAT-760,,Huawei,,华为智慧屏 X 系列,,TV,,5.5
+A2595,,Apple,,iPhone SE,,Phone,,5.5
+TNNH-AN00,,Honor,,荣耀 Play4,,Phone,,5.5
+HUAWEI TAG-AL00,,Huawei,,华为畅享 5S,,Phone,,5.5
+2201117TY,,Xiaomi,,Redmi Note 11,,Phone,,5.5
+JDN2-W09HN,,Honor,,荣耀平板 5,,Pad,,5.5
+XT1925-10,,Motorola,,moto 青柚 1s,,Phone,,5.5
+V2219A,,vivo,,vivo Y77,,Phone,,5.5
+L55M5-EC,,Mitv,,小米全面屏电视,,TV,,5.5
+2201117SG,,Xiaomi,,Redmi Note 11S,,Phone,,5.5
+H60-L21,,Honor,,荣耀 6,,Phone,,5.5
+M1903C3GG,,Xiaomi,,Redmi Go,,Phone,,5.5
+M1903C3GH,,Xiaomi,,Redmi Go,,Phone,,5.5
+M1903C3GI,,Xiaomi,,Redmi Go,,Phone,,5.5
+2201117SL,,Xiaomi,,Redmi Note 11S 拉美版,,Phone,,5.5
+2201117SI,,Xiaomi,,Redmi Note 11S,,Phone,,5.5
+L55M5-EX,,Mitv,,小米全面屏电视,,TV,,5.5
+RMX1971,,Realme,,realme 真我 Q,,Phone,,5.5
+L55M5-ES,,Mitv,,小米全面屏电视 Pro,,TV,,5.5
+7D-503LT,,Honor,,荣耀 X1,,Phone,,5.5
+2201117SY,,Xiaomi,,Redmi Note 11S,,Phone,,5.5
+V2199GA,,vivo,,vivo T2,,Phone,,5.5
+LOK-350S,,Honor,,荣耀智慧屏 X1,,TV,,5.5
+MRC-W50R,,Huawei,,HUAWEI MateBook D,,PC,,5.5
+A1442,,Apple,,iPhone 5,,Phone,,5.5
+NX651J,,Nubia,,nubia Play,,Phone,,5.5
+KLVD-WFE9,,Huawei,,HUAWEI MateBook 14,,PC,,5.5
+SCL-AL00,,Honor,,荣耀 4A,,Phone,,5.5
+L43M3-AR,,Mitv,,小米电视 3s,,TV,,5.5
+M1804C3DG M1804C3DH,,Xiaomi,,红米 6,,Phone,,5.5
+BoD-WFH9,,Huawei,,HUAWEI MateBook D 15,,PC,,5.5
+KLE-H0,,Xiaomi,,腾讯黑鲨游戏手机 3,,Phone,,5.5
+KRJ-W09,,Honor,,荣耀平板 V6,,Pad,,5.5
+L43M3-AA,,Mitv,,小米电视 3s,,TV,,5.5
+A1432,,Apple,,iPad mini,,Pad,,5.5
+A0101,,Xiaomi,,小米平板,,Pad,,5.5
+A1431,,Apple,,iPhone 4S,,Phone,,5.5
+A1430,,Apple,,iPad,,Pad,,5.5
+SKR-A0,,Xiaomi,,黑鲨游戏手机,,Phone,,5.5
+AGS2-AL00,,Huawei,,华为畅享平板,,Pad,,5.5
+MDZ-18-AA,,Mitv,,小米盒子,,TV,,5.5
+L70M7-EA,,Xiaomi,,小米电视 EA70 2022 款,,TV,,5.5
+PBBM00,,Oppo,,OPPO A7x,,Phone,,5.5
+KKG-AN00,,Honor,,荣耀 X10 Max,,Phone,,5.5
+Boh-WAQ9RP,,Huawei,,HUAWEI MateBook D 15,,PC,,5.5
+MED-AL20,,Huawei,,华为畅享 10e,,Phone,,5.5
+MDZ-06-AA,,Mitv,,小米盒子,,TV,,5.5
+MDZ-06-AB,,Mitv,,小米盒子,,TV,,5.5
+2014022,,Xiaomi,,红米 Note,,Phone,,5.5
+2014021,,Xiaomi,,红米 Note,,Phone,,5.5
+AGS3K-AL20,,Huawei,,HUAWEI MatePad SE,,Pad,,5.5
+M57AC,,Meizu,,魅蓝 metal,,Phone,,5.5
+M57AM,,Meizu,,魅蓝 metal,,Phone,,5.5
+V2203A,,vivo,,vivo S15,,Phone,,5.5
+SCH-I919,,Samsung,,Galaxy S Duos,,Phone,,5.5
+XT1650-05,,Motorola,,Moto Z,,Phone,,5.5
+LRA-AL00,,Honor,,荣耀 20 青春版,,Phone,,5.5
+A1459,,Apple,,iPad,,Pad,,5.5
+2014011,,Xiaomi,,红米 1S,,Phone,,5.5
+VNS-TL00,,Huawei,,HUAWEI G9 青春版,,Phone,,5.5
+A2785,,Apple,,iPhone SE,,Phone,,5.5
+A1454,,Apple,,iPad mini,,Pad,,5.5
+A1453,,Apple,,iPhone 5s,,Phone,,5.5
+A2784,,Apple,,iPhone SE,,Phone,,5.5
+A2783,,Apple,,iPhone SE,,Phone,,5.5
+A2782,,Apple,,iPhone SE,,Phone,,5.5
+A1458,,Apple,,iPad,,Pad,,5.5
+A1457,,Apple,,iPhone 5s,,Phone,,5.5
+A1456,,Apple,,iPhone 5c,,Phone,,5.5
+A1455,,Apple,,iPad mini,,Pad,,5.5
+STK-TL00,,Huawei,,华为畅享 10 Plus,,Phone,,5.5
+M57AU,,Meizu,,魅蓝 metal,,Phone,,5.5
+A1460,,Apple,,iPad,,Pad,,5.5
+HUAWEI RIO-AL00,,Huawei,,华为麦芒 4,,Phone,,5.5
+2014018,,Xiaomi,,红米 Note,,Phone,,5.5
+2014017,,Xiaomi,,红米 Note,,Phone,,5.5
+KNT-TL10,,Honor,,荣耀 V8,,Phone,,5.5
+PCDM10,,Oppo,,OPPO Reno Z,,Phone,,5.5
+BAL-AL80,,Huawei,,HUAWEI P50 Pocket New,,Phone,,5.5
+HLY-W19RP,,Honor,,荣耀 MagicBook Pro,,PC,,5.5
+A1403,,Apple,,iPad,,Pad,,5.5
+MCE8,,Xiaomi,,小米 Note 3,,Phone,,5.5
+HLY-W19RL,,Honor,,荣耀 MagicBook Pro,,PC,,5.5
+VLR-W19LP,,Honor,,荣耀 MagicBook 2019,,PC,,5.5
+EVR-TL00,,Huawei,,HUAWEI Mate 20 X,,Phone,,5.5
+NX523J,,Nubia,,nubia Z11 Max,,Phone,,5.5
+V1928T,,Vivo,,vivo U3x,,Phone,,5.5
+PBBM30,,Oppo,,OPPO A5,,Phone,,5.5
+NOH-AN00 NOH-AN01,,Huawei,,HUAWEI Mate 40 Pro,,Phone,,5.5
+ANA-AN00,,Huawei,,HUAWEI P40,,Phone,,5.5
+BoD-WFE9,,Huawei,,HUAWEI MateBook D 15,,PC,,5.5
+M2003J6CI,,Xiaomi,,POCO M2 Pro,,Phone,,5.5
+NbB-WAH9,,Huawei,,HUAWEI MateBook D 14,,PC,,5.5
+HUAWEI TIT-TL00,,Huawei,,华为畅享 5,,Phone,,5.5
+A1429,,Apple,,iPhone 5,,Phone,,5.5
+A1428,,Apple,,iPhone 5,,Phone,,5.5
+SM-E7009,,Samsung,,Galaxy E7,,Phone,,5.5
+LLD-AL20,,Honor,,荣耀 9i,,Phone,,5.5
+A1421,,Apple,,iPod touch,,Phone,,5.5
+Boh-WAH9HNP,,Honor,,荣耀 MagicBook 15,,PC,,5.5
+SM-E7000,,Samsung,,Galaxy E7,,Phone,,5.5
+VLT-W60,,Honor,,荣耀 MagicBook,,PC,,5.5
+L100R8-MAX,,Xiaomi,,Redmi 智能电视 MAX 100 英寸,,TV,,5.5
+A1416,,Apple,,iPad,,Pad,,5.5
+LLD-AL30,,Honor,,荣耀 9i,,Phone,,5.5
+22071219CI,,Xiaomi,,POCO M5,,Phone,,5.5
+22071219CG,,Xiaomi,,POCO M5,,Phone,,5.5
+9000N,,Zte,,中兴天机 Axon 11 SE 5G,,Phone,,5.5
+PCDM00,,Oppo,,OPPO A7n,,Phone,,5.5
+TNY-TL00,,Honor,,荣耀 Magic2,,Phone,,5.5
+EDI-DL00,,Honor,,荣耀 Note8,,Phone,,5.5
+L65M6-5,,Mitv,,小米电视 5,,TV,,5.5
+NX659J,,Nubia,,红魔 5G,,Phone,,5.5
+JKM-AL00a,,Huawei,,华为畅享 9 Plus,,Phone,,5.5
+JKM-AL00b,,Huawei,,华为畅享 9 Plus,,Phone,,5.5
+L32M6-ES,,Mitv,,小米全面屏电视 Pro,,TV,,5.5
+LIO-AN00P,,Huawei,,HUAWEI Mate 30 RS 保时捷设计,,Phone,,5.5
+VLT-W50,,Honor,,荣耀 MagicBook,,PC,,5.5
+LLD-AL00,,Honor,,荣耀 9 青春版,,Phone,,5.5
+V1924A,,Vivo,,vivo NEX 3 5G,,Phone,,5.5
+BAH4-W19,,Huawei,,HUAWEI MatePad,,Pad,,5.5
+HD85THAA,,Huawei,,华为智慧屏 V 系列 2021 款,,TV,,5.5
+V2156A,,vivo,,vivo Y76s,,Phone,,5.5
+PFJM10,,OPPO,,OPPO Reno7,,Phone,,5.5
+PESM10,,OPPO,,OPPO A36,,Phone,,5.5
+V1924T,,Vivo,,vivo NEX 3 5G,,Phone,,5.5
+V2023A,,Vivo,,iQOO U1,,Phone,,5.5
+22071219AI,,Xiaomi,,Redmi 11,,Phone,,5.5
+HUAWEI GRA-UL10,,Huawei,,华为 P8,,Phone,,5.5
+LLD-AL10,,Honor,,荣耀 9 青春版,,Phone,,5.5
+PEMT00,,Oppo,,OPPO A55,,Phone,,5.5
+K520,,Lenovo,,联想 S5,,Phone,,5.5
+MAR-AL00,,Huawei,,HUAWEI nova 4e,,Phone,,5.5
+V2157A,,vivo,,iQOO Neo5 SE,,Phone,,5.5
+ANG-AN00,,Huawei,,HUAWEI nova 8,,Phone,,5.5
+V2024A,,Vivo,,iQOO 5,,Phone,,5.5
+TEL-AN00,,Honor,,荣耀 X10,,Phone,,5.5
+HUAWEI GRA-UL00,,Huawei,,华为 P8,,Phone,,5.5
+PGAM10,,OPPO,,OPPO Reno8 Pro,,Phone,,5.5
+PEHM00,,Oppo,,OPPO A93,,Phone,,5.5
+V2158A,,vivo,,vivo Y32,,Phone,,5.5
+NX529J,,Nubia,,nubia Z11 mini,,Phone,,5.5
+CDL-AN50,,Huawei,,HUAWEI nova 7 SE 5G 乐活版,,Phone,,5.5
+L75M6-5,,Mitv,,小米电视 5,,TV,,5.5
+SM-E5260,,Samsung,,Galaxy F52 5G,,Phone,,5.5
+V2025A,,Vivo,,iQOO 5 Pro,,Phone,,5.5
+M712Q-B,,Meizu,,魅蓝 S6,,Phone,,5.5
+KPL-W00,,Honor,,荣耀 MagicBook 锐龙版,,PC,,5.5
+V1928A,,Vivo,,vivo U3x,,Phone,,5.5
+A101XM,,Xiaomi,,Redmi Note 10T 日本版,,Phone,,5.5
+PDKT00,,Oppo,,OPPO A92s,,Phone,,5.5
+L55M5-RK,,Mitv,,Redmi 红米电视,,TV,,5.5
+MRC-W00,,Huawei,,HUAWEI MateBook D,,PC,,5.5
+8681-A01,,360shouji,,360 手机奇酷青春版,,Phone,,5.5
+MED-AL00,,Huawei,,华为畅享 10e,,Phone,,5.5
+HUAWEI G7-TL00,,Huawei,,华为 Ascend G7,,Phone,,5.5
+TEL-AN10,,Honor,,荣耀 X10,,Phone,,5.5
+V1921A,,Vivo,,vivo Z5,,Phone,,5.5
+ATH-CL00,,Honor,,荣耀 7i,,Phone,,5.5
+L55M2-AA,,Mitv,,小米电视 2,,TV,,5.5
+SM-G9508,,Samsung,,Galaxy S8,,Phone,,5.5
+AGR-W09HN,,Honor,,荣耀平板 X6,,Pad,,5.5
+V2020A,,Vivo,,vivo S7,,Phone,,5.5
+V1921T,,Vivo,,vivo Z5,,Phone,,5.5
+SM-G9500,,Samsung,,Galaxy S8,,Phone,,5.5
+PLUS,,Xiaomi,,小米 1,,Phone,,5.5
+TAS-AL00,,Huawei,,HUAWEI Mate 30,,Phone,,5.5
+CRR-CL00,,Huawei,,HUAWEI Mate S,,Phone,,5.5
+NOH-AL00,,Huawei,,HUAWEI Mate 40 Pro,,Phone,,5.5
+V1922A,,Vivo,,iQOO Pro,,Phone,,5.5
+KLVD-WFH9,,Huawei,,HUAWEI MateBook 14,,PC,,5.5
+MDZ-18-DA,,Mitv,,小米电视主机,,TV,,5.5
+V2154A,,vivo,,iQOO Neo5S,,Phone,,5.5
+ART-AL00m,,Huawei,,华为畅享 10,,Phone,,5.5
+SCH-W999,,Samsung,,三星 W999,,Phone,,5.5
+BKL-AL20,,Honor,,荣耀 V10,,Phone,,5.5
+V1922T,,Vivo,,iQOO Pro,,Phone,,5.5
+INE-TL00,,Huawei,,HUAWEI nova 3i,,Phone,,5.5
+22081212C,,Xiaomi,,Redmi K50,,Phone,,5.5
+MI-ONE,,Xiaomi,,小米 1,,Phone,,5.5
+ART-AL00x,,Huawei,,华为畅享 10,,Phone,,5.5
+PEMT20,,Oppo,,OPPO A55,,Phone,,5.5
+V1923A,,Vivo,,vivo NEX 3,,Phone,,5.5
+TRT-TL10,,Huawei,,华为畅享 7 Plus,,Phone,,5.5
+SCH-N719,,Samsung,,Galaxy Note2,,Phone,,5.5
+V1923T,,Vivo,,vivo NEX 3,,Phone,,5.5
+CRR-CL20,,Huawei,,HUAWEI Mate S,,Phone,,5.5
+22081281AC,,Xiaomi,,小米平板 5 Pro 12.4 英寸,,Phone,,5.5
+L82M6-4K,,Mitv,,小米电视 大师系列,,TV,,5.5
+HDN-W09,,Honor,,荣耀 Waterplay,,Pad,,5.5
+HUAWEI NXT-AL10,,Huawei,,HUAWEI Mate 8,,Phone,,5.5
+JDN2-AL00HN,,Honor,,荣耀平板 5,,Pad,,5.5
+2015811 2015815,,Xiaomi,,红米 3,,Phone,,5.5
+BKL-AL00,,Honor,,荣耀 V10,,Phone,,5.5
+2109119BC,,Xiaomi,,Xiaomi Civi 1S,,Phone,,5.5
+V1731CA,,Vivo,,vivo Y73,,Phone,,5.5
+M1906F9SI,,Xiaomi,,小米 A3,,Phone,,5.5
+2014912,,Xiaomi,,红米 Note 1S,,Phone,,5.5
+2014911,,Xiaomi,,红米 Note 1S,,Phone,,5.5
+2014916,,Xiaomi,,红米 Note 1S,,Phone,,5.5
+M1906F9SH,,Xiaomi,,小米 A3,,Phone,,5.5
+2014915,,Xiaomi,,红米 Note 1S,,Phone,,5.5
+POT-AL00 POT-AL10,,Huawei,,HUAWEI 麦芒 8,,Phone,,5.5
+2014910,,Xiaomi,,红米 Note 1S,,Phone,,5.5
+BKL-AL10,,Honor,,荣耀 V10,,Phone,,5.5
+JEF-AN00,,Huawei,,HUAWEI nova 7,,Phone,,5.5
+SM-G9550,,Samsung,,Galaxy S8+,,Phone,,5.5
+V2162A,,vivo,,vivo S12,,Phone,,5.5
+M1906F9SC,,Xiaomi,,小米 CC9e,,Phone,,5.5
+HUAWEI ALE-CL00,,Huawei,,华为 P8,,Phone,,5.5
+V1930A,,Vivo,,vivo Y3 标准版,,Phone,,5.5
+V1930T,,Vivo,,vivo Y3 标准版,,Phone,,5.5
+Z999,,Zte,,中兴天机 Axon M,,Phone,,5.5
+MCT1,,Xiaomi,,小米 6,,Phone,,5.5
+SM-J3119S,,Samsung,,Galaxy J3 Pro 增强版,,Phone,,5.5
+MCT8,,Xiaomi,,小米 Note 3,,Phone,,5.5
+2109119DG,,Xiaomi,,Xiaomi 11,,Phone,,5.5
+L65M6-5P,,Mitv,,小米电视 5 Pro,,TV,,5.5
+2109119DI,,Xiaomi,,Xiaomi 11,,Phone,,5.5
+T1-A21w,,Honor,,荣耀畅玩平板 note,,Pad,,5.5
+BND-AL10,,Honor,,荣耀畅玩 7X,,Phone,,5.5
+SM-G1600,,Samsung,,Galaxy Folder,,Phone,,5.5
+BND-AL00,,Honor,,荣耀畅玩 7X,,Phone,,5.5
+HUAWEI MT1-U06,,Huawei,,华为 Ascend Mate,,Phone,,5.5
+V2163A,,vivo,,vivo S12 Pro,,Phone,,5.5
+T1-A23L,,Honor,,荣耀畅玩平板 note,,Pad,,5.5
+JEF-AN20,,Huawei,,HUAWEI nova 7,,Phone,,5.5
+M351,,Meizu,,魅族 MX3,,Phone,,5.5
+M356,,Meizu,,魅族 MX3,,Phone,,5.5
+M355,,Meizu,,魅族 MX3,,Phone,,5.5
+M353,,Meizu,,魅族 MX3,,Phone,,5.5
+M891H,,Meizu,,魅族 15 Plus,,Phone,,5.5
+MRC-W70,,Huawei,,HUAWEI MateBook D,,PC,,5.5
+M891Q,,Meizu,,魅族 15 Plus,,Phone,,5.5
+M2101K9AI,,Xiaomi,,小米 11 Lite,,Phone,,5.5
+M2101K9AG,,Xiaomi,,小米 11 Lite,,Phone,,5.5
+CAM-AL00,,Honor,,荣耀畅玩 5A,,Phone,,5.5
+M1805E10A,,Xiaomi,,POCO F1,,Phone,,5.5
+SM-T555C,,Samsung,,Galaxy Tab A 8.0,,Phone,,5.5
+MRC-W60,,Huawei,,HUAWEI MateBook D,,PC,,5.5
+SCH-I889,,Samsung,,Galaxy Note,,Phone,,5.5
+M892Q,,Meizu,,魅族 16th Plus,,Phone,,5.5
+KIW-TL00,,Honor,,荣耀畅玩 5X,,Phone,,5.5
+M1804C3CG M1804C3CH,,Xiaomi,,红米 6A,,Phone,,5.5
+XT2137-2,,Motorola,,motorola g50,,Phone,,5.5
+HUAWEI M2-A01L,,Huawei,,华为揽阅 M2,,Pad,,5.5
+SLA-AL00,,Huawei,,华为畅享 7,,Phone,,5.5
+L60M7-EA,,Xiaomi,,小米电视 EA60 2022 款,,TV,,5.5
+MRC-W50,,Huawei,,HUAWEI MateBook D,,PC,,5.5
+JDN2-AL00,,Huawei,,华为平板 M5 青春版,,Pad,,5.5
+M578CE,,Meizu,,魅蓝 2,,Phone,,5.5
+M578CA,,Meizu,,魅蓝 2,,Phone,,5.5
+HUAWEI M2-A01W,,Huawei,,华为揽阅 M2,,Pad,,5.5
+SM-M3070,,Samsung,,Galaxy M30s,,Phone,,5.5
+M2002J9R,,Xiaomi,,小米 10 Lite,,Phone,,5.5
+M2002J9S,,Xiaomi,,小米 10 Lite,,Phone,,5.5
+PE-TL00M,,Honor,,荣耀 6 Plus,,Phone,,5.5
+M1901F7BE,,Xiaomi,,Redmi Note 7 Pro,,Phone,,5.5
+EVA-AL10,,Huawei,,HUAWEI P9,,Phone,,5.5
+PAHM00,,Oppo,,OPPO Find X,,Phone,,5.5
+GRA-UL10,,Huawei,,HUAWEI P8,,Phone,,5.5
+M2002J9G,,Xiaomi,,小米 10 Lite,,Phone,,5.5
+M2002J9E,,Xiaomi,,小米 10 青春版,,Phone,,5.5
+SM-G1650,,Samsung,,Galaxy Folder 2,,Phone,,5.5
+VRD-AL09,,Huawei,,华为平板 M6,,Pad,,5.5
+L65M9-SP,,Xiaomi,,小米电视 ES Pro 65,,TV,,5.5
+VRD-AL10,,Huawei,,华为平板 M6,,Pad,,5.5
+BZA-W00,,Huawei,,华为平板 C3,,Pad,,5.5
+A1397,,Apple,,iPad 2,,Pad,,5.5
+A1396,,Apple,,iPad 2,,Pad,,5.5
+MT1-T00,,Huawei,,华为 Ascend Mate,,Phone,,5.5
+U9508,,Honor,,华为荣耀手机,,Phone,,5.5
+GRA-UL00,,Huawei,,HUAWEI P8,,Phone,,5.5
+U9500,,Huawei,,华为 Ascend D1,,Phone,,5.5
+SM-T970,,Samsung,,Galaxy Tab S7+,,Phone,,5.5
+DAV-713L,,Huawei,,HUAWEI P8 Max,,Phone,,5.5
+L75M9-SP,,Xiaomi,,小米电视 ES Pro 75,,TV,,5.5
+L50R8-X,,Xiaomi,,Redmi 智能电视 X50 2022 款,,TV,,5.5
+MDZ-15-AA,,Mitv,,小米盒子,,TV,,5.5
+L50R8-A,,Xiaomi,,Redmi 智能电视 A50 2022 款,,TV,,5.5
+BMH-AN20,,Honor,,荣耀 30,,Phone,,5.5
+SM-A5160,,Samsung,,Galaxy A51 5G,,Phone,,5.5
+S685H,,Meizu,,魅蓝 Max,,Phone,,5.5
+S685M,,Meizu,,魅蓝 Max,,Phone,,5.5
+S685C,,Meizu,,魅蓝 Max,,Phone,,5.5
+SM-T735C,,Samsung,,Galaxy Tab S7 FE,,Phone,,5.5
+H30-L01M,,Honor,,荣耀 3C,,Phone,,5.5
+SKR-H0,,Xiaomi,,黑鲨游戏手机,,Phone,,5.5
+S685Q,,Meizu,,魅蓝 Max,,Phone,,5.5
+BAL-AL00,,Huawei,,HUAWEI P50 Pocket,,Phone,,5.5
+PCLM10,,Oppo,,OPPO Reno Ace,,Phone,,5.5
+KNT-AL10,,Honor,,荣耀 V8,,Phone,,5.5
+SM-A5108,,Samsung,,Galaxy A5,,Phone,,5.5
+M2003J6B1I,,Xiaomi,,Redmi Note 9 Pro Max,,Phone,,5.5
+A1367,,Apple,,iPod touch,,Phone,,5.5
+SM-A5100,,Samsung,,Galaxy A5,,Phone,,5.5
+SM-A2070,,Samsung,,Galaxy A20s,,Phone,,5.5
+Che2-TL00H,,Honor,,荣耀畅玩 4X,,Phone,,5.5
+PDNM00,,Oppo,,OPPO Reno4 Pro,,Phone,,5.5
+M2003J6B2G,,Xiaomi,,Redmi Note 9 Pro,,Phone,,5.5
+MRR-W29,,Huawei,,HUAWEI MatePad Pro 10.8,,Pad,,5.5
+SM-P583,,Samsung,,Galaxy Tab A,,Phone,,5.5
+Che2-TL00M,,Honor,,荣耀畅玩 4X,,Phone,,5.5
+SCM-W09,,Huawei,,华为平板 M6,,Pad,,5.5
+FLA-TL00 FLA-TL10,,Huawei,,华为畅享 8 Plus,,Phone,,5.5
+21091116C,,Xiaomi,,Redmi Note 11 Pro,,Phone,,5.5
+KNT-AL20,,Honor,,荣耀 V8,,Phone,,5.5
+21091116I,,Xiaomi,,Xiaomi 11i,,Phone,,5.5
+Nbl-WAP9HNR,,Honor,,荣耀 MagicBook 14,,PC,,5.5
+P6-T00V,,Huawei,,华为 Ascend P6,,Phone,,5.5
+21051182G,,Xiaomi,,小米平板 5,,Phone,,5.5
+21051182C,,Xiaomi,,小米平板 5 国行版,,Phone,,5.5
+X800+,,Letv,,乐 1 Pro,,Phone,,5.5
+MRR-W39,,Huawei,,HUAWEI MatePad Pro 10.8,,Pad,,5.5
+PDCM00,,Oppo,,OPPO Reno3,,Phone,,5.5
+BMH-AN10,,Honor,,荣耀 30,,Phone,,5.5
+PBDT00,,Oppo,,OPPO R17 Pro,,Phone,,5.5
+A1387,,Apple,,iPhone 4S,,Phone,,5.5
+ELS-AN00,,Huawei,,HUAWEI P40 Pro,,Phone,,5.5
+SM-J5008,,Samsung,,Galaxy J5,,Phone,,5.5
+PCAM00,,Oppo,,OPPO Reno,,Phone,,5.5
+EML-AL00,,Huawei,,HUAWEI P20,,Phone,,5.5
+M578MA,,Meizu,,魅蓝 2,,Phone,,5.5
+A1395,,Apple,,iPad 2,,Pad,,5.5
+Nbl-WAP9HNL,,Honor,,荣耀 MagicBook 14,,PC,,5.5
+D2-2010,,Huawei,,华为 Ascend D2,,Phone,,5.5
+V2207A,,vivo,,vivo S15 Pro,,Phone,,5.5
+EVA-AL00,,Huawei,,HUAWEI P9,,Phone,,5.5
+2014055,,Xiaomi,,红米 2A,,Phone,,5.5
+ELS-AN10,,Huawei,,HUAWEI P40 Pro+,,Phone,,5.5
+BZT-W09,,Huawei,,华为平板 C5,,Pad,,5.5
+PCAM10,,Oppo,,OPPO A9,,Phone,,5.5
+EDI-AL10,,Honor,,荣耀 Note8,,Phone,,5.5
+V1936AL,,Vivo,,iQOO Neo 855 竞速版,,Phone,,5.5
+Nbl-WAQ9HNRP,,Honor,,荣耀 MagicBook 14,,PC,,5.5
+NXT-AL10,,Huawei,,HUAWEI Mate 8,,Phone,,5.5
+A2895,,Apple,,iPhone 14 Pro Max,,Phone,,5.5
+A2894,,Apple,,iPhone 14 Pro Max,,Phone,,5.5
+A2893,,Apple,,iPhone 14 Pro Max,,Phone,,5.5
+WGR-W19,,Huawei,,HUAWEI MatePad Pro 12.6,,Pad,,5.5
+A2892,,Apple,,iPhone 14 Pro,,Phone,,5.5
+A1567,,Apple,,iPad Air 2,,Pad,,5.5
+A1566,,Apple,,iPad Air 2,,Pad,,5.5
+A2896,,Apple,,iPhone 14 Pro Max,,Phone,,5.5
+A2889,,Apple,,iPhone 14 Pro,,Phone,,5.5
+A2884,,Apple,,iPhone 14,,Phone,,5.5
+A1553,,Apple,,Apple Watch,,Phone,,5.5
+A2883,,Apple,,iPhone 14,,Phone,,5.5
+WGR-W09,,Huawei,,HUAWEI MatePad Pro 12.6,,Pad,,5.5
+A2882,,Apple,,iPhone 14,,Phone,,5.5
+A2881,,Apple,,iPhone 14,,Phone,,5.5
+A1550,,Apple,,iPad mini 4,,Pad,,5.5
+A2888,,Apple,,iPhone 14 Plus,,Phone,,5.5
+A2887,,Apple,,iPhone 14 Plus,,Phone,,5.5
+A2886,,Apple,,iPhone 14 Plus,,Phone,,5.5
+A2885,,Apple,,iPhone 14 Plus,,Phone,,5.5
+A1554,,Apple,,Apple Watch,,Phone,,5.5
+MDG6S,,Xiaomi,,红米 Note 5A,,Phone,,5.5
+TAH-AN00,,Huawei,,HUAWEI Mate X,,Phone,,5.5
+A2891,,Apple,,iPhone 14 Pro,,Phone,,5.5
+A2890,,Apple,,iPhone 14 Pro,,Phone,,5.5
+DUK-TL30,,Honor,,荣耀 V9,,Phone,,5.5
+TRT-TL10A,,Huawei,,华为畅享 7 Plus,,Phone,,5.5
+MDE2,,Xiaomi,,小米 5X,,Phone,,5.5
+MDE5,,Xiaomi,,小米 MIX 2,,Phone,,5.5
+MDE1,,Xiaomi,,红米 5,,Phone,,5.5
+M1806E7TG M1806E7TH,,Xiaomi,,红米 Note 6 Pro,,Phone,,5.5
+A1586,,Apple,,iPhone 6,,Phone,,5.5
+A1584,,Apple,,iPad Pro,,Pad,,5.5
+MDE6,,Xiaomi,,红米 Note 5A,,Phone,,5.5
+A1589,,Apple,,iPhone 6,,Phone,,5.5
+C1,,Xiaomi,,小米 1,,Phone,,5.5
+PLE-703LT,,Huawei,,华为揽阅 M2 青春版,,Phone,,5.5
+2201122G,,Xiaomi,,Xiaomi 12 Pro,,Phone,,5.5
+A1593,,Apple,,iPhone 6 Plus,,Phone,,5.5
+2201122C,,Xiaomi,,Xiaomi 12 Pro,,Phone,,5.5
+BZK-L00,,Huawei,,华为平板 C3,,Pad,,5.5
+RVL-AL09,,Honor,,荣耀 Note10,,Phone,,5.5
+PRA-AL00,,Honor,,荣耀 8 青春版,,Phone,,5.5
+V2106A,,Vivo,,iQOO U3x,,Phone,,5.5
+M2007J22R A001XM,,Xiaomi,,Redmi Note 9T,,Phone,,5.5
+KSR-A0,,Xiaomi,,黑鲨游戏手机 4 Pro,,Phone,,5.5
+L38011,,Lenovo,,联想 K5 Play,,Phone,,5.5
+A1574,,Apple,,iPod touch,,Phone,,5.5
+FRD-WFG9,,Honor,,荣耀猎人游戏本 V700,,PC,,5.5
+V1801A0,,Vivo,,vivo Z1,,Phone,,5.5
+ART-TL00x,,Huawei,,华为畅享 10,,Phone,,5.5
+A1528,,Apple,,iPhone 5s,,Phone,,5.5
+MDG6,,Xiaomi,,红米 Note 5A,,Phone,,5.5
+A1526,,Apple,,iPhone 5c,,Phone,,5.5
+HWI-AL00,,Huawei,,HUAWEI nova 2s,,Phone,,5.5
+MDG1,,Xiaomi,,红米 5,,Phone,,5.5
+MDG2,,Xiaomi,,小米 A1,,Phone,,5.5
+A1529,,Apple,,iPhone 5c,,Phone,,5.5
+PRS-H0,,Xiaomi,,黑鲨游戏手机 4,,Phone,,5.5
+A1524,,Apple,,iPhone 6 Plus,,Phone,,5.5
+SM-T825C,,Samsung,,Galaxy Tab S3,,Phone,,5.5
+Nbl-WAE9HN,,Honor,,荣耀 MagicBook 14,,PC,,5.5
+A1522,,Apple,,iPhone 6 Plus,,Phone,,5.5
+MRX-AL09,,Huawei,,HUAWEI MatePad Pro,,Pad,,5.5
+L32M7-EA,,Mitv,,小米电视 EA,,TV,,5.5
+SM-T295C,,Samsung,,Galaxy Tab A,,Phone,,5.5
+DUB-AL00a,,Huawei,,华为畅享 9,,Phone,,5.5
+A1516,,Apple,,iPhone 5c,,Phone,,5.5
+Boh-WAQ9HNR,,Honor,,荣耀 MagicBook 15,,PC,,5.5
+GOT-W29,,Huawei,,HUAWEI MatePad Pro 11 英寸,,Pad,,5.5
+H30-L01,,Honor,,荣耀 3C,,Phone,,5.5
+A1518,,Apple,,iPhone 5s,,Phone,,5.5
+H30-L02,,Honor,,荣耀 3C,,Phone,,5.5
+Boh-WAQ9HNL,,Honor,,荣耀 MagicBook 15,,PC,,5.5
+HD55DESY,,Huawei,,华为智慧屏 SE 系列,,TV,,5.5
+HD55DESZ,,Huawei,,华为智慧屏 SE 系列,,TV,,5.5
+MDI6,,Xiaomi,,红米 Note 5A,,Phone,,5.5
+A1549,,Apple,,iPhone 6,,Phone,,5.5
+L75R8-A,,Xiaomi,,Redmi 智能电视 A75 2022 款,,TV,,5.5
+MDI2,,Xiaomi,,小米 A1,,Phone,,5.5
+FRD-WFD9,,Honor,,荣耀猎人游戏本 V700,,PC,,5.5
+KSA-TL00,,Honor,,荣耀畅玩 8,,Phone,,5.5
+V2102A,,vivo,,vivo Y70t,,Phone,,5.5
+L75R8-X,,Xiaomi,,Redmi 智能电视 X75 2022 款,,TV,,5.5
+GOT-W09,,Huawei,,HUAWEI MatePad Pro 11 英寸 性能版,,Pad,,5.5
+A1538,,Apple,,iPad mini 4,,Pad,,5.5
+V2166BA,,vivo,,vivo Y77e,,Phone,,5.5
+A1530,,Apple,,iPhone 5s,,Phone,,5.5
+A1533,,Apple,,iPhone 5s,,Phone,,5.5
+A1532,,Apple,,iPhone 5c,,Phone,,5.5
+MRX-AL19,,Huawei,,HUAWEI MatePad Pro,,Pad,,5.5
+EVR-AN00,,Huawei,,HUAWEI Mate 20 X,,Phone,,5.5
+M2-A01W,,Huawei,,华为揽阅 M2 10.0,,Phone,,5.5
+Nbl-WAE9HNP,,Honor,,荣耀 MagicBook 14,,PC,,5.5
+M2-A01L,,Huawei,,华为揽阅 M2 10.0,,Phone,,5.5
+MDI1,,Xiaomi,,红米 5,,Phone,,5.5
+220333QL,,Xiaomi,,Redmi 10C 拉美版,,Phone,,5.5
+BAH4-W09 BAH4-W29,,Huawei,,HUAWEI MatePad,,Pad,,5.5
+U9200E,,Huawei,,华为 Ascend P1,,Phone,,5.5
+V2059A,,Vivo,,vivo X60 曲屏版,,Phone,,5.5
+U9200S,,Huawei,,华为 Ascend P1,,Phone,,5.5
+KLV-W19DL,,Huawei,,HUAWEI MateBook 14,,PC,,5.5
+RMX2202,,Realme,,realme 真我 GT,,Phone,,5.5
+HDL-W09,,Honor,,荣耀 Waterplay,,Pad,,5.5
+RMX2201,,Realme,,realme 真我 V3,,Phone,,5.5
+RMX2200,,Realme,,realme 真我 V3,,Phone,,5.5
+V1829A,,Vivo,,vivo X27,,Phone,,5.5
+220333QPG,,Xiaomi,,POCO C40,,Phone,,5.5
+220333QPI,,Xiaomi,,POCO C40,,Phone,,5.5
+BAH-AL00,,Huawei,,华为平板 M3 青春版,,Pad,,5.5
+2014512,,Xiaomi,,红米 2A,,Phone,,5.5
+L38082,,Lenovo,,联想 K6 畅享版,,Phone,,5.5
+A1509,,Apple,,iPod touch,,Phone,,5.5
+A1507,,Apple,,iPhone 5c,,Phone,,5.5
+BBZ-WBH9,,Huawei,,HUAWEI MateBook B3-510,,PC,,5.5
+AC2003,,Oneplus,,OnePlus Nord,,Phone,,5.5
+RMX2205,,Realme,,realme 真我 Q3 Pro,,Phone,,5.5
+L65M9-EP,,Xiaomi,,小米电视 EA Pro 65,,TV,,5.5
+AC2001,,Oneplus,,OnePlus Nord,,Phone,,5.5
+V1829T,,Vivo,,vivo X27,,Phone,,5.5
+SM-G8750,,Samsung,,Galaxy S 轻奢版,,Phone,,5.5
+ART-AL00x ART-AL00m,,Huawei,,华为畅享 10,,Phone,,5.5
+L70M5-4A,,Mitv,,小米电视 4A,,TV,,5.5
+SM-A9080,,Samsung,,Galaxy A90 5G,,Phone,,5.5
+220333QNY,,Xiaomi,,Redmi 10C,,Phone,,5.5
+PACM00,,Oppo,,OPPO R15,,Phone,,5.5
+STK-AL00,,Huawei,,华为畅享 10 Plus,,Phone,,5.5
+L70M5-4S,,Mitv,,小米电视 4S,,TV,,5.5
+NX627J,,Nubia,,nubia Z20,,Phone,,5.5
+MDZ-19-DA,,Mitv,,小米电视主机,,TV,,5.5
+OCE-AN10,,Huawei,,HUAWEI Mate 40,,Phone,,5.5
+SM-G6100,,Samsung,,Galaxy On7,,Phone,,5.5
+C199s,,Huawei,,华为麦芒 3S,,Phone,,5.5
+PLK-AL10,,Honor,,荣耀 7,,Phone,,5.5
+1509-A00,,360shouji,,360 手机 Q5 Plus,,Phone,,5.5
+L38021,,Lenovo,,联想 K5 Play,,Phone,,5.5
+L48M3-AR,,Mitv,,小米电视 2S,,TV,,5.5
+M8,,Meizu,,魅族 M8,,Phone,,5.5
+PCGM00,,Oppo,,OPPO K3,,Phone,,5.5
+M9,,Meizu,,魅族 M9,,Phone,,5.5
+2015816,,Xiaomi,,红米 3,,Phone,,5.5
+2015815,,Xiaomi,,红米 3,,Phone,,5.5
+MDZ-20-AA,,Mitv,,小米盒子,,TV,,5.5
+V2188A,,vivo,,vivo T2x,,Phone,,5.5
+2015819,,Xiaomi,,红米 3,,Phone,,5.5
+2015818,,Xiaomi,,红米 3,,Phone,,5.5
+HUAWEI GRA-TL00,,Huawei,,华为 P8,,Phone,,5.5
+2015817,,Xiaomi,,红米 3,,Phone,,5.5
+WLZ-AN00,,Huawei,,HUAWEI nova 6,,Phone,,5.5
+L38012,,Lenovo,,联想 K5 Note,,Phone,,5.5
+Le,,Letv,,乐 2,,Phone,,5.5
+V2055A,,Vivo,,iQOO Neo5,,Phone,,5.5
+L55M6-TM,,Mitv,,小米电视 大师系列,,TV,,5.5
+WRTD-WFH9,,Huawei,,HUAWEI MateBook 13,,PC,,5.5
+2015812,,Xiaomi,,红米 3,,Phone,,5.5
+2015811,,Xiaomi,,红米 3,,Phone,,5.5
+2015810,,Xiaomi,,红米 3,,Phone,,5.5
+BZH-W00 BZH-W30,,Huawei,,华为平板 C3,,Pad,,5.5
+BRQ-AN00,,Huawei,,HUAWEI nova 8 Pro,,Phone,,5.5
+L38031,,Lenovo,,联想 K5s,,Phone,,5.5
+STF-AL00,,Honor,,荣耀 9,,Phone,,5.5
+V1824A,,Vivo,,iQOO,,Phone,,5.5
+PCAT00,,Oppo,,OPPO Reno,,Phone,,5.5
+PCRM00,,Oppo,,OPPO Reno3 Pro,,Phone,,5.5
+BAC-TL00,,Huawei,,HUAWEI nova 2 Plus,,Phone,,5.5
+V2056A,,Vivo,,vivo X60 Pro+,,Phone,,5.5
+NX629J,,Nubia,,红魔 3,,Phone,,5.5
+M1908C3KG M1908C3KH,,Xiaomi,,Redmi 8A,,Phone,,5.5
+L38041,,Lenovo,,联想 K5 Pro,,Phone,,5.5
+TAG-AL00,,Huawei,,华为畅享 5S,,Phone,,5.5
+21061110AG,,Xiaomi,,POCO X3 GT,,Phone,,5.5
+STF-AL10,,Honor,,荣耀 9,,Phone,,5.5
+OXP-AN00,,Honor,,荣耀 Play4 Pro,,Phone,,5.5
+MDZ-19-AA,,Mitv,,小米盒子,,TV,,5.5
+TNY-AL00,,Honor,,荣耀 Magic2,,Phone,,5.5
+PBEM00,,Oppo,,OPPO R17,,Phone,,5.5
+V2057A,,Vivo,,vivo Y52s,,Phone,,5.5
+HBB-WAE9PHNL,,Honor,,荣耀 MagicBook Pro 2020,,PC,,5.5
+HD55KANC,,Huawei,,华为智慧屏 S 系列,,TV,,5.5
+2014502,,Xiaomi,,红米 2A,,Phone,,5.5
+LLD-TL10,,Honor,,荣耀 9 青春版,,Phone,,5.5
+HD55KANB,,Huawei,,华为智慧屏 S 系列,,TV,,5.5
+2014501,,Xiaomi,,红米 1S,,Phone,,5.5
+22021211RI,,Xiaomi,,POCO F4,,Phone,,5.5
+GT-I9108,,Samsung,,Galaxy S2,,Phone,,5.5
+22021211RG,,Xiaomi,,POCO F4,,Phone,,5.5
+G750-T01,,Honor,,荣耀真八核畅玩版,,Phone,,5.5
+P6,,Huawei,,华为 Ascend P6S,,Phone,,5.5
+PRS-A0,,Xiaomi,,黑鲨游戏手机 4,,Phone,,5.5
+G750-T00,,Honor,,荣耀 3X,,Phone,,5.5
+GT-I9100,,Samsung,,Galaxy S2,,Phone,,5.5
+BBZ-WBE9,,Huawei,,HUAWEI MateBook B3-510,,PC,,5.5
+22021211RC,,Xiaomi,,Redmi K40S,,Phone,,5.5
+OCE-AN50,,Huawei,,HUAWEI Mate 40E,,Phone,,5.5
+TNY-AL10,,Honor,,荣耀 Magic2,,Phone,,5.5
+1503-M02,,360shouji,,360 手机 N4,,Phone,,5.5
+Boh-WAQ9L,,Huawei,,HUAWEI MateBook D 15,,PC,,5.5
+V1831A,,Vivo,,vivo S1,,Phone,,5.5
+RMX2151,,Realme,,realme 7,,Phone,,5.5
+ELE-TL00,,Huawei,,HUAWEI P30,,Phone,,5.5
+TRT-AL00 TRT-AL00A,,Huawei,,华为畅享 7 Plus,,Phone,,5.5
+KPRC-W20L,,Honor,,荣耀 MagicBook 2019 锐龙版,,PC,,5.5
+RIO-AL00,,Huawei,,华为麦芒 4,,Phone,,5.5
+RMX2156,,Realme,,realme Narzo 30,,Phone,,5.5
+2206123SC,,Xiaomi,,Xiaomi 12S,,Phone,,5.5
+M2004J11G,,Xiaomi,,POCO F2 Pro,,Phone,,5.5
+Boh-WAQ9R,,Huawei,,HUAWEI MateBook D 15,,PC,,5.5
+MDT1,,Xiaomi,,红米 5,,Phone,,5.5
+COR-AL10,,Honor,,荣耀 Play,,Phone,,5.5
+MDT2,,Xiaomi,,小米 5X,,Phone,,5.5
+MDT4,,Xiaomi,,小米 Max 2,,Phone,,5.5
+V1831T,,Vivo,,vivo S1,,Phone,,5.5
+A5010,,Oneplus,,OnePlus 5T,,Phone,,5.5
+V2196A,,vivo,,iQOO Neo6,,Phone,,5.5
+MDT5,,Xiaomi,,小米 MIX 2,,Phone,,5.5
+MDT6,,Xiaomi,,红米 Note 5A,,Phone,,5.5
+RMX2161,,Realme,,realme Narzo 20 Pro,,Phone,,5.5
+V1832A,,Vivo,,vivo S1 Pro,,Phone,,5.5
+V1965A,,Vivo,,vivo Y50,,Phone,,5.5
+MHA-AL00,,Huawei,,HUAWEI Mate 9,,Phone,,5.5
+A5000,,Oneplus,,OnePlus 5,,Phone,,5.5
+L78121,,Lenovo,,联想 Z6,,Phone,,5.5
+MAT136,,Xiaomi,,红米 4X,,Phone,,5.5
+V1832T,,Vivo,,vivo S1 Pro,,Phone,,5.5
+V2197A,,vivo,,iQOO U5e,,Phone,,5.5
+WRTD-WFE9,,Huawei,,HUAWEI MateBook 13,,PC,,5.5
+CDY-AN00 CDY-AN20,,Huawei,,HUAWEI nova 7 SE,,Phone,,5.5
+PDCT00,,Oppo,,OPPO Reno3,,Phone,,5.5
+DT2003A,,Smartisan,,Smartisan TNT go,,Phone,,5.5
+RMX2170,,Realme,,realme 7 Pro,,Phone,,5.5
+DT2003C,,Smartisan,,Smartisan TNT go,,Phone,,5.5
+RMX2176,,Realme,,realme 真我 X7,,Phone,,5.5
+RMX2173,,Realme,,realme 真我 Q2 Pro,,Phone,,5.5
+HUAWEI,,Honor,,华为荣耀手机,,Phone,,5.5
+PCAT10,,Oppo,,OPPO A9,,Phone,,5.5
+V2065A,,Vivo,,iQOO U1x,,Phone,,5.5
+L49M5-AZ,,Mitv,,小米电视 4A,,TV,,5.5
+2015911,,Xiaomi,,小米 4S,,Phone,,5.5
+PDNT00,,Oppo,,OPPO Reno4 Pro,,Phone,,5.5
+SM-T800,,Samsung,,Galaxy Tab S 10.5,,Phone,,5.5
+SP,,Zte,,中兴天机 Axon 10s Pro 5G,,Phone,,5.5
+SM-A9000,,Samsung,,Galaxy A9,,Phone,,5.5
+L49M5-AB,,Mitv,,小米电视 4,,TV,,5.5
+SM-G9200,,Samsung,,Galaxy S6,,Phone,,5.5
+RMX2183,,Realme,,realme C15,,Phone,,5.5
+RMX2181,,Realme,,realme C15,,Phone,,5.5
+RMX2180,,Realme,,realme C15,,Phone,,5.5
+RMX2186,,Realme,,realme C11,,Phone,,5.5
+RMX2185,,Realme,,realme C11,,Phone,,5.5
+RMX2184,,Realme,,realme C12,,Phone,,5.5
+RMX2189,,Realme,,realme C12,,Phone,,5.5
+SNE-AL00,,Huawei,,HUAWEI 麦芒 7,,Phone,,5.5
+NblL-WFP9,,Huawei,,HUAWEI MateBook D 14,,PC,,5.5
+U9510E,,Huawei,,华为 Ascend D1,,Phone,,5.5
+V2199A,,vivo,,iQOO Neo6 SE,,Phone,,5.5
+SKW-A0,,Xiaomi,,黑鲨游戏手机 2,,Phone,,5.5
+SM-G9209,,Samsung,,Galaxy S6,,Phone,,5.5
+220733SL,,Xiaomi,,Redmi A1 拉美版,,Phone,,5.5
+V2066A,,Vivo,,vivo Y30 活力版,,Phone,,5.5
+SM-G9208,,Samsung,,Galaxy S6,,Phone,,5.5
+KOB2-W09HN,,Honor,,荣耀平板 X7,,Pad,,5.5
+220733SG,,Xiaomi,,Redmi A1,,Phone,,5.5
+V1730DA,,Vivo,,vivo Z1i,,Phone,,5.5
+220733SI,,Xiaomi,,Redmi A1,,Phone,,5.5
+RMX2193,,Realme,,realme 7i,,Phone,,5.5
+HBL-W29,,Honor,,荣耀 MagicBook Pro,,PC,,5.5
+RMX2191,,Realme,,realme Narzo 20,,Phone,,5.5
+SHARK KLE-H0,,Xiaomi,,黑鲨游戏手机 3,,Phone,,5.5
+RMX2195,,Realme,,realme C15 高通版,,Phone,,5.5
+8681-M02,,360shouji,,360 手机奇酷青春版,,Phone,,5.5
+8681-M01,,360shouji,,360 手机奇酷青春版,,Phone,,5.5
+LDN-AL10,,Huawei,,华为畅享 8,,Phone,,5.5
+M2001C3K3I,,Xiaomi,,Redmi 8A Dual,,Phone,,5.5
+M462,,Meizu,,魅族 MX4 Pro,,Phone,,5.5
+V1730EA,,Vivo,,vivo Y89,,Phone,,5.5
+M461,,Meizu,,魅族 MX4,,Phone,,5.5
+HBL-W19,,Honor,,荣耀 MagicBook Pro,,PC,,5.5
+M460,,Meizu,,魅族 MX4,,Phone,,5.5
+H30-T00,,Honor,,荣耀 3C,,Phone,,5.5
+ASK-AL00x,,Honor,,荣耀 Play3,,Phone,,5.5
+LDN-AL00,,Huawei,,华为畅享 8,,Phone,,5.5
+V1730DT,,Vivo,,vivo Z1i,,Phone,,5.5
+L42R7-RA,,Mitv,,Redmi 红米电视,,TV,,5.5
+V2061A,,Vivo,,iQOO U3,,Phone,,5.5
+V1962A,,Vivo,,vivo S6,,Phone,,5.5
+H30-T10,,Honor,,荣耀 3C,,Phone,,5.5
+M792H,,Meizu,,魅族 PRO 7,,Phone,,5.5
+M792C,,Meizu,,魅族 PRO 7,,Phone,,5.5
+M792Q,,Meizu,,魅族 PRO 7,,Phone,,5.5
+H30-C00,,Honor,,荣耀 3C,,Phone,,5.5
+KIW-UL00,,Honor,,荣耀畅玩 5X,,Phone,,5.5
+WRT-W19L,,Huawei,,HUAWEI MateBook 13,,PC,,5.5
+PLK-TL00,,Honor,,荣耀 7,,Phone,,5.5
+PDYT20,,Oppo,,OPPO A72,,Phone,,5.5
+V1730GA,,Vivo,,vivo Z3x,,Phone,,5.5
+M1807E8A,,Xiaomi,,小米 8 屏幕指纹版,,Phone,,5.5
+V1963A,,Vivo,,vivo Z6,,Phone,,5.5
+7530N,,Zte,,中兴远航 10,,Phone,,5.5
+ATH-AL00,,Honor,,荣耀 7i,,Phone,,5.5
+NEM-TL00H,,Honor,,荣耀畅玩 5C,,Phone,,5.5
+M793H,,Meizu,,魅族 PRO 7 Plus,,Phone,,5.5
+LDN-AL20,,Huawei,,华为畅享 8,,Phone,,5.5
+COR-AL00,,Honor,,荣耀 Play,,Phone,,5.5
+M793Q,,Meizu,,魅族 PRO 7 Plus,,Phone,,5.5
+M621C-S,,Meizu,,魅蓝 Note5,,Phone,,5.5
+2015052,,Xiaomi,,红米 Note 2,,Phone,,5.5
+2015051,,Xiaomi,,红米 Note 2,,Phone,,5.5
+M2004J19C,,Xiaomi,,Redmi 9,,Phone,,5.5
+22031116AI,,Xiaomi,,POCO M4 Pro,,Phone,,5.5
+LYA-AL00P,,Huawei,,HUAWEI Mate 20 RS 保时捷设计,,Phone,,5.5
+2015056,,Xiaomi,,红米 Note 2,,Phone,,5.5
+M2004J19I,,Xiaomi,,Redmi 9,,Phone,,5.5
+2015055,,Xiaomi,,红米 Note 2,,Phone,,5.5
+SCM-AL09,,Huawei,,华为平板 M6,,Pad,,5.5
+SM-G9250,,Samsung,,Galaxy S6 edge,,Phone,,5.5
+M2004J19G,,Xiaomi,,Redmi 9,,Phone,,5.5
+V0840,,Zte,,中兴小鲜 5,,Phone,,5.5
+PECM20 PECM30,,OPPO,,OPPO A53,,Phone,,5.5
+NXT-DL00,,Huawei,,HUAWEI Mate 8,,Phone,,5.5
+SM-T860,,Samsung,,Galaxy Tab S6,,Phone,,5.5
+JEF-TN00,,Huawei,,HUAWEI nova 7,,Phone,,5.5
+P6-U06,,Huawei,,华为 Ascend P6,,Phone,,5.5
+S8-301W,,Huawei,,华为 MediaPad M1,,Pad,,5.5
+HUAWEI G6-T00,,Huawei,,华为 Ascend G6,,Phone,,5.5
+A199,,Huawei,,华为麦芒 A199,,Phone,,5.5
+S8-301U,,Huawei,,华为 MediaPad M1,,Pad,,5.5
+21061119DG,,Xiaomi,,Redmi 10,,Phone,,5.5
+SM-N9100,,Samsung,,Galaxy Note4,,Phone,,5.5
+BAH4-AL10,,Huawei,,HUAWEI MatePad,,Pad,,5.5
+21091116UG,,Xiaomi,,Redmi Note 11 Pro+,,Phone,,5.5
+V2190A,,vivo,,vivo S15e,,Phone,,5.5
+21091116UC,,Xiaomi,,Redmi Note 11 Pro+,,Phone,,5.5
+NAM-AL00,,Huawei,,HUAWEI nova 9,,Phone,,5.5
+V2020CA,,Vivo,,vivo S7,,Phone,,5.5
+MBU-H0,,Xiaomi,,腾讯黑鲨游戏手机 3 Pro,,Phone,,5.5
+HUAWEI G6-C00,,Huawei,,华为 Ascend G6,,Phone,,5.5
+JEF-TN20,,Huawei,,HUAWEI nova 7,,Phone,,5.5
+NX573J,,Nubia,,nubia M2 青春版,,Phone,,5.5
+SM-F9000,,Samsung,,Galaxy Fold,,Phone,,5.5
+SM-G9280,,Samsung,,Galaxy S6 edge+,,Phone,,5.5
+21091116UI,,Xiaomi,,Xiaomi 11i HyperCharge,,Phone,,5.5
+SM-T870,,Samsung,,Galaxy Tab S7,,Phone,,5.5
+22031116BG,,Xiaomi,,Redmi Note 11S,,Phone,,5.5
+2015011,,Xiaomi,,小米 Note,,Phone,,5.5
+MCE16,,Xiaomi,,小米 6,,Phone,,5.5
+ONE E1005,,OnePlus,,X,,Phone,,5.5
+NbB-WAE9P,,Huawei,,HUAWEI MateBook D 14,,PC,,5.5
+HUAWEI MT2-U071,,Huawei,,华为 Ascend Mate 2,,Phone,,5.5
+ONE E1003,,OnePlus,,X,,Phone,,5.5
+ONE E1000,,OnePlus,,X,,Phone,,5.5
+DT1902A,,Smartisan,,坚果 Pro 3,,Phone,,5.5
+ONE E1001,,OnePlus,,X,,Phone,,5.5
+HWI-TL00,,Huawei,,HUAWEI nova 2s,,Phone,,5.5
+A1489,,Apple,,iPad mini 2,,Pad,,5.5
+A1490,,Apple,,iPad mini 2,,Pad,,5.5
+NblL-WFQ9,,Huawei,,HUAWEI MateBook D 14,,PC,,5.5
+21061119AG,,Xiaomi,,Redmi 10,,Phone,,5.5
+YQ601,,Smartisan,,坚果手机,,Phone,,5.5
+SCH-I939,,Samsung,,Galaxy S3,,Phone,,5.5
+A1491,,Apple,,iPad mini 2,,Pad,,5.5
+2015015,,Xiaomi,,小米 4i,,Phone,,5.5
+21061119AL,,Xiaomi,,Redmi 10 拉美版,,Phone,,5.5
+SM-T820,,Samsung,,Galaxy Tab S3,,Phone,,5.5
+XT1115,,Motorola,,Moto X Pro,,Phone,,5.5
+SM-G8508S,,Samsung,,Galaxy Alpha,,Phone,,5.5
+CPN-AL00,,Huawei,,华为平板 M3 青春版,,Pad,,5.5
+DT2002C,,Smartisan,,坚果 R2,,Phone,,5.5
+YQ605,,Smartisan,,坚果手机,,Phone,,5.5
+A1476,,Apple,,iPad Air,,Pad,,5.5
+A1475,,Apple,,iPad Air,,Pad,,5.5
+YQ603,,Smartisan,,坚果手机,,Phone,,5.5
+NX575J,,Nubia,,nubia N2,,Phone,,5.5
+A1474,,Apple,,iPad Air,,Pad,,5.5
+M2102J2SC,,Xiaomi,,小米 10S,,Phone,,5.5
+ALE-UL00,,Huawei,,HUAWEI P8 青春版,,Phone,,5.5
+YQ607,,Smartisan,,坚果手机,,Phone,,5.5
+HUAWEI MT1-T00,,Huawei,,华为 Ascend Mate,,Phone,,5.5
+SM-T813,,Samsung,,Galaxy Tab S2 9.7,,Phone,,5.5
+JAD-AL00 JAD-AL80,,Huawei,,HUAWEI P50 Pro,,Phone,,5.5
+SHARK KLE-A0,,Xiaomi,,腾讯黑鲨游戏手机 3S,,Phone,,5.5
+CND-AN00,,Huawei,,HUAWEI nova 7 SE 5G 活力版,,Phone,,5.5
+SM-G5700,,Samsung,,Galaxy On5,,Phone,,5.5
+CLT-TL00,,Huawei,,HUAWEI P20 Pro,,Phone,,5.5
+SCL-TL00H,,Honor,,荣耀 4A,,Phone,,5.5
+CLT-TL01,,Huawei,,HUAWEI P20 Pro,,Phone,,5.5
+SM-T810,,Samsung,,Galaxy Tab S2 9.7,,Phone,,5.5
+M973Q,,Meizu,,魅族 16s Pro,,Phone,,5.5
+SM-N9150,,Samsung,,Galaxy Note Edge,,Phone,,5.5
+FIG-TL00,,Huawei,,华为畅享 7S,,Phone,,5.5
+JAT-TL00,,Honor,,荣耀畅玩 8A,,Phone,,5.5
+CPH1861,,Realme,,realme 1,,Phone,,5.5
+CPH1859,,Realme,,realme 1,,Phone,,5.5
+SCH-I959,,Samsung,,Galaxy S4,,Phone,,5.5
+SLA-TL10,,Huawei,,华为畅享 7,,Phone,,5.5
+KSA-AL10,,Honor,,荣耀 Play3e,,Phone,,5.5
+MAI132,,Xiaomi,,红米 4X,,Phone,,5.5
+FIG-TL10,,Huawei,,华为畅享 7S,,Phone,,5.5
+DT1901A,,Smartisan,,坚果 Pro 3,,Phone,,5.5
+2015022,,Xiaomi,,小米 Note 顶配版,,Phone,,5.5
+2015021,,Xiaomi,,小米 Note 顶配版,,Phone,,5.5
+2014512 2014055,,Xiaomi,,红米 2A,,Phone,,5.5
+21061119BI,,Xiaomi,,Redmi 10,,Phone,,5.5
+M971H,,Meizu,,魅族 16s,,Phone,,5.5
+ASK-AL20,,Honor,,荣耀 Play3,,Phone,,5.5
+V2020A V2020CA,,vivo,,vivo S7,,Phone,,5.5
+BZT3-W59 BZT3-W69,,Huawei,,华为平板 C5,,Pad,,5.5
+M971Q,,Meizu,,魅族 16s,,Phone,,5.5
+KSA-AL00,,Honor,,荣耀畅玩 8,,Phone,,5.5
+SM-T830,,Samsung,,Galaxy Tab S4,,Phone,,5.5
+21121210G,,Xiaomi,,POCO F4 GT,,Phone,,5.5
+2012061,,Xiaomi,,小米 2,,Phone,,5.5
+2012062,,Xiaomi,,小米 2,,Phone,,5.5
+21121210C,,Xiaomi,,Redmi K50,,Phone,,5.5
+HD75THAA,,Huawei,,华为智慧屏 V 系列 2021 款,,TV,,5.5
+L75M5-4S,,Mitv,,小米电视 4S,,TV,,5.5
+21121210I,,Xiaomi,,POCO F4 GT,,Phone,,5.5
+PEFM00,,Oppo,,OPPO A35,,Phone,,5.5
+A1688,,Apple,,iPhone 6s,,Phone,,5.5
+MEE7,,Xiaomi,,红米 5 Plus,,Phone,,5.5
+A1687,,Apple,,iPhone 6s Plus,,Phone,,5.5
+RMX1853,,Realme,,realme 3 Pro,,Phone,,5.5
+RMX1851,,Realme,,realme X 青春版,,Phone,,5.5
+A1691,,Apple,,iPhone 6s,,Phone,,5.5
+A1690,,Apple,,iPhone 6s Plus,,Phone,,5.5
+HUAWEI VNS-CL00,,Huawei,,HUAWEI G9,,Phone,,5.5
+HUAWEI MT2-L05,,Huawei,,华为 Ascend Mate 2,,Phone,,5.5
+LYA-TL00,,Huawei,,HUAWEI Mate 20 Pro,,Phone,,5.5
+2012052,,Xiaomi,,小米 1S,,Phone,,5.5
+HUAWEI MT2-L02,,Huawei,,华为 Ascend Mate 2,,Phone,,5.5
+2012053,,Xiaomi,,小米 1S,,Phone,,5.5
+2012051,,Xiaomi,,小米 1S,,Phone,,5.5
+M1908C3IG M1908C3IH,,Xiaomi,,Redmi 8,,Phone,,5.5
+A1674,,Apple,,iPad Pro,,Pad,,5.5
+A1673,,Apple,,iPad Pro,,Pad,,5.5
+L70081,,Lenovo,,拯救者电竞手机 2 Pro,,Phone,,5.5
+A1671,,Apple,,iPad Pro,,Pad,,5.5
+A1675,,Apple,,iPad Pro,,Pad,,5.5
+MEI7S,,Xiaomi,,红米 Note 5,,Phone,,5.5
+MCT3B,,Xiaomi,,红米 5A,,Phone,,5.5
+ANA-AL00,,Huawei,,HUAWEI P40,,Phone,,5.5
+2106118C,,Xiaomi,,Xiaomi MIX 4,,Phone,,5.5
+BG2-W09,,Honor,,荣耀畅玩平板 2,,Pad,,5.5
+SM-C5018,,Samsung,,Galaxy C5 Pro,,Phone,,5.5
+TAS-AN00,,Huawei,,HUAWEI Mate 30,,Phone,,5.5
+KOB-W09,,Honor,,荣耀畅玩平板 2,,Pad,,5.5
+MEG7,,Xiaomi,,红米 5 Plus,,Phone,,5.5
+SM-W2020,,Samsung,,三星 W20 5G,,Phone,,5.5
+SM-W2021,,Samsung,,三星 W21 5G,,Phone,,5.5
+T1-701ua,,Honor,,荣耀畅玩平板,,Pad,,5.5
+V1813BT,,Vivo,,vivo Z3,,Phone,,5.5
+2015115,,Xiaomi,,红米 Note 3,,Phone,,5.5
+2015112,,Xiaomi,,红米 Note 3,,Phone,,5.5
+SM-C5010,,Samsung,,Galaxy C5 Pro,,Phone,,5.5
+2015116,,Xiaomi,,红米 Note 3,,Phone,,5.5
+SM-W2017,,Samsung,,三星 W2017,,Phone,,5.5
+SM-W2018,,Samsung,,三星 W2018,,Phone,,5.5
+SM-W2019,,Samsung,,三星 W2019,,Phone,,5.5
+SM-W2014,,Samsung,,三星 W2014,,Phone,,5.5
+SM-W2015,,Samsung,,三星 W2015,,Phone,,5.5
+SM-W2016,,Samsung,,三星 W2016,,Phone,,5.5
+PCRT01,,Oppo,,OPPO Reno3 元气版,,Phone,,5.5
+A1699,,Apple,,iPhone 6s Plus,,Phone,,5.5
+PCRT00,,Oppo,,OPPO Reno3 Pro,,Phone,,5.5
+PCGT00,,Oppo,,OPPO K3,,Phone,,5.5
+OD105,,Smartisan,,坚果 Pro,,Phone,,5.5
+2015105,,Xiaomi,,小米 5,,Phone,,5.5
+V1813BA,,Vivo,,vivo Z3,,Phone,,5.5
+M1901F9T,,Xiaomi,,小米 Play,,Phone,,5.5
+MEI7,,Xiaomi,,红米 Note 5,,Phone,,5.5
+PRA-TL10,,Honor,,荣耀 8 青春版,,Phone,,5.5
+M2105K81AC,,Xiaomi,,小米平板 5 Pro,,Phone,,5.5
+DRA-AL00,,Huawei,,华为畅享 8e 青春,,Phone,,5.5
+WT-W09,,Huawei,,HUAWEI MateBook X,,PC,,5.5
+HUAWEI MT7-CL00,,Huawei,,华为 Ascend Mate 7,,Phone,,5.5
+EVA-CL00,,Huawei,,HUAWEI P9,,Phone,,5.5
+A1634,,Apple,,iPhone 6s Plus,,Phone,,5.5
+SM-T705C,,Samsung,,Galaxy Tab S 8.4,,Phone,,5.5
+A1633,,Apple,,iPhone 6s,,Phone,,5.5
+MBU-A0,,Xiaomi,,腾讯黑鲨游戏手机 3 Pro,,Phone,,5.5
+SM-C5000,,Samsung,,Galaxy C5,,Phone,,5.5
+L43M5-5S,,Mitv,,小米电视 4S,,TV,,5.5
+M1901F7T,,Xiaomi,,Redmi Note 7,,Phone,,5.5
+M1901F7S,,Xiaomi,,Redmi Note 7 Pro,,Phone,,5.5
+M1901F7I,,Xiaomi,,Redmi Note 7,,Phone,,5.5
+A1662,,Apple,,iPhone SE,,Phone,,5.5
+A1661,,Apple,,iPhone 7 Plus,,Phone,,5.5
+M822H,,Meizu,,魅族 Note8,,Phone,,5.5
+TAG-TL00,,Huawei,,华为畅享 5S,,Phone,,5.5
+M1901F7H,,Xiaomi,,Redmi Note 7,,Phone,,5.5
+A1660,,Apple,,iPhone 7,,Phone,,5.5
+M1901F7G,,Xiaomi,,Redmi Note 7,,Phone,,5.5
+KLCZ-WDH9,,Huawei,,HUAWEI MateBook B5-420,,PC,,5.5
+SM-T835C,,Samsung,,Galaxy Tab S4,,Phone,,5.5
+2107119DC,,Xiaomi,,Xiaomi 11,,Phone,,5.5
+A1670,,Apple,,iPad Pro,,Pad,,5.5
+CLT-AL00,,Huawei,,HUAWEI P20 Pro,,Phone,,5.5
+CLT-AL01,,Huawei,,HUAWEI P20 Pro,,Phone,,5.5
+S8-303L,,Huawei,,华为 MediaPad M1,,Pad,,5.5
+MHA-TL00,,Huawei,,HUAWEI Mate 9,,Phone,,5.5
+L43M5-5A,,Mitv,,小米电视 4A,,TV,,5.5
+A001XM,,Xiaomi,,Redmi Note 9T,,Phone,,5.5
+L43M5-4X,,Mitv,,小米电视 4X,,TV,,5.5
+WT-W19,,Huawei,,HUAWEI MateBook X,,PC,,5.5
+M2102J20SI,,Xiaomi,,POCO X3 Pro,,Phone,,5.5
+PEQM00,,Oppo,,OPPO Reno6,,Phone,,5.5
+A1652,,Apple,,iPad Pro,,Pad,,5.5
+HRY-TL00T,,Honor,,荣耀 20i,,Phone,,5.5
+ASK-TL00x,,Honor,,荣耀 Play3,,Phone,,5.5
+HDN-L09,,Honor,,荣耀 Waterplay,,Pad,,5.5
+M822Q,,Meizu,,魅族 Note8,,Phone,,5.5
+MDZ-16-AA,,Mitv,,小米盒子,,TV,,5.5
+M1901F9E,,Xiaomi,,小米 Play,,Phone,,5.5
+M2102J20SG,,Xiaomi,,POCO X3 Pro,,Phone,,5.5
+SM-W700,,Samsung,,Galaxy TabPro S,,Phone,,5.5
+L70M5-RA,,Mitv,,Redmi 红米电视,,TV,,5.5
+TA-1388,,Nokia,,Nokia C20 Plus,,Phone,,5.5
+ARS-TL00,,Huawei,,华为畅享 Max,,Phone,,5.5
+A1601,,Apple,,iPad mini 3,,Pad,,5.5
+7D-501u,,Honor,,荣耀 X1,,Phone,,5.5
+A1600,,Apple,,iPad mini 3,,Pad,,5.5
+V1816A,,Vivo,,vivo X23 幻彩版,,Phone,,5.5
+NX503J,,Nubia,,nubia Z5S,,Phone,,5.5
+NX503A,,Nubia,,nubia Z5S,,Phone,,5.5
+M1807E8S,,Xiaomi,,小米 8 透明探索版,,Phone,,5.5
+PIC-AL00,,Huawei,,HUAWEI nova 2,,Phone,,5.5
+V2047A,,Vivo,,vivo X60 Pro,,Phone,,5.5
+SM-G8850,,Samsung,,Galaxy A9 Star,,Phone,,5.5
+M2007J17G,,Xiaomi,,小米 10T Lite,,Phone,,5.5
+M2007J17I,,Xiaomi,,小米 10i,,Phone,,5.5
+7D-503L,,Honor,,荣耀 X1,,Phone,,5.5
+M2007J17C,,Xiaomi,,Redmi Note 9 Pro,,Phone,,5.5
+L43R6-A,,Mitv,,Redmi 红米电视,,TV,,5.5
+1501-A02,,360shouji,,360 手机 F4,,Phone,,5.5
+DUB-TL00a,,Huawei,,华为畅享 9,,Phone,,5.5
+SM-G8858,,Samsung,,Galaxy A9 Star,,Phone,,5.5
+SM-G9608/DS,,Samsung,,Galaxy S9,,Phone,,5.5
+V2048A,,Vivo,,vivo S9e,,Phone,,5.5
+V1816T,,Vivo,,vivo X23 幻彩版,,Phone,,5.5
+L50M5-5A,,Mitv,,小米电视 4A,,TV,,5.5
+L43M5-AZ,,Mitv,,小米电视 4A,,TV,,5.5
+NOH-AN01,,Huawei,,HUAWEI Mate 40 Pro,,Phone,,5.5
+L43M5-AX,,Mitv,,小米电视 4C,,TV,,5.5
+NOH-AN00,,Huawei,,HUAWEI Mate 40 Pro,,Phone,,5.5
+NX505J,,Nubia,,nubia Z7 Max,,Phone,,5.5
+V1818A,,Vivo,,vivo Y93,,Phone,,5.5
+NX505H,,Nubia,,nubia Z7 Max,,Phone,,5.5
+L43M5-AU,,Mitv,,小米电视 4S,,TV,,5.5
+HUAWEI MLA-AL00,,Huawei,,HUAWEI 麦芒 5,,Phone,,5.5
+SM-G6200,,Samsung,,Galaxy A6s,,Phone,,5.5
+L50M5-5S,,Mitv,,小米电视 4S,,TV,,5.5
+V2049A,,Vivo,,iQOO 7,,Phone,,5.5
+SM-G8870,,Samsung,,Galaxy A8s,,Phone,,5.5
+WGR-AN19,,Huawei,,HUAWEI MatePad Pro 12.6,,Pad,,5.5
+L43M5-AD,,Mitv,,小米电视 4A,,TV,,5.5
+SM-T355C,,Samsung,,Galaxy Tab A 8.0,,Phone,,5.5
+NX506J,,Nubia,,nubia Z7,,Phone,,5.5
+BZW-AL00,,Huawei,,华为平板 C5,,Pad,,5.5
+V2220A,,vivo,,iQOO Z6,,Phone,,5.5
+V1818T,,Vivo,,vivo Y93,,Phone,,5.5
+COL-TL00,,Honor,,荣耀 10,,Phone,,5.5
+XT1710-08,,Motorola,,Moto Z2 Play,,Phone,,5.5
+NbM-WFP9,,Huawei,,HUAWEI MateBook D 14,,PC,,5.5
+X508,,Letv,,乐 1s,,Phone,,5.5
+MT2-U071,,Huawei,,华为 Ascend Mate 2,,Phone,,5.5
+NX507J,,Nubia,,nubia Z7 mini,,Phone,,5.5
+BZW-AL10,,Huawei,,华为平板 C5,,Pad,,5.5
+PGJM10,,OPPO,,OPPO K10,,Phone,,5.5
+PCT-AL10,,Honor,,荣耀 V20,,Phone,,5.5
+CHE-TL00H,,Honor,,荣耀畅玩 4X,,Phone,,5.5
+NX507H,,Nubia,,nubia Z7 mini,,Phone,,5.5
+SKW-H0,,Xiaomi,,黑鲨游戏手机 2,,Phone,,5.5
+G750-U00,,Honor,,荣耀 3X,,Phone,,5.5
+COL-TL10,,Honor,,荣耀 10,,Phone,,5.5
+XT1970-5,,Motorola,,motorola p50,,Phone,,5.5
+NbM-WFQ9,,Huawei,,HUAWEI MateBook D 14,,PC,,5.5
+V1945A,,Vivo,,vivo Y9s,,Phone,,5.5
+BoB-WAH9,,Huawei,,HUAWEI MateBook D 15,,PC,,5.5
+XT1710-11,,Motorola,,Moto Z2 Play,,Phone,,5.5
+X500,,Letv,,乐 1s,,Phone,,5.5
+X501,,Letv,,乐 1s,,Phone,,5.5
+X502,,Letv,,乐 1s,,Phone,,5.5
+1703-M01,,360shouji,,360 手机 C5,,Phone,,5.5
+V1945T,,Vivo,,vivo Y9s,,Phone,,5.5
+NX508J,,Nubia,,nubia Z9,,Phone,,5.5
+HUAWEI U9200,,Huawei,,华为 Ascend P1,,Phone,,5.5
+NX508H,,Nubia,,nubia Z9,,Phone,,5.5
+X525,,Letv,,乐 2,,Phone,,5.5
+X528,,Letv,,乐 2,,Phone,,5.5
+X529,,Letv,,乐 2,,Phone,,5.5
+V1813A,,Vivo,,vivo Y97,,Phone,,5.5
+V2178A,,vivo,,vivo X Fold,,Phone,,5.5
+M1803E6G M1803E6H,,Xiaomi,,红米 S2,,Phone,,5.5
+HUAWEI A199,,Huawei,,华为麦芒 A199,,Phone,,5.5
+V1813T,,Vivo,,vivo Y97,,Phone,,5.5
+V2045A,,vivo,,vivo Y54s,,Phone,,5.5
+MET7,,Xiaomi,,红米 5 Plus,,Phone,,5.5
+GT-I9228,,Samsung,,Galaxy Note,,Phone,,5.5
+G7-UL00,,Huawei,,华为 Ascend G7,,Phone,,5.5
+GT-I9220,,Samsung,,Galaxy Note,,Phone,,5.5
+V1814A,,Vivo,,vivo X21s,,Phone,,5.5
+2014617,,Xiaomi,,小米 Note,,Phone,,5.5
+2014616,,Xiaomi,,小米 Note,,Phone,,5.5
+JLH-AN00,,Honor,,荣耀 50 SE,,Phone,,5.5
+X520,,Letv,,乐 2,,Phone,,5.5
+NOH-AN50,,Huawei,,HUAWEI Mate 40E Pro,,Phone,,5.5
+X521,,Letv,,乐 2,,Phone,,5.5
+2014619,,Xiaomi,,小米 Note,,Phone,,5.5
+2014618,,Xiaomi,,小米 Note,,Phone,,5.5
+VKY-TL00,,Huawei,,HUAWEI P10 Plus,,Phone,,5.5
+V1814T,,Vivo,,vivo X21s,,Phone,,5.5
+V2046A,,Vivo,,vivo X60,,Phone,,5.5
+HUAWEI RIO-UL00,,Huawei,,华为 G7 Plus,,Phone,,5.5
+BAH3-W09,,Huawei,,HUAWEI MatePad,,Pad,,5.5
+A2122H,,Zte,,中兴 S30 Pro,,Phone,,5.5
+PLK-TL11H,,Honor,,荣耀 7,,Phone,,5.5
+JEF-AN00 JEF-AN20,,Huawei,,HUAWEI nova 7,,Phone,,5.5
+DCO-AL00,,Huawei,,HUAWEI Mate 50 RS,,Phone,,5.5
+BAH3-W59,,Huawei,,HUAWEI MatePad,,Pad,,5.5
+SM-A7160,,Samsung,,Galaxy A71 5G,,Phone,,5.5
+SM-G9300,,Samsung,,Galaxy S7,,Phone,,5.5
+G750-T20,,Honor,,荣耀 3X,,Phone,,5.5
+G621-TL00,,Honor,,荣耀畅玩 4,,Phone,,5.5
+ARS-AL00,,Huawei,,华为畅享 Max,,Phone,,5.5
+A2095,,Apple,,Apple Watch Series 5,,Watch,,5.5
+A2094,,Apple,,Apple Watch Series 5,,Watch,,5.5
+A2093,,Apple,,Apple Watch Series 5,,Phone,,5.5
+A2092,,Apple,,Apple Watch Series 5,,Phone,,5.5
+U9500E,,Huawei,,华为 Ascend D1,,Phone,,5.5
+A2099,,Apple,,iPhone XS,,Phone,,5.5
+A2098,,Apple,,iPhone XS,,Phone,,5.5
+A2097,,Apple,,iPhone XS,,Phone,,5.5
+V2185A,,vivo,,vivo X80 Pro,,Phone,,5.5
+SM-G9308,,Samsung,,Galaxy S7,,Phone,,5.5
+Nbl-WAQ9HNR,,Honor,,荣耀 MagicBook 14,,PC,,5.5
+WLZ-AL10,,Huawei,,HUAWEI nova 6,,Phone,,5.5
+PAFM00,,Oppo,,OPPO Find X,,Phone,,5.5
+JAT-AL00,,Honor,,荣耀畅玩 8A,,Phone,,5.5
+M571,,Meizu,,魅蓝 note2,,Phone,,5.5
+MLA-TL00,,Huawei,,HUAWEI G9 Plus,,Phone,,5.5
+M576,,Meizu,,魅族 PRO 5,,Phone,,5.5
+M575,,Meizu,,魅族 MX5,,Phone,,5.5
+HZ-W29,,Huawei,,HUAWEI MateBook,,PC,,5.5
+Nbl-WAQ9HNL,,Honor,,荣耀 MagicBook 14,,PC,,5.5
+V1821A,,Vivo,,vivo NEX 双屏版,,Phone,,5.5
+MI-ONE PLUS,,Xiaomi,,小米 1,,Phone,,5.5
+M578,,Meizu,,魅蓝 2,,Phone,,5.5
+CHM-UL00,,Honor,,荣耀畅玩 4C,,Phone,,5.5
+KPRC-W10L,,Honor,,荣耀 MagicBook 2019 锐龙版,,PC,,5.5
+M57A,,Meizu,,魅蓝 metal,,Phone,,5.5
+HUAWEI P6 S-U06,,Huawei,,华为 Ascend P6S,,Phone,,5.5
+V1821T,,Vivo,,vivo NEX 双屏版,,Phone,,5.5
+M1912G7BC,,Xiaomi,,Redmi K30 4G,,Phone,,5.5
+V2186A,,vivo,,vivo X80 Pro 天玑 9000 版,,Phone,,5.5
+M1912G7BE,,Xiaomi,,Redmi K30 4G,,Phone,,5.5
+M1912G7BI,,Xiaomi,,POCO X2,,Phone,,5.5
+HRY-AL00T,,Honor,,荣耀 20i,,Phone,,5.5
+HZ-W19,,Huawei,,HUAWEI MateBook,,PC,,5.5
+M1806D9PE,,Xiaomi,,小米平板 4 Plus,,Pad,,5.5
+V1955A,,Vivo,,iQOO 3,,Phone,,5.5
+Z1221,,Lenovo,,ZUK Z1,,Phone,,5.5
+HRY-AL00a,,Honor,,荣耀 10 青春版,,Phone,,5.5
+V2054A,,Vivo,,vivo Y31s,,Phone,,5.5
+PBBT00,,Oppo,,OPPO A7x,,Phone,,5.5
+MT2-L02,,Huawei,,华为 Ascend Mate 2,,Phone,,5.5
+MT2-L05,,Huawei,,华为 Ascend Mate 2,,Phone,,5.5
+OSCA-550A,,Honor,,荣耀智慧屏,,TV,,5.5
+HZ-W09,,Huawei,,HUAWEI MateBook,,PC,,5.5
+SM-N9200,,Samsung,,Galaxy Note5,,Phone,,5.5
+BTV-DL09,,Huawei,,华为平板 M3,,Pad,,5.5
+Che1-CL10,,Honor,,荣耀畅玩 4X,,Phone,,5.5
+V2180A,,vivo,,vivo Y32t,,Phone,,5.5
+SM-N9208,,Samsung,,Galaxy Note5,,Phone,,5.5
+H30-U10,,Honor,,荣耀 3C,,Phone,,5.5
+XT2081-4,,Lenovo,,联想乐檬 K12,,Phone,,5.5
+22081212UG,,Xiaomi,,Xiaomi 12T Pro,,Phone,,5.5
+WRT-W29L,,Huawei,,HUAWEI MateBook 13,,PC,,5.5
+FDR-A03L,,Huawei,,华为揽阅 M2 青春版,,Phone,,5.5
+AGS3K-W00 AGS3K-W10,,Huawei,,华为畅享平板 2,,Pad,,5.5
+M2012K11AC,,Xiaomi,,Redmi K40,,Phone,,5.5
+OSCA-550X,,Honor,,荣耀智慧屏 PRO,,TV,,5.5
+M2012K11AG,,Xiaomi,,POCO F3,,Phone,,5.5
+M2012K11AI,,Xiaomi,,小米 11X,,Phone,,5.5
+SCH-I939D,,Samsung,,Galaxy S3,,Phone,,5.5
+FDR-A01w,,Huawei,,华为揽阅 M2 青春版,,Phone,,5.5
+M1803E7SG M1803E7SH,,Xiaomi,,红米 Note 5,,Phone,,5.5
+SCH-I939I,,Samsung,,Galaxy S3 Neo+,,Phone,,5.5
+HUAWEI MLA-AL10,,Huawei,,HUAWEI 麦芒 5,,Phone,,5.5
+ABR-AL00 ABR-AL80,,Huawei,,HUAWEI P50,,Phone,,5.5
+V1950A,,Vivo,,vivo NEX 3S 5G,,Phone,,5.5
+SM-G9350,,Samsung,,Galaxy S7 edge,,Phone,,5.5
+NBZ-WBE9,,Huawei,,HUAWEI MateBook B3-410,,PC,,5.5
+SM-T225C,,Samsung,,Galaxy Tab A7 Lite,,Phone,,5.5
+L43M5-FA,,Mitv,,小米全面屏电视,,TV,,5.5
+L43M5-ES,,Mitv,,小米全面屏电视 Pro,,TV,,5.5
+L43M5-EX,,Mitv,,小米全面屏电视,,TV,,5.5
+L43M5-EK,,Mitv,,小米全面屏电视,,TV,,5.5
+MT7-CL00,,Huawei,,华为 Ascend Mate 7,,Phone,,5.5
+NEM-TL00,,Honor,,荣耀畅玩 5C,,Phone,,5.5
+21091116AI,,Xiaomi,,Redmi Note 11T,,Phone,,5.5
+OPD2102,,OPPO,,OPPO Pad Air,,Phone,,5.5
+L43M5-EC,,Mitv,,小米全面屏电视,,TV,,5.5
+NCE-TL00 NCE-TL10,,Huawei,,华为畅享 6,,Phone,,5.5
+OPD2101,,OPPO,,OPPO Pad,,Phone,,5.5
+PA2170,,vivo,,vivo Pad,,Phone,,5.5
+21091116AG,,Xiaomi,,POCO M4 Pro,,Phone,,5.5
+1603-A02,,360shouji,,360 手机 F4s,,Phone,,5.5
+ATH-TL00H,,Honor,,荣耀 7i,,Phone,,5.5
+V2183A,,vivo,,vivo X80,,Phone,,5.5
+1603-A03,,360shouji,,360 手机 N4A,,Phone,,5.5
+A2069,,Apple,,iPad Pro,,Pad,,5.5
+A2068,,Apple,,iPad Pro,,Pad,,5.5
+M1903C3GG M1903C3GH,,Xiaomi,,Redmi Go,,Phone,,5.5
+C8860E,,Honor,,华为荣耀手机,,Phone,,5.5
+A2072,,Apple,,iPad Air,,Pad,,5.5
+L65R6-A,,Mitv,,Redmi 红米电视,,TV,,5.5
+BZD-W00,,Huawei,,华为平板 C3,,Pad,,5.5
+HLK-TL00,,Honor,,荣耀 9X,,Phone,,5.5
+21091116AC,,Xiaomi,,Redmi Note 11,,Phone,,5.5
+HUAWEI TIT-CL00 HUAWEI TIT-CL10,,Huawei,,华为畅享 5,,Phone,,5.5
+STF-TL10,,Honor,,荣耀 9,,Phone,,5.5
+PENM00,,Oppo,,OPPO Reno6 Pro+,,Phone,,5.5
+XT1965-6,,Motorola,,motorola g7 plus,,Phone,,5.5
+L49M2-AA,,Mitv,,小米电视 2,,TV,,5.5
+L55M6-5,,Mitv,,小米电视 5,,TV,,5.5
+220333QAG,,Xiaomi,,Redmi 10C,,Phone,,5.5
+A2014,,Apple,,iPad Pro,,Pad,,5.5
+A2013,,Apple,,iPad Pro,,Pad,,5.5
+A2019,,Zte,,中兴天机 Axon 9 Pro,,Phone,,5.5
+A2018,,Zte,,中兴天机 7S,,Phone,,5.5
+8010,,Zte,,中兴 Blade V2020 Smart,,Phone,,5.5
+A2017,,Zte,,中兴天机 7,,Phone,,5.5
+V0721,,Zte,,中兴 Blade A2S,,Phone,,5.5
+2016100 2016102,,Xiaomi,,红米 Note 4,,Phone,,5.5
+MACHR-W19,,Huawei,,HUAWEI MateBook X Pro,,PC,,5.5
+A2022,,Zte,,中兴 Axon 30 Pro,,Phone,,5.5
+A2021,,Zte,,中兴天机 Axon 11 5G,,Phone,,5.5
+A2020,,Zte,,中兴天机 Axon 10 Pro,,Phone,,5.5
+COR-TL10,,Honor,,荣耀 Play,,Phone,,5.5
+HUAWEI M2-801W,,Huawei,,华为揽阅 M2,,Pad,,5.5
+MRC-W60R,,Huawei,,HUAWEI MateBook D,,PC,,5.5
+2015161,,Xiaomi,,红米 Note 3,,Phone,,5.5
+L65M7-Z2,,Xiaomi,,小米电视 6 OLED 65 英寸,,TV,,5.5
+AGM3-W09HN,,Honor,,荣耀平板 7,,Pad,,5.5
+A2003,,Oneplus,,OnePlus 2,,Phone,,5.5
+A2001,,Oneplus,,OnePlus 2,,Phone,,5.5
+A2008,,Apple,,Apple Watch Series 4,,Phone,,5.5
+A2007,,Apple,,Apple Watch Series 4,,Phone,,5.5
+A2005,,Oneplus,,OnePlus 2,,Phone,,5.5
+M1901F7E,,Xiaomi,,Redmi Note 7,,Phone,,5.5
+M1901F7C,,Xiaomi,,Redmi Note 7,,Phone,,5.5
+SM-T730,,Samsung,,Galaxy Tab S7 FE,,Phone,,5.5
+L65M4-AQ,,Mitv,,小米电视 3s,,TV,,5.5
+ELE-AL00,,Huawei,,HUAWEI P30,,Phone,,5.5
+22021119KR,,Xiaomi,,Redmi Note 10T 日本版,,Phone,,5.5
+L65M7-Z1,,Mitv,,小米电视 6 至尊版,,TV,,5.5
+CHM-TL00H,,Honor,,荣耀畅玩 4C,,Phone,,5.5
+M1804E4A,,Xiaomi,,小米 Max 3,,Phone,,5.5
+M1804E4C,,Xiaomi,,小米 Max 3,,Phone,,5.5
+HUAWEI TAG-TL00,,Huawei,,华为畅享 5S,,Phone,,5.5
+GT-I9100G,,Samsung,,Galaxy S2,,Phone,,5.5
+SM-A7108,,Samsung,,Galaxy A7,,Phone,,5.5
+8031,,Zte,,中兴 ZTE V2022,,Phone,,5.5
+MT2-C00,,Huawei,,华为 Ascend Mate 2,,Phone,,5.5
+SM-A7100,,Samsung,,Galaxy A7,,Phone,,5.5
+PCDT00,,Oppo,,OPPO A7n,,Phone,,5.5
+1807-A01,,360shouji,,360 手机 N7,,Phone,,5.5
+POT-AL00,,Huawei,,HUAWEI 麦芒 8,,Phone,,5.5
+DVC-AN00,,Huawei,,华为畅享 Z,,Phone,,5.5
+PDAM10,,Oppo,,OPPO A52,,Phone,,5.5
+PBBT30,,Oppo,,OPPO A5,,Phone,,5.5
+L78071,,Lenovo,,联想 Z5s,,Phone,,5.5
+Che1-CL20,,Honor,,荣耀畅玩 4X,,Phone,,5.5
+NBZ-WBH9,,Huawei,,HUAWEI MateBook B3-410,,PC,,5.5
+PGGM10,,OPPO,,OPPO K10x,,Phone,,5.5
+M1804E4T,,Xiaomi,,小米 Max 3,,Phone,,5.5
+PCDT10,,Oppo,,OPPO Reno Z,,Phone,,5.5
+RMX1801,,Realme,,realme 2 Pro,,Phone,,5.5
+POT-AL10,,Huawei,,HUAWEI 麦芒 8,,Phone,,5.5
+TAS-TN00,,Huawei,,HUAWEI Mate 30,,Phone,,5.5
+RMX1805,,Realme,,realme 2,,Phone,,5.5
+L78031,,Lenovo,,联想 Z5 Pro,,Phone,,5.5
+LDN-TL10,,Huawei,,华为畅享 8,,Phone,,5.5
+DVC-AN20,,Huawei,,华为畅享 20 Pro,,Phone,,5.5
+L78032,,Lenovo,,联想 Z5 Pro,,Phone,,5.5
+SM-T700,,Samsung,,Galaxy Tab S 8.4,,Phone,,5.5
+MLA-TL10,,Huawei,,HUAWEI G9 Plus,,Phone,,5.5
+M2104K10I,,Xiaomi,,POCO F3 GT,,Phone,,5.5
+L78051,,Lenovo,,联想 Z6 Pro,,Phone,,5.5
+A1599,,Apple,,iPad mini 3,,Pad,,5.5
+RMX1821,,Realme,,realme 3,,Phone,,5.5
+2201123G,,Xiaomi,,Xiaomi 12,,Phone,,5.5
+LDN-TL00,,Huawei,,华为畅享 8,,Phone,,5.5
+RMX1825,,Realme,,realme 3,,Phone,,5.5
+2201123C,,Xiaomi,,Xiaomi 12,,Phone,,5.5
+RMX1822,,Realme,,realme 3,,Phone,,5.5
+MDZ-25-AA,,Mitv,,小米盒子,,TV,,5.5
+RMX1827,,Realme,,realme 3i,,Phone,,5.5
+PFEM10,,OPPO,,OPPO Find X5 Pro,,Phone,,5.5
+L50M5-AD,,Mitv,,小米电视 4A,,TV,,5.5
+GLA-AL00,,Huawei,,HUAWEI nova 10 Pro,,Phone,,5.5
+HUAWEI M2-803L,,Huawei,,华为揽阅 M2,,Pad,,5.5
+21081111RG,,Xiaomi,,Xiaomi 11T,,Phone,,5.5
+RMX1831,,Realme,,realme U1,,Phone,,5.5
+L78011,,Lenovo,,联想 Z5,,Phone,,5.5
+PECM30,,Oppo,,OPPO A53,,Phone,,5.5
+NX589J,,Nubia,,nubia Z17 miniS,,Phone,,5.5
+L78012,,Lenovo,,联想 Z5,,Phone,,5.5
+RMX1833,,Realme,,realme U1,,Phone,,5.5
+SM-T720,,Samsung,,Galaxy Tab S5e,,Phone,,5.5
+220333QBI,,Xiaomi,,Redmi 10,,Phone,,5.5
+CAM-CL00,,Honor,,荣耀畅玩 5A,,Phone,,5.5
+SM-F9160,,Samsung,,Galaxy Z Fold2,,Phone,,5.5
+ATH-TL00,,Honor,,荣耀 7i,,Phone,,5.5
+FRD-WDG9,,Honor,,荣耀猎人游戏本 V700,,PC,,5.5
+PEYM00,,OPPO,,OPPO K9 Pro,,Phone,,5.5
+LDN-TL20,,Huawei,,华为畅享 8,,Phone,,5.5
+1505-A01,,360shouji,,360 手机 N4s,,Phone,,5.5
+PEHT00,,Oppo,,OPPO A93,,Phone,,5.5
+1505-A02,,360shouji,,360 手机 N4s 骁龙版,,Phone,,5.5
+MACHR-W29,,Huawei,,HUAWEI MateBook X Pro,,PC,,5.5
+NBZ-WBM9,,Huawei,,HUAWEI MateBook B3-410,,PC,,5.5
+SM-T713,,Samsung,,Galaxy Tab S2 8.0,,Phone,,5.5
+M2103K19PY,,Xiaomi,,POCO M3 Pro,,Phone,,5.5
+L86R6-MAX,,Mitv,,Redmi 红米电视,,TV,,5.5
+PE-UL00,,Honor,,荣耀 6 Plus,,Phone,,5.5
+SM-T710,,Samsung,,Galaxy Tab S2 8.0,,Phone,,5.5
+PIC-TL00,,Huawei,,HUAWEI nova 2,,Phone,,5.5
+SM-T805C,,Samsung,,Galaxy Tab S 10.5,,Phone,,5.5
+HLY-W29R,,Honor,,荣耀 MagicBook Pro,,PC,,5.5
+SM-T580,,Samsung,,Galaxy Tab A,,Phone,,5.5
+1607-A01,,360shouji,,360 手机 N5s,,Phone,,5.5
+LND-AL30,,Honor,,荣耀畅玩 7C,,Phone,,5.5
+D2-6070,,Huawei,,华为 Ascend D2,,Phone,,5.5
+9030N,,Zte,,中兴 S30,,Phone,,5.5
+2013021,,Xiaomi,,小米 2S,,Phone,,5.5
+SM-C7108,,Samsung,,Galaxy C8,,Phone,,5.5
+CDY-TN90,,Honor,,荣耀 30S,,Phone,,5.5
+A1634 A1687,,Apple,,iPhone 6s Plus,,Phone,,5.5
+2013022,,Xiaomi,,红米手机,,Phone,,5.5
+1801-A01,,360shouji,,360 手机 N6 Pro,,Phone,,5.5
+HYLR-WDQ9,,Honor,,荣耀 MagicBook Pro 2020,,PC,,5.5
+2013023,,Xiaomi,,红米手机,,Phone,,5.5
+2013028,,Xiaomi,,红米 1S,,Phone,,5.5
+CDY-TN95,,Honor,,荣耀 30S,,Phone,,5.5
+2013029,,Xiaomi,,红米 1S,,Phone,,5.5
+SM-C7100,,Samsung,,Galaxy C8,,Phone,,5.5
+EBG-TN00,,Honor,,荣耀 30 Pro,,Phone,,5.5
+M721H,,Meizu,,魅蓝 Note6,,Phone,,5.5
+M721C,,Meizu,,魅蓝 Note6,,Phone,,5.5
+VOG-TL00,,Huawei,,HUAWEI P30 Pro,,Phone,,5.5
+NCO-AL00,,Huawei,,HUAWEI nova 10,,Phone,,5.5
+SM-T590,,Samsung,,Galaxy Tab A,,Phone,,5.5
+M191Q,,Meizu,,魅族 18 Pro,,Phone,,5.5
+DIG-TL10,,Huawei,,华为畅享 6S,,Phone,,5.5
+SCH-i909,,Samsung,,Galaxy S,,Phone,,5.5
+L32M5-EC,,Mitv,,小米全面屏电视,,TV,,5.5
+HLY-W29RL,,Honor,,荣耀 MagicBook Pro,,PC,,5.5
+M721M,,Meizu,,魅蓝 Note6,,Phone,,5.5
+LND-AL40,,Honor,,荣耀畅玩 7C,,Phone,,5.5
+OCE-AL50,,Huawei,,HUAWEI Mate 40E,,Phone,,5.5
+M721Q,,Meizu,,魅蓝 Note6,,Phone,,5.5
+PAFT00,,Oppo,,OPPO Find X,,Phone,,5.5
+SCMR-W09,,Huawei,,HUAWEI MatePad 10.8,,Pad,,5.5
+JDN-AL50HN,,Honor,,荣耀平板 5,,Pad,,5.5
+DUA-AL00,,Honor,,荣耀畅玩 7,,Phone,,5.5
+SM-J7008,,Samsung,,Galaxy J7,,Phone,,5.5
+MRC-W10BR,,Huawei,,HUAWEI MateBook D,,PC,,5.5
+L65M7-ES,,Mitv,,小米电视 ES,,TV,,5.5
+TET-AN00 TET-AN10,,Huawei,,HUAWEI Mate X2,,Phone,,5.5
+A1758,,Apple,,Apple Watch Series 2,,Phone,,5.5
+A1757,,Apple,,Apple Watch Series 2,,Phone,,5.5
+HMA-AL00,,Huawei,,HUAWEI Mate 20,,Phone,,5.5
+L65M7-EA,,Mitv,,小米电视 EA,,TV,,5.5
+JMM-TL00,,Honor,,荣耀 V9 Play,,Phone,,5.5
+PAAM00,,Oppo,,OPPO R15 梦镜版,,Phone,,5.5
+EUL-W29P,,Huawei,,HUAWEI MateBook X,,PC,,5.5
+SM-T531,,Samsung,,Galaxy Tab4 10.1,,Phone,,5.5
+SM-T530,,Samsung,,Galaxy Tab4 10.1,,Phone,,5.5
+HUAWEI VNS-DL00,,Huawei,,HUAWEI G9,,Phone,,5.5
+PCT-TL10,,Honor,,荣耀 V20,,Phone,,5.5
+L43M3-AA L43M3-AR,,Xiaomi,,小米电视 3s 43 英寸,,TV,,5.5
+BLA-TL00,,Huawei,,HUAWEI Mate 10 Pro,,Phone,,5.5
+PBCM10,,Oppo,,OPPO R15x,,Phone,,5.5
+VKY-AL00,,Huawei,,HUAWEI P10 Plus,,Phone,,5.5
+A1784,,Apple,,iPhone 7 Plus,,Phone,,5.5
+ANE-AL00,,Huawei,,HUAWEI nova 3e,,Phone,,5.5
+A1786,,Apple,,iPhone 7 Plus,,Phone,,5.5
+A1785,,Apple,,iPhone 7 Plus,,Phone,,5.5
+2013012,,Xiaomi,,小米 2S,,Phone,,5.5
+A1779,,Apple,,iPhone 7,,Phone,,5.5
+A1778,,Apple,,iPhone 7,,Phone,,5.5
+MDZ-05-AA,,Mitv,,小米盒子,,TV,,5.5
+MXW-AN00,,Honor,,荣耀 30 青春版,,Phone,,5.5
+SM-T550,,Samsung,,Galaxy Tab A 8.0,,Phone,,5.5
+KNT-UL10,,Honor,,荣耀 V8,,Phone,,5.5
+PAFT10,,Oppo,,OPPO Find X,,Phone,,5.5
+M1804C3DT,,Xiaomi,,红米 6,,Phone,,5.5
+A1780,,Apple,,iPhone 7,,Phone,,5.5
+M1804C3DC,,Xiaomi,,红米 6,,Phone,,5.5
+MACHR-W19L,,Huawei,,HUAWEI MateBook X Pro,,PC,,5.5
+M1804C3DE,,Xiaomi,,红米 6,,Phone,,5.5
+M1804C3DG,,Xiaomi,,红米 6,,Phone,,5.5
+M1804C3DH,,Xiaomi,,红米 6,,Phone,,5.5
+M1804C3DI,,Xiaomi,,红米 6,,Phone,,5.5
+A1724,,Apple,,iPhone SE,,Phone,,5.5
+A1723,,Apple,,iPhone SE,,Phone,,5.5
+LIO-TL00,,Huawei,,HUAWEI Mate 30 Pro,,Phone,,5.5
+LYA-AL10,,Huawei,,HUAWEI Mate 20 Pro,,Phone,,5.5
+PDRM00,,Oppo,,OPPO Reno5 Pro+,,Phone,,5.5
+M1804C3CT,,Xiaomi,,红米 6A,,Phone,,5.5
+2015617,,Xiaomi,,红米 Note 3,,Phone,,5.5
+V2120A,,vivo,,vivo X60t Pro,,Phone,,5.5
+M1804C3CC,,Xiaomi,,红米 6A,,Phone,,5.5
+CDY-TN00,,Huawei,,HUAWEI nova 7 SE,,Phone,,5.5
+WRTD-WDH9,,Huawei,,HUAWEI MateBook 13,,PC,,5.5
+M1804C3CE,,Xiaomi,,红米 6A,,Phone,,5.5
+SM-G9810,,Samsung,,Galaxy S20,,Phone,,5.5
+M1804C3CG,,Xiaomi,,红米 6A,,Phone,,5.5
+M1804C3CH,,Xiaomi,,红米 6A,,Phone,,5.5
+M1804C3CI,,Xiaomi,,红米 6A,,Phone,,5.5
+2015611,,Xiaomi,,红米 Note 3,,Phone,,5.5
+HUAWEI U9200E,,Huawei,,华为 Ascend P1 XL,,Phone,,5.5
+LYA-AL00,,Huawei,,HUAWEI Mate 20 Pro,,Phone,,5.5
+HUAWEI U9200S,,Huawei,,华为 Ascend P1 S,,Phone,,5.5
+M1903F10G,,Xiaomi,,小米 9T,,Phone,,5.5
+V2121A,,vivo,,vivo S10 Pro,,Phone,,5.5
+M1903F10I,,Xiaomi,,Redmi K20,,Phone,,5.5
+NX601J,,Nubia,,nubia X6,,Phone,,5.5
+MRX-W19 MRX-W39,,Huawei,,HUAWEI MatePad Pro,,Pad,,5.5
+M1903F10C,,Xiaomi,,Redmi K20,,Phone,,5.5
+MRX-W09,,Huawei,,HUAWEI MatePad Pro,,Pad,,5.5
+M1903F10A,,Xiaomi,,Redmi K20,,Phone,,5.5
+M2006C3MI,,Xiaomi,,POCO C3,,Phone,,5.5
+PLK-UL00,,Honor,,荣耀 7,,Phone,,5.5
+M2006C3MG,,Xiaomi,,Redmi 9C,,Phone,,5.5
+JMM-TL10,,Honor,,荣耀 V9 Play,,Phone,,5.5
+M2001J11C M2001J11E,,Xiaomi,,Redmi K30 Pro 变焦版,,Phone,,5.5
+X608,,Letv,,乐 1,,Phone,,5.5
+PCEM00,,Oppo,,OPPO A9x,,Phone,,5.5
+L65R9-XT,,Xiaomi,,Redmi AI 智能电视 X65,,TV,,5.5
+LOK-360,,Honor,,荣耀智慧屏 X1,,TV,,5.5
+CDY-TN20,,Huawei,,HUAWEI nova 7 SE,,Phone,,5.5
+MRX-W19,,Huawei,,HUAWEI MatePad Pro,,Pad,,5.5
+M2006C3LG,,Xiaomi,,Redmi 9A,,Phone,,5.5
+M2006C3LI,,Xiaomi,,Redmi 9A,,Phone,,5.5
+BZT4-W19,,Huawei,,华为平板 C5,,Pad,,5.5
+M2006C3LC,,Xiaomi,,Redmi 9A,,Phone,,5.5
+PCPM00,,Oppo,,OPPO A91,,Phone,,5.5
+2015628,,Xiaomi,,小米 5,,Phone,,5.5
+V2123A,,vivo,,vivo T1x,,Phone,,5.5
+X600,,Letv,,乐 1,,Phone,,5.5
+SM-T585C,,Samsung,,Galaxy Tab A,,Phone,,5.5
+LOK-370,,Honor,,荣耀智慧屏 X1,,TV,,5.5
+PBCM30,,Oppo,,OPPO K1,,Phone,,5.5
+MRX-W29,,Huawei,,HUAWEI MatePad Pro,,Pad,,5.5
+M2007J1SC,,Xiaomi,,小米 10 至尊纪念版,,Phone,,5.5
+X625,,Letv,,乐 2 Pro,,Phone,,5.5
+X626,,Letv,,乐 S3,,Phone,,5.5
+BV0730,,Zte,,中兴 Blade A2 Plus,,Phone,,5.5
+MRX-W39,,Huawei,,HUAWEI MatePad Pro,,Pad,,5.5
+OSCA-550,,Honor,,荣耀智慧屏 PRO,,TV,,5.5
+1515-A01,,360shouji,,360 手机 Q5,,Phone,,5.5
+M2001J1G,,Xiaomi,,小米 10 Pro,,Phone,,5.5
+SM-G9860,,Samsung,,Galaxy S20+,,Phone,,5.5
+M2001J1E,,Xiaomi,,小米 10 Pro,,Phone,,5.5
+M2001J1C,,Xiaomi,,小米 10 Pro,,Phone,,5.5
+TIT-CL10,,Huawei,,华为畅享 5,,Phone,,5.5
+RMX2003,,Realme,,realme 6,,Phone,,5.5
+RMX2002,,Realme,,realme 6s,,Phone,,5.5
+RMX2001,,Realme,,realme 6,,Phone,,5.5
+X620,,Letv,,乐 2,,Phone,,5.5
+X621,,Letv,,乐 2,,Phone,,5.5
+X622,,Letv,,乐 S3,,Phone,,5.5
+X623,,Letv,,乐 S3,,Phone,,5.5
+M2007J20CI,,Xiaomi,,POCO X3,,Phone,,5.5
+M2007J22G,,Xiaomi,,Redmi Note 9T,,Phone,,5.5
+A1701,,Apple,,iPad Pro,,Pad,,5.5
+22061218C,,Xiaomi,,Xiaomi MIX Fold 2,,Phone,,5.5
+M2007J22C,,Xiaomi,,Redmi Note 9,,Phone,,5.5
+M2007J20CG,,Xiaomi,,POCO X3 NFC,,Phone,,5.5
+SM-N9700,,Samsung,,Galaxy Note10,,Phone,,5.5
+A1700,,Apple,,iPhone 6s,,Phone,,5.5
+TIT-CL00,,Huawei,,华为畅享 5,,Phone,,5.5
+X650,,Letv,,乐 Pro 3,,Phone,,5.5
+FRD-TL00,,Honor,,荣耀 8,,Phone,,5.5
+X651,,Letv,,乐 Pro 3,,Phone,,5.5
+NX606J,,Nubia,,nubia Z18,,Phone,,5.5
+X652,,Letv,,乐 Pro 3,,Phone,,5.5
+A7010,,Zte,,中兴 Blade A7S,,Phone,,5.5
+L50M5-RK,,Mitv,,Redmi 红米电视,,TV,,5.5
+X656,,Letv,,乐 Pro 3,,Phone,,5.5
+M2007J22R,,Xiaomi,,Redmi Note 9T,,Phone,,5.5
+A1709,,Apple,,iPad Pro,,Pad,,5.5
+T1-823L,,Honor,,荣耀平板,,Pad,,5.5
+BAH3-AL00,,Huawei,,HUAWEI MatePad,,Pad,,5.5
+SM-G9880,,Samsung,,Galaxy S20 Ultra,,Phone,,5.5
+PDAT10,,Oppo,,OPPO A52,,Phone,,5.5
+RMX2022,,Realme,,realme C3,,Phone,,5.5
+RMX2021,,Realme,,realme C3,,Phone,,5.5
+RMX2020,,Realme,,realme C3,,Phone,,5.5
+XT1789-05,,Motorola,,moto Z 2018,,Phone,,5.5
+RMX3350,,Realme,,realme 真我 GT Neo 闪速版,,Phone,,5.5
+T1-821w,,Honor,,荣耀平板,,Pad,,5.5
+RMX2025,,Realme,,realme 真我 X50,,Phone,,5.5
+BV0701,,Zte,,中兴小鲜 4,,Phone,,5.5
+DUB-AL00 DUB-AL20,,Huawei,,华为畅享 9,,Phone,,5.5
+A7000,,Zte,,中兴 Blade A7,,Phone,,5.5
+M2007J20CT,,Xiaomi,,POCO X3 NFC,,Phone,,5.5
+HUAWEI G7-UL00,,Huawei,,华为 Ascend G7,,Phone,,5.5
+211033MI,,Xiaomi,,POCO C31,,Phone,,5.5
+SM-N9760,,Samsung,,Galaxy Note10+,,Phone,,5.5
+M1910F4S,,Xiaomi,,小米 Note 10,,Phone,,5.5
+RMX3241,,Realme,,realme 8 5G,,Phone,,5.5
+HUAWEI MT7-TL10,,Huawei,,华为 Ascend Mate 7,,Phone,,5.5
+M681H,,Meizu,,魅蓝 Note3,,Phone,,5.5
+M681C,,Meizu,,魅蓝 Note3,,Phone,,5.5
+M681Q,,Meizu,,魅蓝 Note3,,Phone,,5.5
+ATH-UL00,,Honor,,荣耀 7i,,Phone,,5.5
+M1910F4E,,Xiaomi,,小米 CC9 Pro,,Phone,,5.5
+M1910F4G,,Xiaomi,,小米 Note 10,,Phone,,5.5
+M681M,,Meizu,,魅蓝 Note3,,Phone,,5.5
+HUAWEI GRA-CL00,,Huawei,,华为 P8,,Phone,,5.5
+MRD-AL00,,Huawei,,华为畅享 9e,,Phone,,5.5
+X658,,Letv,,乐 Pro 3,,Phone,,5.5
+NCE-TL10,,Huawei,,华为畅享 6,,Phone,,5.5
+X659,,Letv,,乐 Pro 3,,Phone,,5.5
+CHM-TL00,,Honor,,荣耀畅玩 4C,,Phone,,5.5
+HUAWEI MT7-TL00,,Huawei,,华为 Ascend Mate 7,,Phone,,5.5
+M1810F6LG M1810F6LH,,Xiaomi,,Redmi 7,,Phone,,5.5
+AGS3-W00D,,Huawei,,华为畅享平板 2,,Pad,,5.5
+AGS3-W00E,,Huawei,,华为畅享平板 2,,Pad,,5.5
+M682Q,,Meizu,,魅蓝 X,,Phone,,5.5
+AGS3-AL00 AGS3K-AL00,,Huawei,,华为畅享平板 2,,Pad,,5.5
+ABR-AL60 ABR-AL90,,Huawei,,HUAWEI P50E,,Phone,,5.5
+SHARK MBU-A0,,Xiaomi,,腾讯黑鲨游戏手机 3 Pro,,Phone,,5.5
+L75M5-ES,,Mitv,,小米全面屏电视 Pro,,TV,,5.5
+DLI-AL10,,Honor,,荣耀畅玩 6A,,Phone,,5.5
+M2001J2I,,Xiaomi,,小米 10,,Phone,,5.5
+CMR-W09,,Huawei,,华为平板 M5,,Pad,,5.5
+M2001J2G,,Xiaomi,,小米 10,,Phone,,5.5
+ONE,,Oneplus,,OnePlus One,,Phone,,5.5
+M2001J2E,,Xiaomi,,小米 10,,Phone,,5.5
+M1903C3EG M1903C3EH,,Xiaomi,,Redmi 7A,,Phone,,5.5
+PLK-TL01H,,Honor,,荣耀 7,,Phone,,5.5
+L55M4-AA L55M4-AR,,Xiaomi,,小米电视 3 55 英寸,,TV,,5.5
+JMM-AL10,,Honor,,荣耀 V9 Play,,Phone,,5.5
+M2001J2C,,Xiaomi,,小米 10,,Phone,,5.5
+BKK-TL00,,Honor,,荣耀畅玩 8C,,Phone,,5.5
+V2164KA,,vivo,,iQOO Z6x,,Phone,,5.5
+XT1929-15,,Motorola,,motorola Z3,,Phone,,5.5
+TA-1335,,Nokia,,Nokia C1 Plus,,Phone,,5.5
+M686,,Meizu,,魅族 PRO 6 Plus,,Phone,,5.5
+PECT30,,Oppo,,OPPO A53,,Phone,,5.5
+HUAWEI MT2-C00,,Huawei,,华为 Ascend Mate 2,,Phone,,5.5
+TAG-CL00,,Huawei,,华为畅享 5S,,Phone,,5.5
+PFVM10,,OPPO,,OPPO A56,,Phone,,5.5
+DVC-TN20,,Huawei,,华为畅享 20 Pro,,Phone,,5.5
+A2178,,Apple,,iPod touch,,Phone,,5.5
+M685M,,Meizu,,魅族 MX6,,Phone,,5.5
+M685H,,Meizu,,魅族 MX6,,Phone,,5.5
+M685U,,Meizu,,魅族 MX6,,Phone,,5.5
+M685Q,,Meizu,,魅族 MX6,,Phone,,5.5
+JDN2-W09,,Huawei,,华为平板 M5 青春版,,Pad,,5.5
+NX501,,Nubia,,nubia Z5,,Phone,,5.5
+CMR-W19,,Huawei,,华为平板 M5,,Pad,,5.5
+PGBM10,,OPPO,,OPPO Reno8,,Phone,,5.5
+A2172,,Apple,,iPhone 12,,Phone,,5.5
+VLR-W19L,,Honor,,荣耀 MagicBook 2019,,PC,,5.5
+A2176,,Apple,,iPhone 12 mini,,Phone,,5.5
+M686G,,Meizu,,魅族 PRO 6 Plus,,Phone,,5.5
+M686H,,Meizu,,魅族 PRO 6 Plus,,Phone,,5.5
+LOK-350,,Honor,,荣耀智慧屏 X1,,TV,,5.5
+V2085A,,Vivo,,vivo X60t,,Phone,,5.5
+V1986A,,Vivo,,iQOO Z1,,Phone,,5.5
+A2199,,Apple,,iPad,,Pad,,5.5
+BZT4-AL10,,Huawei,,华为平板 C5,,Pad,,5.5
+AGS3-W09HN,,Honor,,荣耀平板 6,,Pad,,5.5
+SM-A9200,,Samsung,,Galaxy A9s,,Phone,,5.5
+M685C,,Meizu,,魅族 MX6,,Phone,,5.5
+BAH-W09,,Huawei,,华为平板 M3 青春版,,Pad,,5.5
+M1806D9E,,Xiaomi,,小米平板 4,,Pad,,5.5
+RIO-CL00,,Huawei,,华为麦芒 4,,Phone,,5.5
+A2198,,Apple,,iPad,,Pad,,5.5
+A2197,,Apple,,iPad,,Pad,,5.5
+LOK-330,,Honor,,荣耀智慧屏 X1,,TV,,5.5
+XT2091-7,,Lenovo,,联想乐檬 K12 Pro,,Phone,,5.5
+GT-N7108D,,Samsung,,Galaxy Note2,,Phone,,5.5
+M1803E7SH,,Xiaomi,,红米 Note 5,,Phone,,5.5
+M1803E7SG,,Xiaomi,,红米 Note 5,,Phone,,5.5
+U8950D,,Honor,,华为荣耀手机,,Phone,,5.5
+A2133,,Apple,,iPad mini,,Pad,,5.5
+XT1942-1,,Motorola,,motorola p30 note,,Phone,,5.5
+CDY-AN95,,Honor,,荣耀 30S,,Phone,,5.5
+CDY-AN90,,Honor,,荣耀 30S,,Phone,,5.5
+NX907J,,Nubia,,nubia M2 畅玩版,,Phone,,5.5
+2016130,,Xiaomi,,红米 Note 4X,,Phone,,5.5
+V1981A,,Vivo,,iQOO Neo3,,Phone,,5.5
+NEM-AL10,,Honor,,荣耀畅玩 5C,,Phone,,5.5
+A2125,,Apple,,iPad mini,,Pad,,5.5
+A2124,,Apple,,iPad mini,,Pad,,5.5
+SM801,,Smartisan,,Smartisan T2,,Phone,,5.5
+A2123,,Apple,,iPad Air,,Pad,,5.5
+V2080A,,Vivo,,vivo S7t,,Phone,,5.5
+A2126,,Apple,,iPad mini,,Pad,,5.5
+LEX622,,Letv,,乐 S3,,Phone,,5.5
+LEX623,,Letv,,乐 S3,,Phone,,5.5
+LEX626,,Letv,,乐 S3,,Phone,,5.5
+WGRR-AN19,,Huawei,,HUAWEI MatePad Pro 12.6 英寸,,Pad,,5.5
+A2157,,Apple,,Apple Watch Series 5,,Phone,,5.5
+A2156,,Apple,,Apple Watch Series 5,,Phone,,5.5
+XT1635-03,,Motorola,,Moto Z Play,,Phone,,5.5
+M688C,,Meizu,,魅蓝 3,,Phone,,5.5
+A2161,,Apple,,iPhone 11 Pro Max,,Phone,,5.5
+A2160,,Apple,,iPhone 11 Pro,,Phone,,5.5
+HUAWEI VNS-AL00,,Huawei,,HUAWEI G9,,Phone,,5.5
+LEX652,,Letv,,乐 Pro 3 双摄 AI 版,,Phone,,5.5
+GT-N7102i,,Samsung,,Galaxy Note2,,Phone,,5.5
+LEX651,,Letv,,乐 Pro 3 双摄 AI 版,,Phone,,5.5
+LEX650,,Letv,,乐 Pro 3 双摄 AI 版,,Phone,,5.5
+X900+,,Letv,,乐 Max,,Phone,,5.5
+L58M7-EA,,Xiaomi,,小米电视 EA58 2022 款,,TV,,5.5
+SHARK MBU-H0,,Xiaomi,,黑鲨游戏手机 3 Pro,,Phone,,5.5
+LEX656,,Letv,,乐 Pro 3 双摄 AI 版,,Phone,,5.5
+LEX659,,Letv,,乐 Pro 3 双摄 AI 版,,Phone,,5.5
+LEX658,,Letv,,乐 Pro 3 双摄 AI 版,,Phone,,5.5
+WGRR-W19,,Huawei,,HUAWEI MatePad Pro 12.6 英寸,,Pad,,5.5
+MDZ-26-AA,,Mitv,,小米盒子,,TV,,5.5
+SM-T505C,,Samsung,,Galaxy Tab A7,,Phone,,5.5
+1713-A01,,360shouji,,360 手机 N6 Lite,,Phone,,5.5
+JSC-AL50,,Huawei,,HUAWEI nova 8 SE,,Phone,,5.5
+M688M,,Meizu,,魅蓝 3,,Phone,,5.5
+A2154,,Apple,,iPad Air,,Pad,,5.5
+A2153,,Apple,,iPad Air,,Pad,,5.5
+A2152,,Apple,,iPad Air,,Pad,,5.5
+SHARK,,Xiaomi,,腾讯黑鲨游戏手机 3,,Phone,,5.5
+M688U,,Meizu,,魅蓝 3,,Phone,,5.5
+HD65THAA,,Huawei,,华为智慧屏 V 系列 2021 款,,TV,,5.5
+M688Q,,Meizu,,魅蓝 3,,Phone,,5.5
+2016101,,Xiaomi,,红米 Note 4X,,Phone,,5.5
+WGRR-W09,,Huawei,,HUAWEI MatePad Pro 12.6 英寸,,Pad,,5.5
+AGS-W09,,Honor,,荣耀畅玩平板 2,,Pad,,5.5
+SM-C7018,,Samsung,,Galaxy C7 Pro,,Phone,,5.5
+2016100,,Xiaomi,,红米 Note 4X,,Phone,,5.5
+L75M5-AB,,Mitv,,小米电视 4,,TV,,5.5
+L32M5-AZ,,Mitv,,小米电视 4A,,TV,,5.5
+GRA-TL00,,Huawei,,HUAWEI P8,,Phone,,5.5
+HLK-AL10,,Honor,,荣耀 9X PRO,,Phone,,5.5
+PACT00,,Oppo,,OPPO R15,,Phone,,5.5
+HD1903,,Oneplus,,OnePlus 7T,,Phone,,5.5
+HD1900,,Oneplus,,OnePlus 7T,,Phone,,5.5
+HD1901,,Oneplus,,OnePlus 7T,,Phone,,5.5
+HD1907,,Oneplus,,OnePlus 7T,,Phone,,5.5
+BZK-W00,,Huawei,,华为平板 C3,,Pad,,5.5
+HD1905,,Oneplus,,OnePlus 7T,,Phone,,5.5
+2016102,,Xiaomi,,红米 Note 4X,,Phone,,5.5
+M792M-L,,Meizu,,魅族 PRO 7,,Phone,,5.5
+SM-C7010,,Samsung,,Galaxy C7 Pro,,Phone,,5.5
+Hol-T00,,Honor,,荣耀 3C 畅玩版,,Phone,,5.5
+Che2-TL00,,Honor,,荣耀畅玩 4X,,Phone,,5.5
+M2-803L,,Huawei,,华为揽阅 M2 8.0,,Phone,,5.5
+M2-801W,,Huawei,,华为揽阅 M2 8.0,,Phone,,5.5
+2013061,,Xiaomi,,小米 3,,Phone,,5.5
+2013062,,Xiaomi,,小米 3,,Phone,,5.5
+2013063,,Xiaomi,,小米 3,,Phone,,5.5
+PBET00,,Oppo,,OPPO R17,,Phone,,5.5
+NX551J,,Nubia,,nubia M2,,Phone,,5.5
+ALA-AN70,,Honor,,荣耀 V40 轻奢版,,Phone,,5.5
+HUAWEI GRA-CL10,,Huawei,,华为 P8,,Phone,,5.5
+NCE-TL00,,Huawei,,华为畅享 6,,Phone,,5.5
+A2111,,Apple,,iPhone 11,,Phone,,5.5
+MRR-W29 MRR-W39,,Huawei,,HUAWEI MatePad Pro,,Pad,,5.5
+CLT-AL00l,,Huawei,,HUAWEI P20 Pro,,Phone,,5.5
+A2121,,Zte,,中兴天机 Axon 20 5G,,Phone,,5.5
+HD1925,,Oneplus,,OnePlus 7T Pro 5G,,Phone,,5.5
+L75M5-BH,,Mitv,,小米壁画电视,,TV,,5.5
+L60M4-AA L60M4-AR,,Xiaomi,,小米电视 3 60 英寸,,TV,,5.5
+L32M5-AD,,Mitv,,小米电视 4C,,TV,,5.5
+A2108,,Apple,,iPhone XR,,Phone,,5.5
+2016112,,Xiaomi,,红米 4A,,Phone,,5.5
+2016111,,Xiaomi,,红米 4A,,Phone,,5.5
+A2103,,Apple,,iPhone XS Max,,Phone,,5.5
+V2031EA,,Vivo,,vivo S7e 活力版,,Phone,,5.5
+EB2103,,Oneplus,,OnePlus Nord CE,,Phone,,5.5
+A2102,,Apple,,iPhone XS Max,,Phone,,5.5
+A2101,,Apple,,iPhone XS Max,,Phone,,5.5
+EB2101,,Oneplus,,OnePlus Nord CE,,Phone,,5.5
+A2100,,Apple,,iPhone XS,,Phone,,5.5
+A2107,,Apple,,iPhone XR,,Phone,,5.5
+A2106,,Apple,,iPhone XR,,Phone,,5.5
+A2105,,Apple,,iPhone XR,,Phone,,5.5
+MXW-TN00,,Honor,,荣耀 30 青春版,,Phone,,5.5
+A2104,,Apple,,iPhone XS Max,,Phone,,5.5
+SM-A3050,,Samsung,,Galaxy A40s,,Phone,,5.5
+C199,,Huawei,,华为麦芒 C199,,Phone,,5.5
+HD1910,,Oneplus,,OnePlus 7T Pro,,Phone,,5.5
+HLK-AL00,,Honor,,荣耀 9X,,Phone,,5.5
+HD1913,,Oneplus,,OnePlus 7T Pro,,Phone,,5.5
+HD1911,,Oneplus,,OnePlus 7T Pro,,Phone,,5.5
+2016116,,Xiaomi,,红米 4A,,Phone,,5.5
+SM-A3058,,Samsung,,Galaxy A40s,,Phone,,5.5
+MCG3B,,Xiaomi,,红米 5A,,Phone,,5.5
+SM-C7000,,Samsung,,Galaxy C7,,Phone,,5.5
+2016117,,Xiaomi,,红米 4A,,Phone,,5.5
+RNA-AN00,,Honor,,荣耀 50 Pro,,Phone,,5.5
+LIO-AL00,,Huawei,,HUAWEI Mate 30 Pro,,Phone,,5.5
+SM-A3009,,Samsung,,Galaxy A3,,Phone,,5.5
+M711H,,Meizu,,魅蓝 6,,Phone,,5.5
+CDY-AN00,,Huawei,,HUAWEI nova 7 SE,,Phone,,5.5
+VLR-W09,,Honor,,荣耀 MagicBook 2019,,PC,,5.5
+M711C,,Meizu,,魅蓝 6,,Phone,,5.5
+M710M,,Meizu,,魅蓝 A5,,Phone,,5.5
+MT7-TL10,,Huawei,,华为 Ascend Mate 7,,Phone,,5.5
+PCKM80,,Oppo,,OPPO Reno2 Z,,Phone,,5.5
+SM-A3000,,Samsung,,Galaxy A3,,Phone,,5.5
+M181Q,,Meizu,,魅族 18,,Phone,,5.5
+PEMT00 PEMT20,,OPPO,,OPPO A55,,Phone,,5.5
+MRX-W09 MRX-W29,,Huawei,,HUAWEI MatePad Pro,,Pad,,5.5
+8692-A00,,360shouji,,360 手机奇酷旗舰版,,Phone,,5.5
+Y685Q,,Meizu,,魅蓝 3s,,Phone,,5.5
+M712H,,Meizu,,魅蓝 S6,,Phone,,5.5
+Y685M,,Meizu,,魅蓝 3s,,Phone,,5.5
+M712C,,Meizu,,魅蓝 S6,,Phone,,5.5
+Y685H,,Meizu,,魅蓝 3s,,Phone,,5.5
+M711Q,,Meizu,,魅蓝 6,,Phone,,5.5
+M2002F4LG,,Xiaomi,,小米 Note 10 Lite,,Phone,,5.5
+M711M,,Meizu,,魅蓝 6,,Phone,,5.5
+Y685C,,Meizu,,魅蓝 3s,,Phone,,5.5
+SM-G5500,,Samsung,,Galaxy On5,,Phone,,5.5
+GOT-AL19,,Huawei,,HUAWEI MatePad Pro 11 英寸 性能版,,Pad,,5.5
+V2069BA,,vivo,,vivo Y75s,,Phone,,5.5
+MCE3B,,Xiaomi,,红米 5A,,Phone,,5.5
+ALE-CL00,,Huawei,,HUAWEI P8 青春版,,Phone,,5.5
+PFFM20,,OPPO,,OPPO Find X5 Pro 天玑版,,Phone,,5.5
+HLY-W19R,,Honor,,荣耀 MagicBook Pro,,PC,,5.5
+GRA-CL10,,Huawei,,HUAWEI P8,,Phone,,5.5
+A2316,,Apple,,iPad Air,,Pad,,5.5
+VLR-W29,,Honor,,荣耀 MagicBook 2019,,PC,,5.5
+SM-J7109,,Samsung,,Galaxy J7,,Phone,,5.5
+SM-T815C,,Samsung,,Galaxy Tab S2 9.7,,Phone,,5.5
+SM-J7108,,Samsung,,Galaxy J7,,Phone,,5.5
+CDY-AN20,,Huawei,,HUAWEI nova 7 SE,,Phone,,5.5
+NX569H,,Nubia,,nubia Z17 mini,,Phone,,5.5
+NX569J,,Nubia,,nubia Z17 mini,,Phone,,5.5
+GRA-CL00,,Huawei,,HUAWEI P8,,Phone,,5.5
+L55M6-5P,,Mitv,,小米电视 5 Pro,,TV,,5.5
+L38111,,Lenovo,,联想 Z6 青春版,,Phone,,5.5
+XT1924-9,,Motorola,,motorola e5 plus,,Phone,,5.5
+GOT-AL09,,Huawei,,HUAWEI MatePad Pro 11 英寸 性能版,,Pad,,5.5
+V1824BA,,Vivo,,iQOO,,Phone,,5.5
+V2118A,,Vivo,,iQOO Neo5 活力版,,Phone,,5.5
+SM-G5510,,Samsung,,Galaxy On5,,Phone,,5.5
+PPA-AL20,,Huawei,,华为畅享 20 SE,,Phone,,5.5
+PFFM10,,OPPO,,OPPO Find X5,,Phone,,5.5
+HUAWEI ALE-UL00,,Huawei,,华为 P8,,Phone,,5.5
+AGS3-AL09HN,,Honor,,荣耀平板 6,,Pad,,5.5
+A2301,,Apple,,iPad Pro,,Pad,,5.5
+M710H,,Meizu,,魅蓝 A5,,Phone,,5.5
+CUN-AL00,,Honor,,荣耀畅玩 5,,Phone,,5.5
+VLR-W19,,Honor,,荣耀 MagicBook 2019,,PC,,5.5
+MT7-TL00,,Huawei,,华为 Ascend Mate 7,,Phone,,5.5
+SM-G5528,,Samsung,,Galaxy On5,,Phone,,5.5
+SM-G5520,,Samsung,,Galaxy On5,,Phone,,5.5
+SM-P588C,,Samsung,,Galaxy Tab A,,Phone,,5.5
+A1889,,Apple,,Apple Watch Series 3,,Watch,,5.5
+HUAWEI TAG-CL00,,Huawei,,华为畅享 5S,,Phone,,5.5
+A1890,,Apple,,Apple Watch Series 3,,Phone,,5.5
+HDL-AL09,,Honor,,荣耀 Waterplay,,Pad,,5.5
+MCE91,,Xiaomi,,小米平板 3,,Pad,,5.5
+CRR-UL00,,Huawei,,HUAWEI Mate S,,Phone,,5.5
+L55M9-SP,,Xiaomi,,小米电视 ES Pro 55,,TV,,5.5
+A1876,,Apple,,iPad Pro,,Pad,,5.5
+BoM-WFQ9,,Huawei,,HUAWEI MateBook D 15,,PC,,5.5
+L43R8-A,,Xiaomi,,Redmi 智能电视 A43 2022 款,,TV,,5.5
+AGM3-AL09HN,,Honor,,荣耀平板 7,,Pad,,5.5
+XT1085,,Motorola,,Moto X,,Phone,,5.5
+BAC-AL00,,Huawei,,HUAWEI nova 2 Plus,,Phone,,5.5
+FRD-AL10,,Honor,,荣耀 8,,Phone,,5.5
+BoM-WFP9,,Huawei,,HUAWEI MateBook D 15,,PC,,5.5
+M712Q,,Meizu,,魅蓝 S6,,Phone,,5.5
+M1903F2A,,Xiaomi,,小米 9 SE,,Phone,,5.5
+HLY-W19RLP,,Honor,,荣耀 MagicBook Pro,,PC,,5.5
+FRD-AL00,,Honor,,荣耀 8,,Phone,,5.5
+M712M,,Meizu,,魅蓝 S6,,Phone,,5.5
+XT1077,,Motorola,,Moto G LTE,,Phone,,5.5
+XT1079,,Motorola,,Moto G LTE,,Phone,,5.5
+SM-G9910,,Samsung,,Galaxy S21,,Phone,,5.5
+CRR-UL20,,Huawei,,HUAWEI Mate S,,Phone,,5.5
+A1899,,Apple,,iPhone 8 Plus,,Phone,,5.5
+A1893,,Apple,,iPad,,Pad,,5.5
+A1892,,Apple,,Apple Watch Series 3,,Phone,,5.5
+A1891,,Apple,,Apple Watch Series 3,,Watch,,5.5
+A1898,,Apple,,iPhone 8 Plus,,Phone,,5.5
+A1897,,Apple,,iPhone 8 Plus,,Phone,,5.5
+VTR-TL00,,Huawei,,HUAWEI P10,,Phone,,5.5
+M1903F2G,,Xiaomi,,小米 9 SE,,Phone,,5.5
+A1895,,Apple,,iPad Pro,,Pad,,5.5
+V2115A,,vivo,,vivo T1,,Phone,,5.5
+NX611J,,Nubia,,nubia Z18 mini,,Phone,,5.5
+M2003J15SC,,Xiaomi,,Redmi 10X 4G,,Phone,,5.5
+2013121,,Xiaomi,,红米 Note,,Phone,,5.5
+2013122,,Xiaomi,,红米 Note,,Phone,,5.5
+M2003J15SG,,Xiaomi,,Redmi Note 9,,Phone,,5.5
+M2003J15SI,,Xiaomi,,Redmi Note 9,,Phone,,5.5
+M2003J15SS,,Xiaomi,,Redmi Note 9,,Phone,,5.5
+M1806D9W,,Xiaomi,,小米平板 4,,Pad,,5.5
+V2180GA,,vivo,,iQOO U5x,,Phone,,5.5
+HEGE-560,,Huawei,,华为智慧屏 V 系列,,TV,,5.5
+NX612J,,Nubia,,nubia V18,,Phone,,5.5
+BohL-WFP9,,Huawei,,HUAWEI MateBook D 15,,PC,,5.5
+L55R6-A,,Mitv,,Redmi 红米电视,,TV,,5.5
+NXT-TL00,,Huawei,,HUAWEI Mate 8,,Phone,,5.5
+HUAWEI P7-L09,,Huawei,,华为 Ascend P7,,Phone,,5.5
+HUAWEI P7-L05,,Huawei,,华为 Ascend P7,,Phone,,5.5
+HUAWEI P7-L07,,Huawei,,华为 Ascend P7,,Phone,,5.5
+GM1925,,Oneplus,,OnePlus 7 Pro 5G,,Phone,,5.5
+GM1920,,Oneplus,,OnePlus 7 Pro 5G,,Phone,,5.5
+HEGE-550,,Huawei,,华为智慧屏 V 系列,,TV,,5.5
+NCE-AL10,,Huawei,,华为畅享 6,,Phone,,5.5
+M2006J10C,,Xiaomi,,Redmi K30 至尊纪念版,,Phone,,5.5
+VOG-AL10,,Huawei,,HUAWEI P30 Pro,,Phone,,5.5
+MACHR-W29BL,,Huawei,,HUAWEI MateBook X Pro,,PC,,5.5
+Boh-WAQ9HNRP,,Honor,,荣耀 MagicBook 15,,PC,,5.5
+M1908F1XE,,Xiaomi,,小米 9 Pro,,Phone,,5.5
+GM1917,,Oneplus,,OnePlus 7 Pro,,Phone,,5.5
+A1861,,Apple,,Apple Watch Series 3,,Watch,,5.5
+BoB-WAH9P,,Huawei,,HUAWEI MateBook D 15,,PC,,5.5
+A1860,,Apple,,Apple Watch Series 3,,Watch,,5.5
+X726,,Letv,,乐 Pro 3,,Phone,,5.5
+A1865,,Apple,,iPhone X,,Phone,,5.5
+GM1913,,Oneplus,,OnePlus 7 Pro,,Phone,,5.5
+A1864,,Apple,,iPhone 8 Plus,,Phone,,5.5
+X728,,Letv,,乐 Pro 3,,Phone,,5.5
+A1863,,Apple,,iPhone 8,,Phone,,5.5
+GM1915,,Oneplus,,OnePlus 7 Pro,,Phone,,5.5
+M1906G7I,,Xiaomi,,Redmi Note 8 Pro,,Phone,,5.5
+M2104K10AC,,Xiaomi,,Redmi Note 10 Pro,,Phone,,5.5
+GM1910,,Oneplus,,OnePlus 7 Pro,,Phone,,5.5
+M1906G7G,,Xiaomi,,Redmi Note 8 Pro,,Phone,,5.5
+GM1911,,Oneplus,,OnePlus 7 Pro,,Phone,,5.5
+YAL-AL00,,Honor,,荣耀 20,,Phone,,5.5
+HUAWEI P7-L00,,Huawei,,华为 Ascend P7,,Phone,,5.5
+M1906G7E,,Xiaomi,,Redmi Note 8 Pro,,Phone,,5.5
+VOG-AL00,,Huawei,,HUAWEI P30 Pro,,Phone,,5.5
+M1810E5A,,Xiaomi,,小米 MIX 3,,Phone,,5.5
+22087RA4DI,,Xiaomi,,Redmi Note 11 SE,,Phone,,5.5
+TA-1172,,Nokia,,Nokia X71,,Phone,,5.5
+EBG-AN00,,Honor,,荣耀 30 Pro,,Phone,,5.5
+A1858,,Apple,,Apple Watch Series 3,,Phone,,5.5
+SM-G9960,,Samsung,,Galaxy S21+,,Phone,,5.5
+EBG-AN10,,Honor,,荣耀 30 Pro+,,Phone,,5.5
+M1906G7T,,Xiaomi,,Redmi Note 8 Pro,,Phone,,5.5
+A1859,,Apple,,Apple Watch Series 3,,Phone,,5.5
+DUK-AL20,,Honor,,荣耀 V9,,Phone,,5.5
+LND-TL30,,Honor,,荣耀畅玩 7C,,Phone,,5.5
+L55M9-EP,,Xiaomi,,小米电视 EA Pro 55,,TV,,5.5
+RMX2103,,Realme,,realme 7i,,Phone,,5.5
+GM1903,,Oneplus,,OnePlus 7,,Phone,,5.5
+A1852,,Apple,,iPad Pro,,Pad,,5.5
+RMX2101,,Realme,,realme C17,,Phone,,5.5
+GM1905,,Oneplus,,OnePlus 7,,Phone,,5.5
+L98M6-RK,,Mitv,,Redmi 红米电视,,TV,,5.5
+VLR-W29L,,Honor,,荣耀 MagicBook 2019,,PC,,5.5
+BohL-WFQ9,,Huawei,,HUAWEI MateBook D 15,,PC,,5.5
+GM1900,,Oneplus,,OnePlus 7,,Phone,,5.5
+GM1901,,Oneplus,,OnePlus 7,,Phone,,5.5
+V2111A,,Vivo,,vivo Y53s,,Phone,,5.5
+X720,,Letv,,乐 Pro 3,,Phone,,5.5
+YAL-AL10,,Honor,,荣耀 20 PRO,,Phone,,5.5
+LND-TL40,,Honor,,荣耀畅玩 7C,,Phone,,5.5
+X722,,Letv,,乐 Pro 3,,Phone,,5.5
+EUL-W19P,,Huawei,,HUAWEI MateBook X,,PC,,5.5
+JSN-AL00,,Honor,,荣耀 8X,,Phone,,5.5
+A1803,,Apple,,Apple Watch Series 1,,Phone,,5.5
+A1802,,Apple,,Apple Watch Series 1,,Phone,,5.5
+SHARK KSR-H0,,Xiaomi,,黑鲨 4 Pro,,Phone,,5.5
+2015112 2015115,,Xiaomi,,红米 Note 3,,Phone,,5.5
+PADM00,,Oppo,,OPPO A3,,Phone,,5.5
+RMX2112,,Realme,,realme 真我 V5,,Phone,,5.5
+GT-I9018,,Samsung,,Galaxy S,,Phone,,5.5
+RMX2111,,Realme,,realme 真我 V5,,Phone,,5.5
+NX616J,,Nubia,,nubia X,,Phone,,5.5
+RMX2104,,Realme,,realme 7i,,Phone,,5.5
+HUAWEI MLA-UL00,,Huawei,,HUAWEI G9 Plus,,Phone,,5.5
+AGS3K-W20,,Huawei,,HUAWEI MatePad SE,,Pad,,5.5
+DUA-TL00,,Honor,,荣耀畅玩 7,,Phone,,5.5
+KOB-L09,,Honor,,荣耀畅玩平板 2,,Pad,,5.5
+GT-I9008,,Samsung,,Galaxy S,,Phone,,5.5
+SM-G9980,,Samsung,,Galaxy S21 Ultra,,Phone,,5.5
+M1810E5E,,Xiaomi,,小米 MIX 3,,Phone,,5.5
+GT-I9000,,Samsung,,Galaxy S,,Phone,,5.5
+RMX2121,,Realme,,realme 真我 X7 Pro,,Phone,,5.5
+SM-N9008V,,Samsung,,Galaxy Note3,,Phone,,5.5
+V1836A,,Vivo,,vivo X27 Pro,,Phone,,5.5
+SM-N9008S,,Samsung,,Galaxy Note3,,Phone,,5.5
+RMX2117,,Realme,,realme 真我 Q2,,Phone,,5.5
+NX617J,,Nubia,,nubia N3,,Phone,,5.5
+V2068A,,Vivo,,vivo Y31s,,Phone,,5.5
+GLK-TL00,,Huawei,,HUAWEI nova 5i,,Phone,,5.5
+SM-T595C,,Samsung,,Galaxy Tab A,,Phone,,5.5
+V1836T,,Vivo,,vivo X27 Pro,,Phone,,5.5
+MEC7S,,Xiaomi,,红米 Note 5,,Phone,,5.5
+JMM-AL00,,Honor,,荣耀 V9 Play,,Phone,,5.5
+JAD-AL50 JAD-AL60,,Huawei,,HUAWEI P50 Pro,,Phone,,5.5
+PBFM00,,Oppo,,OPPO A7,,Phone,,5.5
+SM-T819C,,Samsung,,Galaxy Tab S2 9.7,,Phone,,5.5
+A1823,,Apple,,iPad,,Pad,,5.5
+SM-G6000,,Samsung,,Galaxy On7,,Phone,,5.5
+A1822,,Apple,,iPad,,Pad,,5.5
+E1003,,Oneplus,,OnePlus X,,Phone,,5.5
+E1001,,Oneplus,,OnePlus X,,Phone,,5.5
+E1000,,Oneplus,,OnePlus X,,Phone,,5.5
+V1962BA,,Vivo,,vivo G1,,Phone,,5.5
+ONE A1001,,OnePlus,,One,,Phone,,5.5
+E1005,,Oneplus,,OnePlus X,,Phone,,5.5
+A1821,,Apple,,iPad Pro,,Pad,,5.5
+2015716,,Xiaomi,,小米平板 2,,Pad,,5.5
+T1-701u,,Honor,,荣耀畅玩平板,,Pad,,5.5
+V1838A,,Vivo,,vivo X27,,Phone,,5.5
+V2069A,,vivo,,vivo Y53s,,Phone,,5.5
+M1901F7G M1901F7H,,Xiaomi,,Redmi Note 7,,Phone,,5.5
+WRTB-WFH9L,,Huawei,,HUAWEI MateBook 13,,PC,,5.5
+2015712,,Xiaomi,,红米 Note 2,,Phone,,5.5
+2015711,,Xiaomi,,小米 5s,,Phone,,5.5
+Nbl-WAH9HN,,Honor,,荣耀 MagicBook 14,,PC,,5.5
+MET7S,,Xiaomi,,红米 Note 5,,Phone,,5.5
+A1817,,Apple,,Apple Watch Series 2,,Phone,,5.5
+A1816,,Apple,,Apple Watch Series 2,,Phone,,5.5
+SM-N9810,,Samsung,,Galaxy Note20,,Phone,,5.5
+YAL-AL50,,Honor,,荣耀 20S,,Phone,,5.5
+RMX2142,,Realme,,realme 真我 X50m,,Phone,,5.5
+RMX2141,,Realme,,realme 真我 X50m,,Phone,,5.5
+RMX2144,,Realme,,realme X50,,Phone,,5.5
+HEGE-570,,Huawei,,华为智慧屏 V 系列,,TV,,5.5
+BohL-WFQ9HN,,Honor,,荣耀 MagicBook 15 2020,,PC,,5.5
+NX619J,,Nubia,,nubia 红魔,,Phone,,5.5
+V1838T,,Vivo,,vivo X27,,Phone,,5.5
+Letv,,Letv,,乐 1,,Phone,,5.5
+22041211AC,,Xiaomi,,Redmi K50,,Phone,,5.5
+BZC-W00,,Huawei,,华为平板 C3,,Pad,,5.5
+PCHM10,,Oppo,,OPPO A11,,Phone,,5.5
+U685C,,Meizu,,魅蓝 U20,,Phone,,5.5
+GT-I9300I,,Samsung,,Galaxy S3 Neo+,,Phone,,5.5
+M2101K7BNY,,Xiaomi,,Redmi Note 10S,,Phone,,5.5
+M1803D5XT,,Xiaomi,,小米 MIX 2S,,Phone,,5.5
+U685M,,Meizu,,魅蓝 U20,,Phone,,5.5
+BAH2-W09,,Huawei,,华为平板 M5 青春版,,Pad,,5.5
+RMX2032,,Realme,,realme 5i,,Phone,,5.5
+RMX2031,,Realme,,realme 5i,,Phone,,5.5
+RMX2030,,Realme,,realme 5i,,Phone,,5.5
+BZD-AL00,,Huawei,,华为平板 C3,,Pad,,5.5
+U685H,,Meizu,,魅蓝 U20,,Phone,,5.5
+BTV-W09,,Huawei,,华为平板 M3,,Pad,,5.5
+RMX2027,,Realme,,realme C3,,Phone,,5.5
+U685Q,,Meizu,,魅蓝 U20,,Phone,,5.5
+SM-A9100,,Samsung,,Galaxy A9 高配版,,Phone,,5.5
+NX608J,,Nubia,,nubia N3,,Phone,,5.5
+L43M7-ES,,Mitv,,小米电视 ES,,TV,,5.5
+22041219PI,,Xiaomi,,POCO M4,,Phone,,5.5
+22041219PG,,Xiaomi,,POCO M4,,Phone,,5.5
+RMX2040,,Realme,,realme 6i,,Phone,,5.5
+CREM-WFD9,,Huawei,,HUAWEI MateBook 16,,PC,,5.5
+RMX2042,,Realme,,realme 6i,,Phone,,5.5
+RMX2041,,Realme,,realme 6i,,Phone,,5.5
+L43M7-EA,,Mitv,,小米电视 EA,,TV,,5.5
+M1803D5XC,,Xiaomi,,小米 MIX 2S,,Phone,,5.5
+M1803D5XA,,Xiaomi,,小米 MIX 2S,,Phone,,5.5
+M1803D5XE,,Xiaomi,,小米 MIX 2S,,Phone,,5.5
+SM-A6060,,Samsung,,Galaxy A60,,Phone,,5.5
+NX609J,,Nubia,,nubia 红魔,,Phone,,5.5
+RMX2051,,Realme,,realme 真我 X50,,Phone,,5.5
+RMX2050,,Realme,,realme Narzo 20A,,Phone,,5.5
+SM-N9860,,Samsung,,Galaxy Note20 Ultra,,Phone,,5.5
+RMX2052,,Realme,,realme 真我 X50t,,Phone,,5.5
+EUL-W19,,Huawei,,HUAWEI MateBook X,,PC,,5.5
+SHARK KSR-A0,,Xiaomi,,黑鲨 5 RS,,Phone,,5.5
+M1810F6LT,,Xiaomi,,Redmi 7,,Phone,,5.5
+RMX2061,,Realme,,realme 6 Pro,,Phone,,5.5
+BZD-AL10,,Huawei,,华为平板 C3,,Pad,,5.5
+RMX2063,,Realme,,realme 6 Pro,,Phone,,5.5
+PCHM00,,Oppo,,OPPO A11n,,Phone,,5.5
+M1810F6LI,,Xiaomi,,Redmi 7,,Phone,,5.5
+PAR-AL00,,Huawei,,HUAWEI nova 3,,Phone,,5.5
+JNY-TL10,,Huawei,,HUAWEI nova 6 SE,,Phone,,5.5
+L48M3-AA,,Mitv,,小米电视 2S,,TV,,5.5
+OSCA-550AX,,Honor,,荣耀智慧屏,,TV,,5.5
+MDZ-23-AA,,Mitv,,小米盒子,,TV,,5.5
+L48M3-AF,,Mitv,,小米电视 3s,,TV,,5.5
+RMX2072,,Realme,,realme 真我 X50 Pro 玩家版,,Phone,,5.5
+RMX2071,,Realme,,realme 真我 X50 Pro,,Phone,,5.5
+U680Y,,Meizu,,魅蓝 U10,,Phone,,5.5
+CREM-WFG9,,Huawei,,HUAWEI MateBook 16,,PC,,5.5
+RMX2076,,Realme,,realme X50 Pro,,Phone,,5.5
+RMX2075,,Realme,,realme X50 Pro,,Phone,,5.5
+A2298,,Apple,,iPhone SE,,Phone,,5.5
+P6-C00,,Huawei,,华为 Ascend P6,,Phone,,5.5
+HUAWEI C199,,Huawei,,华为麦芒 C199,,Phone,,5.5
+PFCM00,,OPPO,,OPPO Reno7 SE,,Phone,,5.5
+RMX2083,,Realme,,realme X3,,Phone,,5.5
+HUAWEI CRR-UL20,,Huawei,,HUAWEI Mate S,,Phone,,5.5
+RMX2081,,Realme,,realme X3,,Phone,,5.5
+V2072A,,Vivo,,vivo S9,,Phone,,5.5
+CHE-TL00,,Honor,,荣耀畅玩 4X,,Phone,,5.5
+RMX2086,,Realme,,realme X3 超级变焦版,,Phone,,5.5
+RMX2085,,Realme,,realme X3 超级变焦版,,Phone,,5.5
+HUAWEI VNS-TL00,,Huawei,,HUAWEI G9,,Phone,,5.5
+M2103K19Y,,Xiaomi,,Redmi Note 10 5G,,Phone,,5.5
+A2293,,Apple,,Apple Watch Series 6,,Watch,,5.5
+A2292,,Apple,,Apple Watch Series 6,,Phone,,5.5
+A2291,,Apple,,Apple Watch Series 6,,Phone,,5.5
+GLK-AL00,,Huawei,,HUAWEI nova 5i,,Phone,,5.5
+M2006C3MT,,Xiaomi,,Redmi 9C,,Phone,,5.5
+A2297,,Apple,,iPhone SE,,Phone,,5.5
+A2296,,Apple,,iPhone SE,,Phone,,5.5
+A2294,,Apple,,Apple Watch Series 6,,Watch,,5.5
+M1805D1ST,,Xiaomi,,红米 6 Pro,,Phone,,5.5
+M2103K19G,,Xiaomi,,Redmi Note 10 5G,,Phone,,5.5
+M2103K19I,,Xiaomi,,Redmi Note 10T 5G,,Phone,,5.5
+PCHM30,,Oppo,,OPPO A11x,,Phone,,5.5
+M1805D1SI,,Xiaomi,,红米 6 Pro,,Phone,,5.5
+MI-ONE C1,,Xiaomi,,小米 1,,Phone,,5.5
+M2103K19C,,Xiaomi,,Redmi Note 10,,Phone,,5.5
+M1805D1SG,,Xiaomi,,小米 A2 Lite,,Phone,,5.5
+PELM00,,Oppo,,OPPO A95,,Phone,,5.5
+M1805D1SE,,Xiaomi,,红米 6 Pro,,Phone,,5.5
+2206122SC,,Xiaomi,,Xiaomi 12S Pro,,Phone,,5.5
+M1805D1SC,,Xiaomi,,红米 6 Pro,,Phone,,5.5
+V2073A,,Vivo,,iQOO Z3,,Phone,,5.5
+XT1941-2,,Motorola,,motorola p30 play,,Phone,,5.5
+PEAM00,,Oppo,,OPPO Reno4 SE,,Phone,,5.5
+L48M3-AA L48M3-AR,,Xiaomi,,小米电视 2S 4,,TV,,5.5
+SM-A6058,,Samsung,,Galaxy A9 Star Lite,,Phone,,5.5
+SM-A6050,,Samsung,,Galaxy A9 Star Lite,,Phone,,5.5
+NCE-AL00,,Huawei,,华为畅享 6,,Phone,,5.5
+FLA-AL00 FLA-AL10 FLA-AL20,,Huawei,,华为畅享 8 Plus,,Phone,,5.5
+TA-1258,,Nokia,,Nokia C3,,Phone,,5.5
+HUAWEI CRR-UL00,,Huawei,,HUAWEI Mate S,,Phone,,5.5
+U680H,,Meizu,,魅蓝 U10,,Phone,,5.5
+U680D,,Meizu,,魅蓝 U10,,Phone,,5.5
+U680A,,Meizu,,魅蓝 U10,,Phone,,5.5
+TET-AN50,,Huawei,,HUAWEI Mate X2 典藏版,,Phone,,5.5
+FRL-TN00,,Huawei,,华为畅享 20 Plus,,Phone,,5.5
+SM-N9002,,Samsung,,Galaxy Note3,,Phone,,5.5
+T9510E,,Huawei,,华为 Ascend D1,,Phone,,5.5
+PRA-AL00X,,Honor,,荣耀 8 青春版,,Phone,,5.5
+SM-N9006,,Samsung,,Galaxy Note3,,Phone,,5.5
+SM-N9009,,Samsung,,Galaxy Note3,,Phone,,5.5
+WRT-W29,,Huawei,,HUAWEI MateBook 13,,PC,,5.5
+SM-N9008,,Samsung,,Galaxy Note3,,Phone,,5.5
+XIG01,,Xiaomi,,小米 10 Lite,,Phone,,5.5
+RIO-TL00,,Huawei,,HUAWEI G7 Plus,,Phone,,5.5
+DLI-TL20,,Honor,,荣耀畅玩 6A,,Phone,,5.5
+SM-T500,,Samsung,,Galaxy Tab A7,,Phone,,5.5
+BE2013,,Oneplus,,OnePlus Nord N100,,Phone,,5.5
+KRJ-AN00,,Honor,,荣耀平板 V6,,Pad,,5.5
+BE2012,,Oneplus,,OnePlus Nord N100,,Phone,,5.5
+BE2011,,Oneplus,,OnePlus Nord N100,,Phone,,5.5
+WAS-TL10,,Huawei,,HUAWEI nova 青春版,,Phone,,5.5
+BE2015,,Oneplus,,OnePlus Nord N100,,Phone,,5.5
+FIG-AL10,,Huawei,,华为畅享 7S,,Phone,,5.5
+L40M7-EA,,Mitv,,小米电视 EA,,TV,,5.5
+WRT-W19,,Huawei,,HUAWEI MateBook 13,,PC,,5.5
+BE2028,,Oneplus,,OnePlus Nord N10,,Phone,,5.5
+BE2026,,Oneplus,,OnePlus Nord N10,,Phone,,5.5
+BE2025,,Oneplus,,OnePlus Nord N10,,Phone,,5.5
+BE2029,,Oneplus,,OnePlus Nord N10,,Phone,,5.5
+FIG-AL00,,Huawei,,华为畅享 7S,,Phone,,5.5
+JDN-W09,,Honor,,荣耀平板 2,,Pad,,5.5
+SM705,,Smartisan,,Smartisan T1,,Phone,,5.5
+NX401,,Nubia,,nubia Z5 mini,,Phone,,5.5
+SM-T520,,Samsung,,Galaxy Tab PRO 10.1,,Phone,,5.5
+NX402,,Nubia,,nubia Z5 mini,,Phone,,5.5
+SM701,,Smartisan,,Smartisan T1,,Phone,,5.5
+L65R8-X,,Xiaomi,,Redmi 智能电视 X65 2022 款,,TV,,5.5
+A2270,,Apple,,iPad,,Pad,,5.5
+A2275,,Apple,,iPhone SE,,Phone,,5.5
+L65R8-A,,Xiaomi,,Redmi 智能电视 A65 2022 款,,TV,,5.5
+TET-AN10,,Huawei,,HUAWEI Mate X2,,Phone,,5.5
+SM-T510,,Samsung,,Galaxy Tab A,,Phone,,5.5
+8012N,,Zte,,中兴 Blade 20 5G,,Phone,,5.5
+P6-T00,,Huawei,,华为 Ascend P6,,Phone,,5.5
+A2219,,Apple,,iPhone 11 Pro Max,,Phone,,5.5
+A2218,,Apple,,iPhone 11 Pro Max,,Phone,,5.5
+JER-TN10 JER-TN20,,Huawei,,HUAWEI nova 7 Pro,,Phone,,5.5
+A2217,,Apple,,iPhone 11 Pro,,Phone,,5.5
+A2216,,Apple,,iPhone 11 Pro,,Phone,,5.5
+A2215,,Apple,,iPhone 11 Pro,,Phone,,5.5
+V0920,,Zte,,中兴小鲜 5S,,Phone,,5.5
+M1810F6LG,,Xiaomi,,Redmi 7,,Phone,,5.5
+M851M,,Meizu,,魅蓝 E3,,Phone,,5.5
+M1810F6LH,,Xiaomi,,Redmi 7,,Phone,,5.5
+M1810F6LE,,Xiaomi,,Redmi 7,,Phone,,5.5
+CUN-TL00,,Honor,,荣耀畅玩 5,,Phone,,5.5
+A2220,,Apple,,iPhone 11 Pro Max,,Phone,,5.5
+K320t,,Lenovo,,联想 K320t,,Phone,,5.5
+TET-AN00,,Huawei,,HUAWEI Mate X2,,Phone,,5.5
+M851Q,,Meizu,,魅蓝 E3,,Phone,,5.5
+TRT-AL00A,,Huawei,,华为畅享 7 Plus,,Phone,,5.5
+NX563J,,Nubia,,nubia Z17,,Phone,,5.5
+A2200,,Apple,,iPad,,Pad,,5.5
+BLA-AL00,,Huawei,,HUAWEI Mate 10 Pro,,Phone,,5.5
+MDI6S,,Xiaomi,,红米 Note 5A,,Phone,,5.5
+M852H,,Meizu,,魅族 X8,,Phone,,5.5
+M852Q,,Meizu,,魅族 X8,,Phone,,5.5
+NblL-WFP9HN,,Honor,,荣耀 MagicBook 14 2020,,PC,,5.5
+FRD-DL00,,Honor,,荣耀 8,,Phone,,5.5
+A2233,,Apple,,iPad Pro,,Pad,,5.5
+A2232,,Apple,,iPad Pro,,Pad,,5.5
+V0900,,Zte,,中兴 Blade V9,,Phone,,5.5
+MDI40,,Xiaomi,,小米 Max 2,,Phone,,5.5
+KLV-W29,,Huawei,,HUAWEI MateBook 14,,PC,,5.5
+OC105,,Smartisan,,坚果 3,,Phone,,5.5
+SEA-AL00,,Huawei,,HUAWEI nova 5,,Phone,,5.5
+OC106,,Smartisan,,坚果 3,,Phone,,5.5
+A2229,,Apple,,iPad Pro,,Pad,,5.5
+A2223,,Apple,,iPhone 11,,Phone,,5.5
+HMA-TL00,,Huawei,,HUAWEI Mate 20,,Phone,,5.5
+A2222,,Apple,,iPhone 11,,Phone,,5.5
+A2221,,Apple,,iPhone 11,,Phone,,5.5
+A2228,,Apple,,iPad Pro,,Pad,,5.5
+G621-TL00M,,Honor,,荣耀畅玩 4,,Phone,,5.5
+VTR-AL00,,Huawei,,HUAWEI P10,,Phone,,5.5
+HUAWEI G6-U00,,Huawei,,华为 Ascend G6,,Phone,,5.5
+KLV-W19,,Huawei,,HUAWEI MateBook 14,,PC,,5.5
+A2231,,Apple,,iPad Pro,,Pad,,5.5
+A2230,,Apple,,iPad Pro,,Pad,,5.5
+SEA-AL10,,Huawei,,HUAWEI nova 5 Pro,,Phone,,5.5
+22041219NY,,Xiaomi,,Redmi 10,,Phone,,5.5
+M2007J3SG,,Xiaomi,,小米 10T,,Phone,,5.5
+LE2110,,Oneplus,,OnePlus 9,,Phone,,5.5
+MLD-AL00,,Huawei,,华为畅享 20e,,Phone,,5.5
+M2007J3SC,,Xiaomi,,Redmi K30S 至尊纪念版,,Phone,,5.5
+PBFT00,,Oppo,,OPPO A7,,Phone,,5.5
+A2411,,Apple,,iPhone 12 Pro Max,,Phone,,5.5
+LE2115,,Oneplus,,OnePlus 9,,Phone,,5.5
+A2410,,Apple,,iPhone 12 Pro Max,,Phone,,5.5
+LE2117,,Oneplus,,OnePlus 9,,Phone,,5.5
+22011119UY,,Xiaomi,,Redmi 10 2022,,Phone,,5.5
+EVA-DL00,,Huawei,,HUAWEI P9,,Phone,,5.5
+LE2111,,Oneplus,,OnePlus 9,,Phone,,5.5
+NBR-WAH9,,Honor,,荣耀 MagicBook X 14,,PC,,5.5
+PCCM00,,Oppo,,OPPO Reno 10 倍变焦版,,Phone,,5.5
+LE2113,,Oneplus,,OnePlus 9,,Phone,,5.5
+A2412,,Apple,,iPhone 12 Pro Max,,Phone,,5.5
+2203129G,,Xiaomi,,Xiaomi 12,,Phone,,5.5
+2203129I,,Xiaomi,,Xiaomi 12,,Phone,,5.5
+M2007J3SP,,Xiaomi,,小米 10T,,Phone,,5.5
+OE106,,Smartisan,,坚果 Pro 2S,,Phone,,5.5
+L40M5-AD,,Mitv,,小米电视 4A,,TV,,5.5
+M2007J3SI,,Xiaomi,,小米 10T,,Phone,,5.5
+JER-TN10,,Huawei,,HUAWEI nova 7 Pro,,Phone,,5.5
+M2103K19PG M2103K19PY,,Xiaomi,,POCO M3 Pro,,Phone,,5.5
+A2408,,Apple,,iPhone 12 Pro,,Phone,,5.5
+A2407,,Apple,,iPhone 12 Pro,,Phone,,5.5
+2109106A1I,,Xiaomi,,Redmi Note 10,,Phone,,5.5
+A2406,,Apple,,iPhone 12 Pro,,Phone,,5.5
+LE2120,,Oneplus,,OnePlus 9 Pro,,Phone,,5.5
+LE2121,,Oneplus,,OnePlus 9 Pro,,Phone,,5.5
+PFUM10 PHA120,,OPPO,,OPPO A96,,Phone,,5.5
+SM-T330,,Samsung,,Galaxy Tab4 8.0,,Phone,,5.5
+A2400,,Apple,,iPhone 12 mini,,Phone,,5.5
+LE2127,,Oneplus,,OnePlus 9 Pro,,Phone,,5.5
+PCHT00,,Oppo,,OPPO A11n,,Phone,,5.5
+PCNM00,,Oppo,,OPPO K5,,Phone,,5.5
+NX531J,,Nubia,,nubia Z11,,Phone,,5.5
+M2007J3SY,,Xiaomi,,小米 10T,,Phone,,5.5
+A2404,,Apple,,iPhone 12,,Phone,,5.5
+A2403,,Apple,,iPhone 12,,Phone,,5.5
+LE2123,,Oneplus,,OnePlus 9 Pro,,Phone,,5.5
+A2402,,Apple,,iPhone 12,,Phone,,5.5
+NBR-WAI9,,Honor,,荣耀 MagicBook X 14,,PC,,5.5
+LE2125,,Oneplus,,OnePlus 9 Pro,,Phone,,5.5
+LE2119,,Oneplus,,OnePlus 9,,Phone,,5.5
+PADT00,,Oppo,,OPPO A3,,Phone,,5.5
+SM-T385C,,Samsung,,Galaxy Tab A,,Phone,,5.5
+2014112,,Xiaomi,,红米 2,,Phone,,5.5
+SM-T331,,Samsung,,Galaxy Tab4 8.0,,Phone,,5.5
+Che2-UL00,,Honor,,荣耀畅玩 4X,,Phone,,5.5
+M081M,,Meizu,,魅族 17,,Phone,,5.5
+M2006C3MNG,,Xiaomi,,Redmi 9C NFC,,Phone,,5.5
+PEMM00 PEMM20,,OPPO,,OPPO A55,,Phone,,5.5
+M611Y,,Meizu,,魅蓝 5,,Phone,,5.5
+M081Q,,Meizu,,魅族 17,,Phone,,5.5
+M612H,,Meizu,,魅蓝 5s,,Phone,,5.5
+A2430,,Apple,,iPad,,Pad,,5.5
+L58091,,Lenovo,,联想 S5 Pro,,Phone,,5.5
+CAZ-AL00,,Huawei,,HUAWEI nova,,Phone,,5.5
+M612C,,Meizu,,魅蓝 5s,,Phone,,5.5
+GLK-LX1U,,Huawei,,HUAWEI nova 5i,,Phone,,5.5
+MDZ-06-AA MDZ-06-AB,,Xiaomi,,新小米盒子,,TV,,5.5
+K520t,,Lenovo,,联想 S5,,Phone,,5.5
+NX666J,,Nubia,,nubia 红魔 6R,,Phone,,5.5
+22011119TI,,Xiaomi,,Redmi 10,,Phone,,5.5
+SM-G7810,,Samsung,,Galaxy S20 FE,,Phone,,5.5
+PBAM00,,Oppo,,OPPO A5,,Phone,,5.5
+C2017,,Zte,,中兴天机 7 MAX,,Phone,,5.5
+A2429,,Apple,,iPad,,Pad,,5.5
+A2428,,Apple,,iPad,,Pad,,5.5
+MLD-AL10,,Huawei,,华为畅享 20e,,Phone,,5.5
+NblL-WFQ9HN,,Honor,,荣耀 MagicBook 14 2020,,PC,,5.5
+SM-T350,,Samsung,,Galaxy Tab A 8.0,,Phone,,5.5
+ATU-TL10,,Huawei,,华为畅享 8e,,Phone,,5.5
+CAZ-AL10,,Huawei,,HUAWEI nova,,Phone,,5.5
+YAL-TL00,,Honor,,荣耀 20,,Phone,,5.5
+M612Q,,Meizu,,魅蓝 5s,,Phone,,5.5
+M612M,,Meizu,,魅蓝 5s,,Phone,,5.5
+NX667J,,Nubia,,nubia Z30 Pro,,Phone,,5.5
+JER-TN20,,Huawei,,HUAWEI nova 7 Pro,,Phone,,5.5
+TRT-TL10 TRT-TL10A,,Huawei,,华为畅享 7 Plus,,Phone,,5.5
+PEAT00,,Oppo,,OPPO Reno4 SE,,Phone,,5.5
+PERM00,,Oppo,,OPPO K7x,,Phone,,5.5
+L50M7-ES,,Xiaomi,,小米电视 ES50 2022 款,,TV,,5.5
+M1803E1A,,Xiaomi,,小米 8,,Phone,,5.5
+PCHT30,,Oppo,,OPPO A11x,,Phone,,5.5
+PEGM10,,Oppo,,OPPO Reno5 K,,Phone,,5.5
+YAL-TL10,,Honor,,荣耀 20 PRO,,Phone,,5.5
+V2148A,,vivo,,iQOO Z5,,Phone,,5.5
+NX535J,,Nubia,,nubia Z11 Max,,Phone,,5.5
+PDEM30,,Oppo,,OPPO Find X2 Pro,,Phone,,5.5
+SPN-TL00,,Huawei,,HUAWEI nova 5i Pro,,Phone,,5.5
+V1916T,,Vivo,,iQOO Pro 5G,,Phone,,5.5
+M1803E1T,,Xiaomi,,小米 8,,Phone,,5.5
+JER-AN10 JER-AN20,,Huawei,,HUAWEI nova 7 Pro,,Phone,,5.5
+PEGM00,,Oppo,,OPPO Reno5,,Phone,,5.5
+NX669J,,Nubia,,nubia 红魔 6,,Phone,,5.5
+8030N,,Zte,,中兴 S30 SE,,Phone,,5.5
+M1803E1C,,Xiaomi,,小米 8,,Phone,,5.5
+GEM-703LT,,Honor,,荣耀 X2,,Phone,,5.5
+NX403A,,Nubia,,nubia Z5S mini,,Phone,,5.5
+X800,,Letv,,乐 1 Pro,,Phone,,5.5
+PCHT10,,Oppo,,OPPO A11,,Phone,,5.5
+SEA-TL00,,Huawei,,HUAWEI nova 5,,Phone,,5.5
+PDPM00,,Oppo,,OPPO Reno4,,Phone,,5.5
+V1919A,,Vivo,,vivo Z5x,,Phone,,5.5
+PDEM10,,Oppo,,OPPO Find X2,,Phone,,5.5
+SM-T321,,Samsung,,Galaxy Tab PRO 8.4,,Phone,,5.5
+SM-T320,,Samsung,,Galaxy Tab PRO 8.4,,Phone,,5.5
+INE-AL00,,Huawei,,HUAWEI nova 3i,,Phone,,5.5
+L58041,,Lenovo,,联想 S5 Pro,,Phone,,5.5
+LE2100,,Oneplus,,OnePlus 9R,,Phone,,5.5
+LE2101,,Oneplus,,OnePlus 9R,,Phone,,5.5
+SEA-TL10,,Huawei,,HUAWEI nova 5 Pro,,Phone,,5.5
+YAL-TL50,,Honor,,荣耀 20S,,Phone,,5.5
+ONEPLUS,,Oneplus,,OnePlus 3,,Phone,,5.5
+L50M7-EA,,Mitv,,小米电视 EA,,TV,,5.5
+AGS2-W09HN,,Honor,,荣耀平板 5,,Pad,,5.5
+X822,,Letv,,乐 Max 2,,Phone,,5.5
+NDR-WFH9HN,,Honor,,荣耀 MagicBook 14 2021,,PC,,5.5
+Z2122,,Lenovo,,ZUK Z2 Pro,,Phone,,5.5
+KIW-CL00,,Honor,,荣耀畅玩 5X,,Phone,,5.5
+Z2121,,Lenovo,,ZUK Z2 Pro,,Phone,,5.5
+2203121C,,Xiaomi,,Xiaomi 12S Ultra,,Phone,,5.5
+SCH-W699,,Samsung,,三星 W699,,Phone,,5.5
+M570Q-S,,Meizu,,魅族 PRO 6s,,Phone,,5.5
+V2011A,,Vivo,,vivo X50 Pro+,,Phone,,5.5
+HUAWEI RIO-TL00,,Huawei,,华为 G7 Plus,,Phone,,5.5
+MYA-TL10,,Honor,,荣耀畅玩 6,,Phone,,5.5
+KB2000,,Oneplus,,OnePlus 8T,,Phone,,5.5
+KB2001,,Oneplus,,OnePlus 8T,,Phone,,5.5
+A1954,,Apple,,iPad,,Pad,,5.5
+NIR-WAP9HNRP,,Honor,,荣耀 MagicBook 14 SE 2021,,PC,,5.5
+ARE-AL00,,Honor,,荣耀 8X Max,,Phone,,5.5
+L75R9-XT,,Xiaomi,,Redmi AI 智能电视 X75,,TV,,5.5
+CHA-AL80,,Huawei,,HUAWEI nova 10z,,Phone,,5.5
+KB2007,,Oneplus,,OnePlus 8T,,Phone,,5.5
+V1913A,,Vivo,,vivo Y7s,,Phone,,5.5
+KB2003,,Oneplus,,OnePlus 8T,,Phone,,5.5
+KB2005,,Oneplus,,OnePlus 8T,,Phone,,5.5
+M926H,,Meizu,,魅族 16Xs,,Phone,,5.5
+A0620,,Zte,,中兴远航 5 plus,,Phone,,5.5
+V2145A,,vivo,,vivo X70 Pro+,,Phone,,5.5
+X820,,Letv,,乐 Max 2,,Phone,,5.5
+V1913T,,Vivo,,vivo Y7s,,Phone,,5.5
+TA-1042,,Nokia,,Nokia 8 Sirocco,,Phone,,5.5
+V2012A,,Vivo,,iQOO Z1x,,Phone,,5.5
+TA-1041,,Nokia,,Nokia 7,,Phone,,5.5
+GT-I9308I,,Samsung,,Galaxy S3 Neo+,,Phone,,5.5
+Z2131,,Lenovo,,ZUK Z2,,Phone,,5.5
+L65M5-OD,,Mitv,,小米电视 大师系列,,TV,,5.5
+M1810F6G,,Xiaomi,,Redmi Y3,,Phone,,5.5
+HMW-W09,,Huawei,,HUAWEI MatePad Paper,,Pad,,5.5
+M1810F6I,,Xiaomi,,Redmi Y3,,Phone,,5.5
+L65M5-RK,,Mitv,,Redmi 红米电视,,TV,,5.5
+BLN-TL00,,Honor,,荣耀畅玩 6X,,Phone,,5.5
+JSM-TL00,,Honor,,荣耀 8X,,Phone,,5.5
+MACHC-WAH9LP,,Huawei,,HUAWEI MateBook X Pro,,PC,,5.5
+A1980,,Apple,,iPad Pro,,Pad,,5.5
+HUAWEI C199s,,Huawei,,华为麦芒 3S,,Phone,,5.5
+M923H,,Meizu,,魅族 Note9,,Phone,,5.5
+V1914A,,Vivo,,iQOO Neo,,Phone,,5.5
+A1984,,Apple,,iPhone XR,,Phone,,5.5
+A1983,,Apple,,iPad Pro,,Pad,,5.5
+L47M1-AA,,Mitv,,小米电视,,TV,,5.5
+KOZ-AL00,,Honor,,荣耀畅玩 20,,Phone,,5.5
+BZT-AL10,,Huawei,,华为平板 C5,,Pad,,5.5
+BohL-WFP9HN,,Honor,,荣耀 MagicBook 15 2020,,PC,,5.5
+TA-1054,,Nokia,,Nokia 6,,Phone,,5.5
+VNS-AL00,,Huawei,,HUAWEI G9 青春版,,Phone,,5.5
+V1914T,,Vivo,,iQOO Neo,,Phone,,5.5
+DUB-AL20,,Huawei,,华为畅享 9,,Phone,,5.5
+A1979,,Apple,,iPad Pro,,Pad,,5.5
+A1978,,Apple,,Apple Watch Series 4,,Phone,,5.5
+A1977,,Apple,,Apple Watch Series 4,,Phone,,5.5
+A1976,,Apple,,Apple Watch Series 4,,Watch,,5.5
+ONE A0001,,OnePlus,,One,,Phone,,5.5
+MDT6S,,Xiaomi,,红米 Note 5A,,Phone,,5.5
+A1975,,Apple,,Apple Watch Series 4,,Watch,,5.5
+BZT-AL00,,Huawei,,华为平板 C5,,Pad,,5.5
+V1916A,,Vivo,,iQOO Pro 5G,,Phone,,5.5
+M923Q,,Meizu,,魅族 Note9,,Phone,,5.5
+21121119VL,,Xiaomi,,Redmi 10 2022 拉美版,,Phone,,5.5
+SM-G9608,,Samsung,,Galaxy S9,,Phone,,5.5
+JNY-AL10,,Huawei,,HUAWEI nova 6 SE,,Phone,,5.5
+PERM10,,OPPO,,OPPO K10 活力版,,Phone,,5.5
+22041216UG,,Xiaomi,,POCO X4 GT Pro,,Phone,,5.5
+TA-1062,,Nokia,,Nokia 7 Plus,,Phone,,5.5
+Z2151,,Lenovo,,ZUK Edge,,Phone,,5.5
+22041216UC,,Xiaomi,,Redmi Note 11T Pro+,,Phone,,5.5
+SM-G9600,,Samsung,,Galaxy S9,,Phone,,5.5
+JSC-TN00,,Huawei,,HUAWEI nova 8 SE,,Phone,,5.5
+L18011,,Lenovo,,联想 A5,,Phone,,5.5
+C8950D,,Honor,,华为荣耀手机,,Phone,,5.5
+SM-T380,,Samsung,,Galaxy Tab A,,Phone,,5.5
+A1921,,Apple,,iPhone XS Max,,Phone,,5.5
+LIO-TN00,,Huawei,,HUAWEI Mate 30 Pro,,Phone,,5.5
+V2140A,,vivo,,vivo Y10,,Phone,,5.5
+GEM-703L,,Honor,,荣耀 X2,,Phone,,5.5
+A1920,,Apple,,iPhone XS,,Phone,,5.5
+BoB-WAE9P,,Huawei,,HUAWEI MateBook D 15,,PC,,5.5
+MACH-W29,,Huawei,,HUAWEI MateBook X Pro,,PC,,5.5
+BLN-TL10,,Honor,,荣耀畅玩 6X,,Phone,,5.5
+2107113SI,,Xiaomi,,Xiaomi 11T Pro,,Phone,,5.5
+GT-I8190N,,Samsung,,Galaxy S3 Mini,,Phone,,5.5
+2107113SG,,Xiaomi,,Xiaomi 11T Pro,,Phone,,5.5
+2107113SR,,Xiaomi,,Xiaomi 11T Pro 日本版,,Phone,,5.5
+BZT3-W09,,Huawei,,华为平板 C5,,Pad,,5.5
+FRL-AN00a,,Huawei,,华为畅享 20 Plus,,Phone,,5.5
+V2141A,,vivo,,iQOO 8 Pro,,Phone,,5.5
+CTR-AL00,,Huawei,,华为畅享 50 Pro,,Phone,,5.5
+2015817 2015819,,Xiaomi,,红米 3,,Phone,,5.5
+JDN2-AL50,,Huawei,,华为平板 M5 青春版,,Pad,,5.5
+BAH3-AN10,,Huawei,,HUAWEI MatePad,,Pad,,5.5
+ARE-AL10,,Honor,,荣耀 8X Max,,Phone,,5.5
+A0616,,Zte,,中兴 Blade A3,,Phone,,5.5
+PFTM10,,OPPO,,OPPO A97,,Phone,,5.5
+HD55THAA,,Huawei,,华为智慧屏 V 系列 2021 款,,TV,,5.5
+21121119SC,,Xiaomi,,Redmi Note 11,,Phone,,5.5
+21121119SG,,Xiaomi,,Redmi 10 2022,,Phone,,5.5
+M926Q,,Meizu,,魅族 16Xs,,Phone,,5.5
+MT7-UL00,,Huawei,,华为 Ascend Mate 7,,Phone,,5.5
+TA-1099,,Nokia,,Nokia X6,,Phone,,5.5
+TA-1094,,Nokia,,Nokia 9 PureView,,Phone,,5.5
+HYLR-WFP9,,Honor,,荣耀 MagicBook Pro 2020,,PC,,5.5
+A1934,,Apple,,iPad Pro,,Pad,,5.5
+HMW-W59,,Huawei,,HUAWEI MatePad Paper 典藏版,,Pad,,5.5
+PFTM20,,OPPO,,OPPO A57,,Phone,,5.5
+M928Q,,Meizu,,魅族 16T,,Phone,,5.5
+RMX3115,,Realme,,realme 真我 X7 Pro 至尊版,,Phone,,5.5
+V1911A,,Vivo,,vivo Z5x,,Phone,,5.5
+KOZ-AL40,,Honor,,荣耀 Play5T,,Phone,,5.5
+V2143A,,Vivo,,iQOO U3x 标准版,,Phone,,5.5
+L40M5-4C,,Mitv,,小米电视 4C,,TV,,5.5
+KOB2-AL00HN,,Honor,,荣耀平板 X7,,Pad,,5.5
+SM-G9008W,,Samsung,,Galaxy S5,,Phone,,5.5
+HUAWEI CRR-TL00,,Huawei,,HUAWEI Mate S,,Phone,,5.5
+SM-G9008V,,Samsung,,Galaxy S5,,Phone,,5.5
+DE106,,Smartisan,,坚果 R1,,Phone,,5.5
+KPR-W29,,Honor,,荣耀 MagicBook 2019 锐龙版,,PC,,5.5
+SM-G9009D,,Samsung,,Galaxy S5,,Phone,,5.5
+L55M7-EA,,Mitv,,小米电视 EA,,TV,,5.5
+XT1570,,Motorola,,Moto X Style,,Phone,,5.5
+MAR-TL00,,Huawei,,HUAWEI nova 4e,,Phone,,5.5
+GT-I9008L,,Samsung,,Galaxy S,,Phone,,5.5
+SM-G9009W,,Samsung,,Galaxy S5,,Phone,,5.5
+MACHC-WAE9LP,,Huawei,,HUAWEI MateBook X Pro,,PC,,5.5
+L55M7-ES,,Mitv,,小米电视 ES,,TV,,5.5
+AGS-L09,,Honor,,荣耀畅玩平板 2,,Pad,,5.5
+XT2071-4,,Motorola,,motorola razr 5G,,Phone,,5.5
+XT1561,,Motorola,,Moto X Play,,Phone,,5.5
+PBAT00 PBBT30,,OPPO,,OPPO A5,,Phone,,5.5
+A1902,,Apple,,iPhone X,,Phone,,5.5
+SM-G9006V,,Samsung,,Galaxy S5,,Phone,,5.5
+SM-J3300,,Samsung,,Galaxy J3,,Phone,,5.5
+A1901,,Apple,,iPhone X,,Phone,,5.5
+SM-G9006W,,Samsung,,Galaxy S5,,Phone,,5.5
+A1906,,Apple,,iPhone 8,,Phone,,5.5
+A1905,,Apple,,iPhone 8,,Phone,,5.5
+M570Q,,Meizu,,魅族 PRO 6,,Phone,,5.5
+SM-N9500,,Samsung,,Galaxy Note8,,Phone,,5.5
+A1903,,Apple,,iPhone X,,Phone,,5.5
+SM-J3308,,Samsung,,Galaxy J3,,Phone,,5.5
+SM-N9508,,Samsung,,Galaxy Note8,,Phone,,5.5
+M570H,,Meizu,,魅族 PRO 6,,Phone,,5.5
+M570C,,Meizu,,魅族 PRO 6,,Phone,,5.5
+M570M,,Meizu,,魅族 PRO 6,,Phone,,5.5
+A1907,,Apple,,iPhone 8,,Phone,,5.5
+HRY-AL00,,Honor,,荣耀 10 青春版,,Phone,,5.5
+L55R9-XT,,Xiaomi,,Redmi AI 智能电视 X55,,TV,,5.5
+M571U,,Meizu,,魅蓝 note2,,Phone,,5.5
+JSC-AN00,,Huawei,,HUAWEI nova 8 SE,,Phone,,5.5
+RMX3031,,Realme,,realme 真我 GT Neo,,Phone,,5.5
+M571H,,Meizu,,魅蓝 note2,,Phone,,5.5
+M571C,,Meizu,,魅蓝 note2,,Phone,,5.5
+MACH-W19,,Huawei,,HUAWEI MateBook X Pro,,PC,,5.5
+M571M,,Meizu,,魅蓝 note2,,Phone,,5.5
+NEM-UL00,,Honor,,荣耀畅玩 5C,,Phone,,5.5
+L681M,,Meizu,,魅蓝 Note3,,Phone,,5.5
+A1633 A1688,,Apple,,iPhone 6s,,Phone,,5.5
+RMX3041,,Realme,,realme 真我 V13,,Phone,,5.5
+TIT-TL00,,Huawei,,华为畅享 5,,Phone,,5.5
+BGO-DL09,,Honor,,荣耀畅玩平板,,Pad,,5.5
+L681Q,,Meizu,,魅蓝 Note3,,Phone,,5.5
+2207117BPG,,Xiaomi,,POCO M5s,,Phone,,5.5
+L681C,,Meizu,,魅蓝 Note3,,Phone,,5.5
+A2021H,,Zte,,中兴天机 Axon 11 5G,,Phone,,5.5
+M2010J19SC,,Xiaomi,,Redmi Note 9 4G,,Phone,,5.5
+1509-M02,,360shouji,,360 手机 Q5 Plus,,Phone,,5.5
+HBL-W29L,,Honor,,荣耀 MagicBook Pro,,PC,,5.5
+RMX3042,,Realme,,realme 真我 Q3i,,Phone,,5.5
+Pro,,Zte,,中兴天机 Axon 9 Pro,,Phone,,5.5
+M2010J19SG,,Xiaomi,,Redmi 9T,,Phone,,5.5
+L681H,,Meizu,,魅蓝 Note3,,Phone,,5.5
+RMX3043,,Realme,,realme 真我 V13,,Phone,,5.5
+TA-1109,,Nokia,,Nokia X5,,Phone,,5.5
+M2010J19SI,,Xiaomi,,Redmi 9T,,Phone,,5.5
+M576H,,Meizu,,魅族 PRO 5,,Phone,,5.5
+M576U,,Meizu,,魅族 PRO 5,,Phone,,5.5
+HUAWEI CAZ-TL10,,Huawei,,HUAWEI nova,,Phone,,5.5
+MOA-AL20,,Honor,,荣耀畅玩 9A,,Phone,,5.5
+DUB-AL00,,Huawei,,华为畅享 9,,Phone,,5.5
+TA-1117,,Nokia,,Nokia 3.1 Plus,,Phone,,5.5
+M578H,,Meizu,,魅蓝 2,,Phone,,5.5
+M578A,,Meizu,,魅蓝 2,,Phone,,5.5
+M578C,,Meizu,,魅蓝 2,,Phone,,5.5
+M2010J19SL,,Xiaomi,,Redmi 9T,,Phone,,5.5
+A2022P,,Zte,,中兴 Axon 30 Ultra,,Phone,,5.5
+M2010J19SR,,Xiaomi,,Redmi 9T,,Phone,,5.5
+M2010J19ST,,Xiaomi,,Redmi 9T,,Phone,,5.5
+M2010J19SY,,Xiaomi,,Redmi 9T,,Phone,,5.5
+L75M7-EA,,Mitv,,小米电视 EA,,TV,,5.5
+L32R8-A,,Xiaomi,,Redmi 智能电视 A32 2022 款,,TV,,5.5
+RMX3063,,Realme,,realme C20,,Phone,,5.5
+K350t,,Lenovo,,联想 K5,,Phone,,5.5
+PAAT00,,Oppo,,OPPO R15 梦镜版,,Phone,,5.5
+BKL-TL10,,Honor,,荣耀 V10,,Phone,,5.5
+MOA-AL00,,Honor,,荣耀畅玩 9A,,Phone,,5.5
+M2104K19J XIG02,,Xiaomi,,Redmi Note 10 JE 日本版,,Phone,,5.5
+D2-5000,,Huawei,,华为 Ascend D2,,Phone,,5.5
+TA-1131,,Nokia,,Nokia X7,,Phone,,5.5
+KLVC-WAH9L,,Huawei,,HUAWEI MateBook 14,,PC,,5.5
+JSN-AL00a,,Honor,,荣耀 8X,,Phone,,5.5
+GT-I9508,,Samsung,,Galaxy S4,,Phone,,5.5
+AGS3-AL00,,Huawei,,华为畅享平板 2,,Pad,,5.5
+XT2125-4,,Motorola,,motorola edge s,,Phone,,5.5
+GT-I9500,,Samsung,,Galaxy S4,,Phone,,5.5
+GT-I9502,,Samsung,,Galaxy S4,,Phone,,5.5
+KPR-W19,,Honor,,荣耀 MagicBook 2019 锐龙版,,PC,,5.5
+L75M7-ES,,Mitv,,小米电视 ES,,TV,,5.5
+M575M,,Meizu,,魅族 MX5,,Phone,,5.5
+M575H,,Meizu,,魅族 MX5,,Phone,,5.5
+M575U,,Meizu,,魅族 MX5,,Phone,,5.5
+HUAWEI CAZ-TL20,,Huawei,,HUAWEI nova,,Phone,,5.5
+SM-A5070,,Samsung,,Galaxy A50s,,Phone,,5.5
+M032,,Meizu,,魅族 MX 四核,,Phone,,5.5
+PCKM00,,Oppo,,OPPO Reno2,,Phone,,5.5
+M031,,Meizu,,魅族 MX 双核,,Phone,,5.5
+M030,,Meizu,,魅族 MX 双核,,Phone,,5.5
+RMX3085,,Realme,,realme 8,,Phone,,5.5
+PBCT10,,Oppo,,OPPO R15x,,Phone,,5.5
+RMX3081,,Realme,,realme 8 Pro,,Phone,,5.5
+A2378,,Apple,,iPad Pro,,Pad,,5.5
+A2377,,Apple,,iPad Pro,,Pad,,5.5
+JER-AN10,,Huawei,,HUAWEI nova 7 Pro,,Phone,,5.5
+A2376,,Apple,,Apple Watch Series 6,,Phone,,5.5
+A2375,,Apple,,Apple Watch Series 6,,Phone,,5.5
+A2379,,Apple,,iPad Pro,,Pad,,5.5
+M040,,Meizu,,魅族 MX2,,Phone,,5.5
+PDBM00,,Oppo,,OPPO A8,,Phone,,5.5
+RMX3093,,Realme,,realme 真我 V15,,Phone,,5.5
+PAR-TL00,,Huawei,,HUAWEI nova 3,,Phone,,5.5
+RMX3092,,Realme,,realme 真我 V15,,Phone,,5.5
+M1803E6G,,Xiaomi,,红米 S2,,Phone,,5.5
+M1803E6E,,Xiaomi,,红米 S2,,Phone,,5.5
+M1803E6C,,Xiaomi,,红米 S2,,Phone,,5.5
+HUAWEI P2-0000,,Huawei,,华为 Ascend P2,,Phone,,5.5
+PCPT00,,Oppo,,OPPO A91,,Phone,,5.5
+SM-C9000,,Samsung,,Galaxy C9 Pro,,Phone,,5.5
+KLE-A0,,Xiaomi,,腾讯黑鲨游戏手机 3,,Phone,,5.5
+8692-M02,,360shouji,,360 手机奇酷旗舰版,,Phone,,5.5
+PCET00,,Oppo,,OPPO A9x,,Phone,,5.5
+SM-C9008,,Samsung,,Galaxy C9 Pro,,Phone,,5.5
+PE-TL10,,Honor,,荣耀 6 Plus,,Phone,,5.5
+SCL-TL00,,Honor,,荣耀 4A,,Phone,,5.5
+L65M5-AZ,,Mitv,,小米电视 4A,,TV,,5.5
+A2399,,Apple,,iPhone 12 mini,,Phone,,5.5
+KLVL-WFE9,,Huawei,,HUAWEI MateBook 14,,PC,,5.5
+A2398,,Apple,,iPhone 12 mini,,Phone,,5.5
+SHT-AL09,,Huawei,,华为平板 M5,,Pad,,5.5
+M578M,,Meizu,,魅蓝 2,,Phone,,5.5
+M881H,,Meizu,,魅族 15,,Phone,,5.5
+M1803E6I,,Xiaomi,,红米 S2,,Phone,,5.5
+M1803E6H,,Xiaomi,,红米 S2,,Phone,,5.5
+M578U,,Meizu,,魅蓝 2,,Phone,,5.5
+M881Q,,Meizu,,魅族 15,,Phone,,5.5
+M1803E6T,,Xiaomi,,红米 S2,,Phone,,5.5
+M881M,,Meizu,,魅族 15,,Phone,,5.5
+M045,,Meizu,,魅族 MX2,,Phone,,5.5
+MT1-U06,,Huawei,,华为 Ascend Mate,,Phone,,5.5
+L65M5-AA,,Mitv,,小米电视 3s,,TV,,5.5
+JER-AN20,,Huawei,,HUAWEI nova 7 Pro,,Phone,,5.5
+HEGE-560S,,Huawei,,华为智慧屏 V 系列,,TV,,5.5
+L65M5-AB,,Mitv,,小米电视 4,,TV,,5.5
+L65M5-AD,,Mitv,,小米电视 4A,,TV,,5.5
+HUAWEI NXT-TL00,,Huawei,,HUAWEI Mate 8,,Phone,,5.5
+L79041,,Lenovo,,联想 Z6 Pro 5G,,Phone,,5.5
+L79031,,Lenovo,,拯救者电竞手机 Pro,,Phone,,5.5
+CPN-W09,,Huawei,,华为平板 M3 青春版,,Pad,,5.5
+M882H,,Meizu,,魅族 16th,,Phone,,5.5
+22071212AG,,Xiaomi,,Xiaomi 12T,,Phone,,5.5
+HEGE-560B,,Huawei,,华为智慧屏 V 系列,,TV,,5.5
+M882Q,,Meizu,,魅族 16th,,Phone,,5.5
+MCI3B,,Xiaomi,,红米 5A,,Phone,,5.5
+M091M,,Meizu,,魅族 17 Pro,,Phone,,5.5
+M091Q,,Meizu,,魅族 17 Pro,,Phone,,5.5
+AUM-TL00,,Honor,,荣耀畅玩 7A,,Phone,,5.5
+NTS-AL00,,Honor,,荣耀 Magic,,Phone,,5.5
+HN3-U01,,Honor,,华为荣耀手机,,Phone,,5.5
+A1001,,Oneplus,,OnePlus One,,Phone,,5.5
+SM-J5108,,Samsung,,Galaxy J5,,Phone,,5.5
+NOP-AN00,,Huawei,,HUAWEI Mate 40 Pro+,,Phone,,5.5
+MED-AL00 MED-AL20,,Huawei,,华为畅享 10e,,Phone,,5.5
+M621M,,Meizu,,魅蓝 Note5,,Phone,,5.5
+A2341,,Apple,,iPhone 12 Pro,,Phone,,5.5
+L86M8-ES,,Xiaomi,,小米电视 ES Pro 86,,TV,,5.5
+M621H,,Meizu,,魅蓝 Note5,,Phone,,5.5
+M621Q,,Meizu,,魅蓝 Note5,,Phone,,5.5
+SCMR-AL09,,Huawei,,HUAWEI MatePad 10.8,,Pad,,5.5
+POT-TL00a,,Huawei,,华为畅享 9S,,Phone,,5.5
+A2325,,Apple,,iPad Air,,Pad,,5.5
+LRA-TL00,,Honor,,荣耀 20 青春版,,Phone,,5.5
+L70M4-AA,,Mitv,,小米电视 3,,TV,,5.5
+A2324,,Apple,,iPad Air,,Pad,,5.5
+L65M5-BH,,Mitv,,小米壁画电视,,TV,,5.5
+M1806E7TG,,Xiaomi,,红米 Note 6 Pro,,Phone,,5.5
+M1908C3XG,,Xiaomi,,Redmi Note 8T,,Phone,,5.5
+TNN-AN00,,Huawei,,华为麦芒 9,,Phone,,5.5
+AGS2-W09,,Huawei,,华为畅享平板,,Pad,,5.5
+A2356,,Apple,,Apple Watch SE,,Phone,,5.5
+A2355,,Apple,,Apple Watch SE,,Phone,,5.5
+SM-A5009,,Samsung,,Galaxy A5,,Phone,,5.5
+A2354,,Apple,,Apple Watch SE,,Watch,,5.5
+A2353,,Apple,,Apple Watch SE,,Watch,,5.5
+M1806E7TI,,Xiaomi,,红米 Note 6 Pro,,Phone,,5.5
+M1806E7TH,,Xiaomi,,红米 Note 6 Pro,,Phone,,5.5
+PEDM00,,Oppo,,OPPO Find X3,,Phone,,5.5
+AUM-TL20,,Honor,,荣耀畅玩 7A,,Phone,,5.5
+SM-A5000,,Samsung,,Galaxy A5,,Phone,,5.5
+LEX850,,Letv,,未知机型,,Phone,,5.5
+M2004J19AG,,Xiaomi,,Redmi 9,,Phone,,5.5
+L65M5-ES,,Mitv,,小米全面屏电视 Pro,,TV,,5.5
+WAS-AL00,,Huawei,,HUAWEI nova 青春版,,Phone,,5.5
+PE-TL20,,Honor,,荣耀 6 Plus,,Phone,,5.5
+MLA-UL00,,Huawei,,HUAWEI G9 Plus,,Phone,,5.5
+L65M5-EA,,Mitv,,小米全面屏电视,,TV,,5.5
+L65M5-EC,,Mitv,,小米全面屏电视,,TV,,5.5
+A2342,,Apple,,iPhone 12 Pro Max,,Phone,,5.5
+M621C,,Meizu,,魅蓝 Note5,,Phone,,5.5
+A2352,,Apple,,Apple Watch SE,,Phone,,5.5
+A2351,,Apple,,Apple Watch SE,,Phone,,5.5
+XT1581,,Motorola,,Moto X 极,,Phone,,5.5
+220733SPI,,Xiaomi,,POCO C50,,Phone,,5.5
+M1908C3JI,,Xiaomi,,Redmi Note 8,,Phone,,5.5
+SM-T220,,Samsung,,Galaxy Tab A7 Lite,,Phone,,5.5
+M1908C3JH,,Xiaomi,,Redmi Note 8,,Phone,,5.5
+M1908C3JG,,Xiaomi,,Redmi Note 8,,Phone,,5.5
+S-U06,,Huawei,,华为 Ascend P6S,,Phone,,5.5
+M1908C3JE,,Xiaomi,,Redmi Note 8,,Phone,,5.5
+HD75KANA,,Huawei,,华为智慧屏 S 系列,,TV,,5.5
+M1908C3JC,,Xiaomi,,Redmi Note 8,,Phone,,5.5
+L58M5-4A,,Mitv,,小米电视 4A,,TV,,5.5
+L58M5-4C,,Mitv,,小米电视 4S,,TV,,5.5
+A1203,,Apple,,iPhone,,Phone,,5.5
+HD75KANS,,Huawei,,华为智慧屏 S 系列,,TV,,5.5
+AGR-AL09HN,,Honor,,荣耀平板 X6,,Pad,,5.5
+HJC-AN90,,Honor,,荣耀 Play5,,Phone,,5.5
+2015562,,Xiaomi,,小米 4c,,Phone,,5.5
+M1908C3KI,,Xiaomi,,Redmi 8A,,Phone,,5.5
+2015561,,Xiaomi,,小米 4c,,Phone,,5.5
+M1908C3KH,,Xiaomi,,Redmi 8A,,Phone,,5.5
+M1908C3KG,,Xiaomi,,Redmi 8A,,Phone,,5.5
+M1908C3KE,,Xiaomi,,Redmi 8A,,Phone,,5.5
+22011211C,,Xiaomi,,Redmi K50 Pro,,Phone,,5.5
+HUAWEI P6-T00V,,Huawei,,华为 Ascend P6,,Phone,,5.5
+ARE-TL00,,Honor,,荣耀 8X Max,,Phone,,5.5
+SHT-W09,,Huawei,,华为平板 M5,,Pad,,5.5
+NCE-AL00 NCE-AL10,,Huawei,,华为畅享 6,,Phone,,5.5
+ZTE,,Zte,,中兴天机 7,,Phone,,5.5
+V2009A,,vivo,,vivo Y74s,,Phone,,5.5
+M2102K1AC,,Xiaomi,,小米 11 Pro,,Phone,,5.5
+A1219,,Apple,,iPad,,Pad,,5.5
+SM-T231,,Samsung,,Galaxy Tab4 7.0,,Phone,,5.5
+SM-T230,,Samsung,,Galaxy Tab4 7.0,,Phone,,5.5
+U9200,,Huawei,,华为 Ascend P1,,Phone,,5.5
+A1213,,Apple,,iPod touch,,Phone,,5.5
+SM-F7070,,Samsung,,Galaxy Z Flip 5G,,Phone,,5.5
+L55M4-AR,,Mitv,,小米电视 3,,TV,,5.5
+220233L2G,,Xiaomi,,Redmi 10A,,Phone,,5.5
+AUM-AL00,,Honor,,荣耀畅玩 7A,,Phone,,5.5
+L55M7-Z2,,Xiaomi,,小米电视 6 OLED 55 英寸,,TV,,5.5
+L55M7-Z1,,Mitv,,小米电视 6 至尊版,,TV,,5.5
+220233L2C,,Xiaomi,,Redmi 10A,,Phone,,5.5
+2207122MC,,Xiaomi,,Xiaomi 12 Pro 天玑版,,Phone,,5.5
+X900,,Letv,,乐 Max,,Phone,,5.5
+X906,,Letv,,乐 Max,,Phone,,5.5
+LIO-AN00,,Huawei,,HUAWEI Mate 30 Pro,,Phone,,5.5
+OXF-AN00,,Honor,,荣耀 V30,,Phone,,5.5
+V2136A,,vivo,,iQOO 8,,Phone,,5.5
+CAZ-TL10,,Huawei,,HUAWEI nova,,Phone,,5.5
+MAE136,,Xiaomi,,红米 4X,,Phone,,5.5
+KLVL-WFH9,,Huawei,,HUAWEI MateBook 14,,PC,,5.5
+HUAWEI RIO-CL00,,Huawei,,华为麦芒 4,,Phone,,5.5
+M2010J19CT,,Xiaomi,,POCO M3,,Phone,,5.5
+O77M8-MAS,,Xiaomi,,小米电视 大师 7,,TV,,5.5
+ATU-AL10,,Huawei,,华为畅享 8e,,Phone,,5.5
+M1908C3JGG,,Xiaomi,,Redmi Note 8,,Phone,,5.5
+NEO-AL00,,Huawei,,HUAWEI Mate RS 保时捷设计,,Phone,,5.5
+1809-A01,,360shouji,,360 手机 N7 Pro,,Phone,,5.5
+JDN-AL00,,Honor,,荣耀平板 2,,Pad,,5.5
+M2002J9R XIG01,,Xiaomi,,小米 10,,Phone,,5.5
+M2010J19CG,,Xiaomi,,POCO M3,,Phone,,5.5
+CAZ-TL20,,Huawei,,HUAWEI nova,,Phone,,5.5
+M2010J19CI,,Xiaomi,,POCO M3,,Phone,,5.5
+DIG-AL00,,Huawei,,华为畅享 6S,,Phone,,5.5
+AUM-AL20,,Honor,,荣耀畅玩 7A,,Phone,,5.5
+1503-A01,,360shouji,,360 手机 N4,,Phone,,5.5
+NX549J,,Nubia,,nubia Z11 miniS,,Phone,,5.5
+V2023EA,,vivo,,vivo Y50t,,Phone,,5.5
+V2005A,,Vivo,,vivo X50 Pro,,Phone,,5.5
+CHM-CL00,,Honor,,荣耀畅玩 4C,,Phone,,5.5
+M2101K6G,,Xiaomi,,Redmi Note 10 Pro,,Phone,,5.5
+BZC-AL00,,Huawei,,华为平板 C3,,Pad,,5.5
+X910,,Letv,,乐 Max Pro,,Phone,,5.5
+JKM-TL00,,Huawei,,华为畅享 9 Plus,,Phone,,5.5
+M2006C3LII,,Xiaomi,,Redmi 9A,,Phone,,5.5
+DLT-A0,,Xiaomi,,黑鲨游戏手机 2 Pro,,Phone,,5.5
+M2101K6R,,Xiaomi,,Redmi Note 10 Pro,,Phone,,5.5
+OXF-AN10,,Honor,,荣耀 V30 PRO,,Phone,,5.5
+2014218,,Xiaomi,,小米 4,,Phone,,5.5
+M2101K6P,,Xiaomi,,Redmi Note 10 Pro,,Phone,,5.5
+L55M4-AA,,Mitv,,小米电视 3,,TV,,5.5
+M2101K6T,,Xiaomi,,Redmi Note 10 Pro,,Phone,,5.5
+M2101K6I,,Xiaomi,,Redmi Note 10 Pro,,Phone,,5.5
+2014216,,Xiaomi,,小米 4,,Phone,,5.5
+220233L2I,,Xiaomi,,Redmi 10A,,Phone,,5.5
+2014215,,Xiaomi,,小米 4,,Phone,,5.5
+C8817D,,Honor,,荣耀畅玩 4,,Phone,,5.5
+M2101K7BG,,Xiaomi,,Redmi Note 10S,,Phone,,5.5
+L60M5-4A,,Mitv,,小米电视 4A,,TV,,5.5
+NTH-AN00,,Honor,,荣耀 50,,Phone,,5.5
+BDR-WFH9HN,,Honor,,荣耀 MagicBook 15 2021,,PC,,5.5
+HBB-WAH9PHNL,,Honor,,荣耀 MagicBook Pro 2020,,PC,,5.5
+V2132A,,vivo,,vivo X70t,,Phone,,5.5
+AWM-A0,,Xiaomi,,黑鲨游戏手机 Helo,,Phone,,5.5
+M2101K7AI,,Xiaomi,,Redmi Note 10,,Phone,,5.5
+SM-T290,,Samsung,,Galaxy Tab A,,Phone,,5.5
+JEF-TN00 JEF-TN20,,Huawei,,HUAWEI nova 7,,Phone,,5.5
+BV0800,,Zte,,中兴 Blade V8,,Phone,,5.5
+V1901A,,Vivo,,vivo Y3,,Phone,,5.5
+M2011K2G,,Xiaomi,,小米 11,,Phone,,5.5
+MDZ-21-AA,,Mitv,,小米盒子,,TV,,5.5
+MEE7S,,Xiaomi,,红米 Note 5,,Phone,,5.5
+SM-G9708,,Samsung,,Galaxy S10e,,Phone,,5.5
+V2133A,,vivo,,vivo X70,,Phone,,5.5
+M2011K2C,,Xiaomi,,小米 11,,Phone,,5.5
+BZT3-AL00,,Huawei,,华为平板 C5,,Pad,,5.5
+V1901T,,Vivo,,vivo Y3,,Phone,,5.5
+M2101K7BN,,Xiaomi,,Redmi Note 10S,,Phone,,5.5
+M2101K7BL,,Xiaomi,,Redmi Note 10S,,Phone,,5.5
+SM-G9700,,Samsung,,Galaxy S10e,,Phone,,5.5
+M8SE,,Meizu,,魅族 M8,,Phone,,5.5
+M2101K7BI,,Xiaomi,,Redmi Note 10S,,Phone,,5.5
+M2101K9C,,Xiaomi,,小米 11 青春版,,Phone,,5.5
+M2101K9G,,Xiaomi,,小米 11 青春版,,Phone,,5.5
+SM-P615C,,Samsung,,Galaxy Tab S6 Lite,,Phone,,5.5
+S8-701u,,Honor,,荣耀平板,,Pad,,5.5
+S8-701w,,Honor,,荣耀平板,,Pad,,5.5
+SM-G9650/DS,,Samsung,,Galaxy S9+,,Phone,,5.5
+V2134A,,vivo,,vivo X70 Pro,,Phone,,5.5
+CHL-AL60,,Huawei,,HUAWEI nova 8 SE 活力版,,Phone,,5.5
+SM-F7000,,Samsung,,Galaxy Z Flip,,Phone,,5.5
+LON-AL00,,Huawei,,HUAWEI Mate 9 Pro,,Phone,,5.5
+KLVD-WDH9,,Huawei,,HUAWEI MateBook 14,,PC,,5.5
+SCH-W799,,Samsung,,三星 W799,,Phone,,5.5
+V2001A,,Vivo,,vivo X50,,Phone,,5.5
+M2101K9R,,Xiaomi,,小米 11,,Phone,,5.5
+CDY-TN00 CDY-TN20,,Huawei,,HUAWEI nova 7 SE,,Phone,,5.5
+M2101K7AG,,Xiaomi,,Redmi Note 10,,Phone,,5.5
+M2001J1E M2001J1C,,Xiaomi,,小米 10 Pro,,Phone,,5.5
+M2006C3LVG,,Xiaomi,,Redmi 9A,,Phone,,5.5
+L40M2-AA,,Mitv,,小米电视 2,,TV,,5.5
+V2002A,,Vivo,,vivo Y51s,,Phone,,5.5
+PBDM00,,Oppo,,OPPO R17 Pro,,Phone,,5.5
+2015501,,Xiaomi,,小米 Note 顶配版,,Phone,,5.5
+SM-G9730,,Samsung,,Galaxy S10,,Phone,,5.5
+M2004J19PI,,Xiaomi,,POCO M2,,Phone,,5.5
+BV0850,,Zte,,中兴 Blade V8 mini,,Phone,,5.5
+L55R8-X,,Xiaomi,,Redmi 智能电视 X55 2022 款,,TV,,5.5
+M2105K81C,,Xiaomi,,小米平板 5 Pro,,Phone,,5.5
+SM-N9600,,Samsung,,Galaxy Note9,,Phone,,5.5
+RMX3201,,Realme,,realme C21,,Phone,,5.5
+RMX3202,,Realme,,realme C21,,Phone,,5.5
+RMX3203,,Realme,,realme C21,,Phone,,5.5
+BZD-AL00 BZD-AL10,,Huawei,,华为平板 C3,,Pad,,5.5
+FLA-TL10,,Huawei,,华为畅享 8 Plus,,Phone,,5.5
+SM-A8050,,Samsung,,Galaxy A80,,Phone,,5.5
+SM-G9738,,Samsung,,Galaxy S10,,Phone,,5.5
+L55R8-A,,Xiaomi,,Redmi 智能电视 A55 2022 款,,TV,,5.5
+M918H,,Meizu,,魅族 M10,,Phone,,5.5
+A2020N2,,Zte,,中兴天机 Axon 10 Pro,,Phone,,5.5
+PDSM00,,Oppo,,OPPO Reno5 Pro,,Phone,,5.5
+PDBT00,,Oppo,,OPPO A8,,Phone,,5.5
+VCE-TL00,,Huawei,,HUAWEI nova 4,,Phone,,5.5
+A6013,,Oneplus,,OnePlus 6T,,Phone,,5.5
+RNE-AL00,,Huawei,,HUAWEI 麦芒 6,,Phone,,5.5
+FLA-TL00,,Huawei,,华为畅享 8 Plus,,Phone,,5.5
+HUAWEI NXT-CL00,,Huawei,,HUAWEI Mate 8,,Phone,,5.5
+A6010,,Oneplus,,OnePlus 6T,,Phone,,5.5
+SM-G9750,,Samsung,,Galaxy S10+,,Phone,,5.5
+TEL-AN00a,,Honor,,荣耀 X10,,Phone,,5.5
+P7-L00,,Huawei,,华为 Ascend P7,,Phone,,5.5
+L65M5-5S,,Mitv,,小米电视 4S,,TV,,5.5
+PCKT00,,Oppo,,OPPO Reno2,,Phone,,5.5
+P7-L05,,Huawei,,华为 Ascend P7,,Phone,,5.5
+P7-L07,,Huawei,,华为 Ascend P7,,Phone,,5.5
+P7-L09,,Huawei,,华为 Ascend P7,,Phone,,5.5
+CAM-TL00H,,Honor,,荣耀畅玩 5A,,Phone,,5.5
+DLT-H0,,Xiaomi,,黑鲨游戏手机 2 Pro,,Phone,,5.5
+L65M5-5A,,Mitv,,小米电视 4A,,TV,,5.5
+V2130A,,vivo,,vivo S10e,,Phone,,5.5
+SCL-CL00,,Honor,,荣耀 4A,,Phone,,5.5
+PDHM00,,Oppo,,OPPO Ace2,,Phone,,5.5
+AGS2-AL00HN,,Honor,,荣耀平板 5,,Pad,,5.5
+SM-G9758,,Samsung,,Galaxy S10+,,Phone,,5.5
+JDN2-AL00 JDN2-AL50,,Huawei,,华为平板 M5,,Pad,,5.5
+M1908C3II,,Xiaomi,,Redmi 8,,Phone,,5.5
+L82M6-8KP,,Mitv,,小米电视 大师系列,,TV,,5.5
+A0722,,Zte,,中兴 Blade A4,,Phone,,5.5
+M1908C3IH,,Xiaomi,,Redmi 8,,Phone,,5.5
+M1908C3IG,,Xiaomi,,Redmi 8,,Phone,,5.5
+M1908C3IE,,Xiaomi,,Redmi 8,,Phone,,5.5
+M1908C3IC,,Xiaomi,,Redmi 8,,Phone,,5.5
+OS105,,Smartisan,,坚果 Pro 2,,Phone,,5.5
+L65M5-4X,,Mitv,,小米电视 4X,,TV,,5.5
+RMX3231,,Realme,,realme C11 2021,,Phone,,5.5
+OS103,,Smartisan,,坚果 Pro 2,,Phone,,5.5
+V2131A,,vivo,,iQOO Z5x,,Phone,,5.5
+L65M5-4C,,Mitv,,小米电视 4C,,TV,,5.5
+2201116PI,,Xiaomi,,POCO X4 Pro,,Phone,,5.5
+2201116PG,,Xiaomi,,POCO X4 Pro,,Phone,,5.5
+MYA-AL10,,Honor,,荣耀畅玩 6,,Phone,,5.5
+PGCM10,,OPPO,,OPPO K9x,,Phone,,5.5
+ALE-TL00,,Huawei,,HUAWEI P8 青春版,,Phone,,5.5
+RMX3121,,Realme,,realme 真我 V11,,Phone,,5.5
+RMX3122,,Realme,,realme 真我 V11,,Phone,,5.5
+1501-M02,,360shouji,,360 手机 F4,,Phone,,5.5
+RMX3116,,Realme,,realme 真我 X7 Pro 至尊版,,Phone,,5.5
+V2099A,,Vivo,,vivo Y30 2021,,Phone,,5.5
+L40M5-RA,,Mitv,,Redmi 红米电视,,TV,,5.5
+AQM-AL00,,Huawei,,华为畅享 10S,,Phone,,5.5
+MBT6A5,,Xiaomi,,红米 Note 4X,,Phone,,5.5
+2016090,,Xiaomi,,红米 4,,Phone,,5.5
+AQM-AL10,,Honor,,荣耀 Play4T Pro,,Phone,,5.5
+SM-A8000,,Samsung,,Galaxy A8,,Phone,,5.5
+HUAWEI CAZ-AL00,,Huawei,,HUAWEI nova,,Phone,,5.5
+RMX3142,,Realme,,realme 真我 Q3 Pro 狂欢版,,Phone,,5.5
+A6003,,Oneplus,,OnePlus 6,,Phone,,5.5
+A6000,,Oneplus,,OnePlus 6,,Phone,,5.5
+Nbl-WAQ9RP,,Huawei,,HUAWEI MateBook D 14,,PC,,5.5
+CAM-UL00,,Honor,,荣耀畅玩 5A,,Phone,,5.5
+Boh-WAE9HN,,Honor,,荣耀 MagicBook 15,,PC,,5.5
+M792C-L,,Meizu,,魅族 PRO 7,,Phone,,5.5
+BLN-AL10,,Honor,,荣耀畅玩 6X,,Phone,,5.5
+ALP-TL00,,Huawei,,HUAWEI Mate 10,,Phone,,5.5
+SM-N9608,,Samsung,,Galaxy Note9,,Phone,,5.5
+1707-A01,,360shouji,,360 手机 N6,,Phone,,5.5
+PEUM00,,OPPO,,OPPO Find N,,Phone,,5.5
+XT1662,,Motorola,,Moto M,,Phone,,5.5
+VNS-DL00,,Huawei,,HUAWEI G9 青春版,,Phone,,5.5
+TIT-AL00,,Huawei,,华为畅享 5,,Phone,,5.5
+RMX3161,,Realme,,realme 真我 Q3,,Phone,,5.5
+BLN-AL20,,Honor,,荣耀畅玩 6X,,Phone,,5.5
+2016060,,Xiaomi,,红米 4,,Phone,,5.5
+HUAWEI P6-T00,,Huawei,,华为 Ascend P6,,Phone,,5.5
+RMX3171,,Realme,,realme Narzo 30A,,Phone,,5.5
+2016051,,Xiaomi,,红米 Note 4,,Phone,,5.5
+2016050,,Xiaomi,,红米 Note 4,,Phone,,5.5
+HUAWEI P6-C00,,Huawei,,华为 Ascend P6,,Phone,,5.5
+BLN-AL30,,Honor,,荣耀畅玩 6X,,Phone,,5.5
+1701-M01,,360shouji,,360 手机 F5,,Phone,,5.5
+L50R6-A,,Mitv,,Redmi 红米电视,,TV,,5.5
+RTE-AL00,,Huawei,,HUAWEI nova 9 Pro,,Phone,,5.5
+TA-1000,,Nokia,,Nokia 6,,Phone,,5.5
+SM-C101,,Samsung,,Galaxy S4 Zoon,,Phone,,5.5
+PCKT80,,Oppo,,OPPO Reno2 Z,,Phone,,5.5
+2016089,,Xiaomi,,小米 5c,,Phone,,5.5
+BLN-AL40,,Honor,,荣耀畅玩 6X,,Phone,,5.5
+HBL-W19L,,Honor,,荣耀 MagicBook Pro,,PC,,5.5
+V1732A,,Vivo,,vivo Y81,,Phone,,5.5
+NbB-WAH9P,,Huawei,,HUAWEI MateBook D 14,,PC,,5.5
+2016080,,Xiaomi,,小米 MIX,,Phone,,5.5
+M1903F11I,,Xiaomi,,Redmi K20 Pro,,Phone,,5.5
+M1903F11G,,Xiaomi,,小米 9T Pro,,Phone,,5.5
+V1732T,,Vivo,,vivo Y81,,Phone,,5.5
+M1903F11A,,Xiaomi,,Redmi K20 Pro,,Phone,,5.5
+VCE-AL00,,Huawei,,HUAWEI nova 4,,Phone,,5.5
+P2-0000,,Huawei,,华为 Ascend P2,,Phone,,5.5
+M1903F11C,,Xiaomi,,Redmi K20 Pro,,Phone,,5.5
+RMX3193,,Realme,,realme C25,,Phone,,5.5
+RMX3191,,Realme,,realme C25,,Phone,,5.5
+2016070,,Xiaomi,,小米 5s Plus,,Phone,,5.5
+BZA-L00,,Huawei,,华为平板 C3,,Pad,,5.5
+VLR-W09L,,Honor,,荣耀 MagicBook 2019,,PC,,5.5
+M1908C3JG M1908C3JH,,Xiaomi,,Redmi Note 8,,Phone,,5.5
+2016020,,Xiaomi,,红米 Pro,,Phone,,5.5
+2016021,,Xiaomi,,红米 Pro,,Phone,,5.5
+M2001G7AC,,Xiaomi,,Redmi K30 5G,,Phone,,5.5
+NbD-WFE9,,Huawei,,HUAWEI MateBook D 14,,PC,,5.5
+CET-AL60,,Huawei,,HUAWEI Mate 50E,,Phone,,5.5
+1605-A01,,360shouji,,360 手机 N5,,Phone,,5.5
+BAH2-AL10,,Huawei,,华为平板 M5 青春版,,Pad,,5.5
+M871H,,Meizu,,魅族 M15,,Phone,,5.5
+TET-AL00,,Huawei,,HUAWEI Mate X2,,Phone,,5.5
+M871Q,,Meizu,,魅族 M15,,Phone,,5.5
+G6-U00,,Huawei,,华为 Ascend G6,,Phone,,5.5
+BKK-AL00,,Honor,,荣耀畅玩 8C,,Phone,,5.5
+VIE-AL10,,Huawei,,HUAWEI P9 Plus,,Phone,,5.5
+SCH-W2013,,Samsung,,三星 W2013,,Phone,,5.5
+M2006C3MII,,Xiaomi,,Redmi 9,,Phone,,5.5
+M1810E5GG,,Xiaomi,,小米 MIX 3 5G,,Phone,,5.5
+SM919,,Smartisan,,Smartisan M1L,,Phone,,5.5
+1605-A02,,360shouji,,360 手机 N5,,Phone,,5.5
+M872H,,Meizu,,魅族 16 X,,Phone,,5.5
+LOK-360S,,Honor,,荣耀智慧屏 X1,,TV,,5.5
+KLVC-WFE9L,,Huawei,,HUAWEI MateBook 14,,PC,,5.5
+M872Q,,Meizu,,魅族 16 X,,Phone,,5.5
+BKK-AL10,,Honor,,荣耀畅玩 8C,,Phone,,5.5
+VRD-W09,,Huawei,,华为平板 M6,,Pad,,5.5
+L75M7-Z1,,Mitv,,小米电视 6 至尊版,,TV,,5.5
+U8860,,Honor,,华为荣耀手机,,Phone,,5.5
+LOK-360C,,Honor,,荣耀智慧屏 X1,,TV,,5.5
+XT1943-1,,Motorola,,motorola p30,,Phone,,5.5
+2016031,,Xiaomi,,红米 3S,,Phone,,5.5
+2016030,,Xiaomi,,红米 3S,,Phone,,5.5
+MRD-TL00,,Huawei,,华为畅享 9e,,Phone,,5.5
+HRY-TL00,,Honor,,荣耀 10 青春版,,Phone,,5.5
+V1818CA,,Vivo,,vivo Y91,,Phone,,5.5
+2016035,,Xiaomi,,红米 3X,,Phone,,5.5
+2016033,,Xiaomi,,红米 3X,,Phone,,5.5
+2016032,,Xiaomi,,红米 3S,,Phone,,5.5
+VRD-W10,,Huawei,,华为平板 M6,,Pad,,5.5
+V1818CT,,Vivo,,vivo Y91,,Phone,,5.5
+DAV-703L DAV-713L,,Huawei,,华为 P8 Max,,Phone,,5.5
+DUB-TL00,,Huawei,,华为畅享 9,,Phone,,5.5
+2016037,,Xiaomi,,红米 3S,,Phone,,5.5
+2016036,,Xiaomi,,红米 3X,,Phone,,5.5
+2201116TI,,Xiaomi,,Redmi Note 11 Pro,,Phone,,5.5
+PAK-AL09,,Huawei,,HUAWEI MateBook E,,PC,,5.5
+SPN-AL00,,Huawei,,HUAWEI nova 5i Pro,,Phone,,5.5
+2201116TG,,Xiaomi,,Redmi Note 11 Pro,,Phone,,5.5
+L40M5-FA,,Mitv,,小米全面屏电视,,TV,,5.5
+A680Q,,Meizu,,魅蓝 E,,Phone,,5.5
+A2459,,Apple,,iPad Pro,,Pad,,5.5
+A680M,,Meizu,,魅蓝 E,,Phone,,5.5
+B199,,Huawei,,华为麦芒 B199,,Phone,,5.5
+A2462,,Apple,,iPad Pro,,Pad,,5.5
+A2461,,Apple,,iPad Pro,,Pad,,5.5
+A2460,,Apple,,iPad Pro,,Pad,,5.5
+L60M5-AA,,Mitv,,小米电视 3s,,TV,,5.5
+PLE-703L,,Huawei,,华为揽阅 M2 青春版,,Phone,,5.5
+2201116SI,,Xiaomi,,Redmi Note 11 Pro+,,Phone,,5.5
+2201116SG,,Xiaomi,,Redmi Note 11 Pro,,Phone,,5.5
+V1938CT,,Vivo,,vivo X30,,Phone,,5.5
+HUAWEI CAZ-AL10,,Huawei,,HUAWEI nova,,Phone,,5.5
+HN-W19R,,Huawei,,HUAWEI MateBook 13 锐龙版,,PC,,5.5
+M611H,,Meizu,,魅蓝 5,,Phone,,5.5
+HN-W19L,,Huawei,,HUAWEI MateBook 13 锐龙版,,PC,,5.5
+M611D,,Meizu,,魅蓝 5,,Phone,,5.5
+M611A,,Meizu,,魅蓝 5,,Phone,,5.5
+2201116SC,,Xiaomi,,Redmi Note 11E Pro,,Phone,,5.5
+M2011J18C,,Xiaomi,,MIX FOLD,,Phone,,5.5
+V1938CA,,Vivo,,vivo X30,,Phone,,5.5
+KIW-TL00H,,Honor,,荣耀畅玩 5X,,Phone,,5.5
+220743FI,,Xiaomi,,Redmi A1+,,Phone,,5.5
+A680H,,Meizu,,魅蓝 E,,Phone,,5.5
+HEGE-550B,,Huawei,,华为智慧屏 V 系列,,TV,,5.5
+2201116SR,,Xiaomi,,Redmi Note 11 Pro,,Phone,,5.5
+Hol-U10,,Honor,,荣耀 3C 畅玩版,,Phone,,5.5
+V1990A,,Vivo,,vivo Z5x,,Phone,,5.5
+2016002,,Xiaomi,,小米 Max,,Phone,,5.5
+2016001,,Xiaomi,,小米 Max,,Phone,,5.5
+CET-AL00,,Huawei,,HUAWEI Mate 50,,Phone,,5.5
+M741A,,Meizu,,魅蓝 E2,,Phone,,5.5
+BBR-WAI9,,Honor,,荣耀 MagicBook X 15,,PC,,5.5
+HUAWEI MT7-UL00,,Huawei,,华为 Ascend Mate 7,,Phone,,5.5
+A2484,,Apple,,iPhone 13 Pro Max,,Phone,,5.5
+SM901,,Smartisan,,Smartisan M1,,Phone,,5.5
+A2483,,Apple,,iPhone 13 Pro,,Phone,,5.5
+A2482,,Apple,,iPhone 13,,Phone,,5.5
+A2481,,Apple,,iPhone 13 mini,,Phone,,5.5
+NbD-WFH9,,Huawei,,HUAWEI MateBook D 14,,PC,,5.5
+2016007,,Xiaomi,,小米 Max,,Phone,,5.5
+ANE-TL00,,Huawei,,HUAWEI nova 3e,,Phone,,5.5
+M1904F3BT,,Xiaomi,,小米 CC9,,Phone,,5.5
+M741Y,,Meizu,,魅蓝 E2,,Phone,,5.5
+NX541J,,Nubia,,nubia N1,,Phone,,5.5
+BBR-WAH9,,Honor,,荣耀 MagicBook X 15,,PC,,5.5
+M1904F3BG,,Xiaomi,,小米 9 Lite,,Phone,,5.5
+D2-0082,,Huawei,,华为 Ascend D2,,Phone,,5.5
+LEX720,,Letv,,乐 Pro 3,,Phone,,5.5
+MOA-TL00,,Honor,,荣耀畅玩 9A,,Phone,,5.5
+M2001G7AE,,Xiaomi,,Redmi K30 5G,,Phone,,5.5
+LEX726,,Letv,,乐 Pro 3,,Phone,,5.5
+LEX728,,Letv,,乐 Pro 3,,Phone,,5.5
+NXT-CL00,,Huawei,,HUAWEI Mate 8,,Phone,,5.5
+WRTB-WAH9L,,Huawei,,HUAWEI MateBook 13,,PC,,5.5
+LEX722,,Letv,,乐 Pro 3,,Phone,,5.5
+M1904F3BC,,Xiaomi,,小米 CC9,,Phone,,5.5
+IPHONE1,2,,Apple,,iPhone 3G,,Phone,,5.5
+IPHONE2,1,,Apple,,iPhone 3GS,,Phone,,5.5
+IPHONE3,1,,Apple,,iPhone 4,,Phone,,5.5
+IPHONE3,2,,Apple,,iPhone 4,,Phone,,5.5
+IPHONE3,3,,Apple,,iPhone 4,,Phone,,5.5
+IPHONE4,1,,Apple,,iPhone 4S,,Phone,,5.5
+IPHONE5,1,,Apple,,iPhone 5,,Phone,,5.5
+IPHONE5,2,,Apple,,iPhone 5,,Phone,,5.5
+IPHONE5,3,,Apple,,iPhone 5C,,Phone,,5.5
+IPHONE5,4,,Apple,,iPhone 5C,,Phone,,5.5
+IPHONE6,1,,Apple,,iPhone 5S,,Phone,,5.5
+IPHONE6,2,,Apple,,iPhone 5S,,Phone,,5.5
+IPHONE7,1,,Apple,,iPhone 6 Plus,,Phone,,5.5
+IPHONE7,2,,Apple,,iPhone 6,,Phone,,5.5
+IPHONE8,1,,Apple,,iPhone 6s,,Phone,,5.5
+IPHONE8,2,,Apple,,iPhone 6s Plus,,Phone,,5.5
+IPHONE8,4,,Apple,,iPhone SE,,Phone,,5.5
+IPHONE9,1,,Apple,,iPhone 7,,Phone,,5.5
+IPHONE9,2,,Apple,,iPhone 7 Plus,,Phone,,5.5
+IPHONE9,3,,Apple,,iPhone 7,,Phone,,5.5
+IPHONE9,4,,Apple,,iPhone 7 Plus,,Phone,,5.5
+IPHONE10,1,,Apple,,iPhone 8,,Phone,,5.5
+IPHONE10,2,,Apple,,iPhone 8 Plus,,Phone,,5.5
+IPHONE10,3,,Apple,,iPhone X,,Phone,,5.5
+IPHONE10,4,,Apple,,iPhone 8,,Phone,,5.5
+IPHONE10,5,,Apple,,iPhone 8 Plus,,Phone,,5.5
+IPHONE10,6,,Apple,,iPhone X,,Phone,,5.5
+IPHONE11,2,,Apple,,iPhone XS,,Phone,,5.5
+IPHONE11,4,,Apple,,iPhone XS Max,,Phone,,5.5
+IPHONE11,6,,Apple,,iPhone XS Max,,Phone,,5.5
+IPHONE11,8,,Apple,,iPhone XR,,Phone,,5.5
+IPHONE12,1,,Apple,,iPhone 11,,Phone,,5.5
+IPHONE12,3,,Apple,,iPhone 11 Pro,,Phone,,5.5
+IPHONE12,5,,Apple,,iPhone 11 Pro Max,,Phone,,5.5
+IPHONE12,8,,Apple,,iPhone SE 2nd Gen,,Phone,,5.5
+IPHONE13,1,,Apple,,iPhone 12 Mini,,Phone,,5.5
+IPHONE13,2,,Apple,,iPhone 12,,Phone,,5.5
+IPHONE13,3,,Apple,,iPhone 12 Pro,,Phone,,5.5
+IPHONE13,4,,Apple,,iPhone 12 Pro Max,,Phone,,5.5
+IPHONE14,2,,Apple,,iPhone 13 Pro,,Phone,,5.5
+IPHONE14,3,,Apple,,iPhone 13 Pro Max,,Phone,,5.5
+IPHONE14,4,,Apple,,iPhone 13 Mini,,Phone,,5.5
+IPHONE14,5,,Apple,,iPhone 13,,Phone,,5.5
+IPHONE14,6,,Apple,,iPhone SE 3rd Gen,,Phone,,5.5
+IPHONE14,7,,Apple,,iPhone 14,,Phone,,5.5
+IPHONE14,8,,Apple,,iPhone 14 Plus,,Phone,,5.5
+IPHONE15,2,,Apple,,iPhone 14 Pro,,Phone,,5.5
+IPHONE15,3,,Apple,,iPhone 14 Pro Max,,Phone,,5.5
+ADT-AN00,,HONOR,,荣耀 X40 GT,,PHONE,,5.5
+AGT-AN00,,HONOR,,荣耀 80 GT,,PHONE,,5.5
+ANB-AN00,,HONOR,,荣耀 80 PRO,,PHONE,,5.5
+ANN-AN00,,HONOR,,荣耀 80,,PHONE,,5.5
+ANP-AN00,,HONOR,,荣耀 80 PRO,,PHONE,,5.5
+ANY-AN00,,HONOR,,荣耀 X30,,PHONE,,5.5
+BRT-AN09,,HONOR,,荣耀平板 V7 PRO ,,PHONE,,5.5
+CHL-AL00,,HONOR,,荣耀 PLAY5T PRO,,PHONE,,5.5
+CHL-AN00,,HONOR,,荣耀 X20 SE,,PHONE,,5.5
+CMA-AN00,,HONOR,,荣耀畅玩 30 PLUS,,PHONE,,5.5
+CMA-AN40,,HONOR,,荣耀 PLAY6T,,PHONE,,5.5
+DIO-AN00,,HONOR,,荣耀 PLAY7T PRO,,PHONE,,5.5
+ELZ-AN00,,HONOR,,荣耀 MAGIC3,,PHONE,,5.5
+ELZ-AN10,,HONOR,,荣耀 MAGIC3 PRO,,PHONE,,5.5
+ELZ-AN20,,HONOR,,荣耀 MAGIC3,,PHONE,,5.5
+FNE-AN00,,HONOR,,荣耀 70,,PHONE,,5.5
+FRI-AN00,,HONOR,,荣耀 MAGIC VS,,PHONE,,5.5
+GIA-AN00,,HONOR,,荣耀 60 SE,,PHONE,,5.5
+GIA-AN80,,HONOR,,荣耀 80 SE,,PHONE,,5.5
+HEY-W09,,HONOR,,荣耀平板 8,,PHONE,,5.5
+KKG-AN70,,HONOR,,荣耀 X30 MAX,,PHONE,,5.5
+KRJ2-W09,,HONOR,,荣耀平板 V7,,PHONE,,5.5
+LGE-AN00,,HONOR,,荣耀 MAGIC4,,PHONE,,5.5
+LGE-AN10,,HONOR,,荣耀 MAGIC4 PRO,,PHONE,,5.5
+LGE-AN20,,HONOR,,荣耀 MAGIC4,,PHONE,,5.5
+LSA-AN00,,HONOR,,荣耀 60,,PHONE,,5.5
+MGI-AN00,,HONOR,,荣耀 MAGIC V,,PHONE,,5.5
+NEW-AN90,,HONOR,,荣耀 PLAY5,,PHONE,,5.5
+NTN-AN20,,HONOR,,荣耀 X20,,PHONE,,5.5
+PGT-AN00,,HONOR,,荣耀 MAGIC5,,PHONE,,5.5
+PGT-AN10,,HONOR,,荣耀 MAGIC5 PRO,,PHONE,,5.5
+REA-AN00,,HONOR,,荣耀 90,,PHONE,,5.5
+REP-AN00,,HONOR,,荣耀 90 PRO,,PHONE,,5.5
+RKY-AN00,,HONOR,,荣耀畅玩 40 PLUS,,PHONE,,5.5
+RMO-AN00,,HONOR,,荣耀 X40,,PHONE,,5.5
+ROD-W09,,HONOR,,荣耀平板 V8 PRO,,PHONE,,5.5
+SDY-AN00,,HONOR,,荣耀 70 PRO,,PHONE,,5.5
+TFY-AN00,,HONOR,,荣耀 X30I,,PHONE,,5.5
+TFY-AN40,,HONOR,,荣耀 PLAY6T PRO,,PHONE,,5.5
+TNA-AN00,,HONOR,,荣耀 60 PRO,,PHONE,,5.5
+VNE-AN00,,HONOR,,荣耀畅玩 30,,PHONE,,5.5
+VNE-AN40,,HONOR,,荣耀 PLAY6C,,PHONE,,5.5
+ABR-AL00,,HUAWEI,,HUAWEI P50,,PHONE,,5.5
+ABR-AL60,,HUAWEI,,HUAWEI P50E,,PHONE,,5.5
+ABR-AL80,,HUAWEI,,HUAWEI P50,,PHONE,,5.5
+ABR-AL90,,HUAWEI,,HUAWEI P50E,,PHONE,,5.5
+AGS3K-W10,,HUAWEI,,华为畅享平板 2,,PHONE,,5.5
+AGS5-W00,,HUAWEI,,HUAWEI MATEPAD SE,,PHONE,,5.5
+BAH4-W09,,HUAWEI,,HUAWEI MATEPAD,,PHONE,,5.5
+BAH4-W29,,HUAWEI,,HUAWEI MATEPAD,,PHONE,,5.5
+BAH4-W39,,HUAWEI,,HUAWEI MATEPAD,,PHONE,,5.5
+BAL-AL60,,HUAWEI,,HUAWEI POCKET S,,PHONE,,5.5
+BNE-AL00,,HUAWEI,,HUAWEI NOVA 10 SE,,PHONE,,5.5
+EVE-AL00,,HUAWEI,,华为畅享 50Z,,PHONE,,5.5
+FOA-AL00,,HUAWEI,,HUAWEI NOVA 11,,PHONE,,5.5
+GOA-AL80,,HUAWEI,,HUAWEI NOVA 11 PRO,,PHONE,,5.5
+JAD-AL00,,HUAWEI,,HUAWEI P50 PRO,,PHONE,,5.5
+JAD-AL80,,HUAWEI,,HUAWEI P50 PRO,,PHONE,,5.5
+LNA-AL00,,HUAWEI,,HUAWEI P60,,PHONE,,5.5
+MGA-AL40,,HUAWEI,,华为畅享 60,,PHONE,,5.5
+MNA-AL00,,HUAWEI,,HUAWEI P60 ART,,PHONE,,5.5
+NOH-AL10,,HUAWEI,,HUAWEI MATE 40 PRO 4G,,PHONE,,5.5
+PAL-AL00,,HUAWEI,,HUAWEI MATE XS 2,,PHONE,,5.5
+STG-AL00,,HUAWEI,,华为畅享 60X,,PHONE,,5.5
+PECM20,,OPPO,,OPPO A53,,PHONE,,5.5
+PFUM10,,OPPO,,OPPO A96,,PHONE,,5.5
+PGT110,,OPPO,,OPPO FIND N2 FLIP,,PHONE,,5.5
+PGU110,,OPPO,,OPPO FIND N2,,PHONE,,5.5
+PGW110,,OPPO,,OPPO RENO9 PRO+,,PHONE,,5.5
+PGX110,,OPPO,,OPPO RENO9 PRO,,PHONE,,5.5
+PHA120,,OPPO,,OPPO A96,,PHONE,,5.5
+PHQ110,,OPPO,,OPPO A1 PRO,,PHONE,,5.5
+PHS110,,OPPO,,OPPO A1 (2023),,PHONE,,5.5
+PHU110,,OPPO,,OPPO RENO10 PRO+,,PHONE,,5.5
+PHV110,,OPPO,,OPPO RENO10 PRO,,PHONE,,5.5
+PHW110,,OPPO,,OPPO RENO10,,PHONE,,5.5
+V2156FA,,VIVO,,VIVO Y76S,,PHONE,,5.5
+V2230A,,VIVO,,VIVO Y35,,PHONE,,5.5
+V2231A,,VIVO,,IQOO NEO7,,PHONE,,5.5
+V2232A,,VIVO,,IQOO NEO7,,PHONE,,5.5
+V2238A,,VIVO,,IQOO NEO7 SE,,PHONE,,5.5
+V2239A,,VIVO,,VIVO S16E,,PHONE,,5.5
+V2241A,,VIVO,,VIVO X90,,PHONE,,5.5
+V2241A__WEIBO__13,,VIVO,,VIVO X90,,PHONE,,5.5
+V2243A,,VIVO,,IQOO 11,,PHONE,,5.5
+V2243A__WEIBO__13,,VIVO,,IQOO 11,,PHONE,,5.5
+V2244A,,VIVO,,VIVO S16,,PHONE,,5.5
+V2244A__WEIBO__13,,VIVO,,VIVO S16,,PHONE,,5.5
+V2245A,,VIVO,,VIVO S16 PRO,,PHONE,,5.5
+V2271A,,VIVO,,VIVO Y78+,,PHONE,,5.5
+SM-S9180,,Samsung,,Samsung Galaxy S23 Ultra,,Phone,,5.5
